@@ -1,0 +1,703 @@
+Id: 30500, Name: XM5E1 "Maplestrike", Selling: 6000.00
+Id: 30501, Name: Iron Sights, Selling: 0.00
+Id: 30502, Name: XM5E1 Stock, Selling: 0.00
+Id: 30503, Name: XM5E1 "Maplestrike" SOP1, Selling: 0.00
+Id: 30504, Name: Navy Stock, Selling: 0.00
+Id: 30505, Name: XM5E1 "Maplestrike" SOP2, Selling: 0.00
+Id: 30506, Name: Navy Stock, Selling: 0.00
+Id: 30507, Name: AR-16 "Skullcrusher", Selling: 9000.00
+Id: 30508, Name: Skinner Soild Stock, Selling: 0.00
+Id: 30509, Name: CAR-825 Al-Haitham, Selling: 0.00
+Id: 30510, Name: Desert Raider Stock, Selling: 0.00
+Id: 30511, Name: AZ-102 "Timiknakov", Selling: 10000.00
+Id: 30512, Name: Zhrek-M Polymer Stock, Selling: 0.00
+Id: 30513, Name: AZ-102 "Timiknakov" Summit, Selling: 0.00
+Id: 30514, Name: Summit PT-3 Stock, Selling: 0.00
+Id: 30515, Name: AZ-79M "Zolashnakov", Selling: 3000.00
+Id: 30516, Name: Zhrek-M Polymer Stock, Selling: 0.00
+Id: 30517, Name: AZ-79M "Zolashnakov" Hex, Selling: 0.00
+Id: 30518, Name: Hexagon Stock, Selling: 0.00
+Id: 30519, Name: SAR "Valentine", Selling: 7000.00
+Id: 30520, Name: Valentine Skeleton Stock, Selling: 0.00
+Id: 30521, Name: SAR "Valentine" Summit, Selling: 12000.00
+Id: 30522, Name: ENSAS "Excalibur", Selling: 7000.00
+Id: 30523, Name: ENSAS Polymer Stock, Selling: 0.00
+Id: 30524, Name: NUG-P, Selling: 7000.00
+Id: 30525, Name: NUG-A3, Selling: 9000.00
+Id: 30526, Name: Uzy "Bullfrog", Selling: 0.00
+Id: 30527, Name: M1923 "Tommie", Selling: 0.00
+Id: 30528, Name: AZS-79U "Krinknakov", Selling: 0.00
+Id: 30529, Name: Zhrek Skeleton Stock, Selling: 0.00
+Id: 30530, Name: PPZ-20 "Yurinakov", Selling: 0.00
+Id: 30531, Name: M93 "Trencher", Selling: 1000.00
+Id: 30532, Name: GPAS-14 "Breacher", Selling: 1500.00
+Id: 30533, Name: AL-E "Libitina", Selling: 0.00
+Id: 30534, Name: AL Military Stock, Selling: 0.00
+Id: 30535, Name: Arctic Legion Stock, Selling: 0.00
+Id: 30536, Name: M76 "Arbiter", Selling: 0.00
+Id: 30537, Name: XM21A "Executioner", Selling: 7000.00
+Id: 30538, Name: Redfield National Match Stock, Selling: 0.00
+Id: 30539, Name: Skinner EBR Stock, Selling: 0.00
+Id: 30540, Name: AG-V45 Al-Yaqub, Selling: 0.00
+Id: 30541, Name: Al-Yaqub Standard Stock, Selling: 0.00
+Id: 30542, Name: Al-Yaqub Modernized Stock, Selling: 0.00
+Id: 30543, Name: BR-16 "Willow", Selling: 0.00
+Id: 30544, Name: Iron Sights, Selling: 0.00
+Id: 30545, Name: Iron Sights, Selling: 0.00
+Id: 30546, Name: Skinner Heavy Stock, Selling: 0.00
+Id: 30547, Name: R10 "Richmond", Selling: 10000.00
+Id: 30548, Name: Iron Sights, Selling: 0.00
+Id: 30549, Name: LAR-58 "Weasel", Selling: 0.00
+Id: 30550, Name: LAR-58 "Weasel" OSW, Selling: 0.00
+Id: 30551, Name: MG43V "Knochensage", Selling: 7000.00
+Id: 30552, Name: PZMN "Colddew", Selling: 7000.00
+Id: 30553, Name: PZMN Stable Stock, Selling: 0.00
+Id: 30554, Name: PZMN "Colddew" Summit, Selling: 7000.00
+Id: 30555, Name: SAR Silencer, Selling: 0.00
+Id: 30556, Name: Iron Sights, Selling: 0.00
+Id: 36001, Name: UPhone XV, Selling: 0.00
+Id: 36002, Name: Grenade Launcher, Selling: 0.00
+Id: 36003, Name: Barbed Wire, Selling: 55.00
+Id: 36004, Name: Frost Barbed Wire Static #2, Selling: 0.00
+Id: 36005, Name: Frost Barbed Wire Static #1, Selling: 0.00
+Id: 36006, Name: Smoke Grenade, Selling: 0.00
+Id: 36007, Name: Handheld Rangefinder, Selling: 0.00
+Id: 36008, Name: 2000m range, Selling: 0.00
+Id: 36009, Name: Copper Coil, Selling: 0.00
+Id: 36010, Name: Industrial Copper Coil, Selling: 0.00
+Id: 36011, Name: Scrap Metal, Selling: 50.00
+Id: 36012, Name: Military Drive, Selling: 0.00
+Id: 36013, Name: 57mm Cannon, Selling: 0.00
+Id: 36014, Name: 57mm Shells, Selling: 0.00
+Id: 36015, Name: Polaris Rose, Selling: 0.00
+Id: 36016, Name: Wood, Selling: 15.00
+Id: 36017, Name: Cyan Crystal, Selling: 0.00
+Id: 36018, Name: Helmet, Selling: 100.00
+Id: 36019, Name: Vest, Selling: 0.00
+Id: 36020, Name: Boss Top, Selling: 100.00
+Id: 36021, Name: Snowberry, Selling: 30.00
+Id: 36022, Name: Crushed Snowberry, Selling: 60.00
+Id: 36023, Name: Snowberry Seeds, Selling: 15.00
+Id: 36024, Name: Carrot, Selling: 30.00
+Id: 36025, Name: Carrot Seeds, Selling: 15.00
+Id: 36026, Name: Wheat, Selling: 0.00
+Id: 36027, Name: Wheat Seeds, Selling: 15.00
+Id: 36028, Name: Axe, Selling: 100.00
+Id: 36029, Name: Wooden Pickaxe, Selling: 80.00
+Id: 36030, Name: Wooden Axe, Selling: 80.00
+Id: 36031, Name: Military Nightvision, Selling: 300.00
+Id: 36032, Name: Pickaxe, Selling: 100.00
+Id: 36033, Name: Loaf of Bread, Selling: 0.00
+Id: 36034, Name: Moldy Loaf of Bread, Selling: 0.00
+Id: 36035, Name: Fishing Rod, Selling: 200.00
+Id: 36036, Name: Wooden Rod, Selling: 75.00
+Id: 36037, Name: Seaward Fisher, Selling: 400.00
+Id: 36038, Name: Chainsaw, Selling: 120.00
+Id: 36039, Name: Jackhammer, Selling: 180.00
+Id: 36040, Name: Sharpsman Rod, Selling: 0.00
+Id: 36041, Name: Gasmask, Selling: 0.00
+Id: 36042, Name: Military Vest, Selling: 200.00
+Id: 36043, Name: Military Helmet, Selling: 100.00
+Id: 36044, Name: Military Top, Selling: 80.00
+Id: 36045, Name: Cloth, Selling: 15.00
+Id: 36046, Name: Military Bottom, Selling: 55.00
+Id: 36047, Name: Balaclava, Selling: 30.00
+Id: 36048, Name: Military Backpack, Selling: 400.00
+Id: 36049, Name: Filter , Selling: 0.00
+Id: 36050, Name: Broken Gasmask, Selling: 0.00
+Id: 36051, Name: Glasses, Selling: 25.00
+Id: 36052, Name: Police Vest, Selling: 120.00
+Id: 36053, Name: Police Helmet, Selling: 70.00
+Id: 36054, Name: Police Backpack, Selling: 100.00
+Id: 36055, Name: Police Bottom, Selling: 50.00
+Id: 36056, Name: Police Top, Selling: 70.00
+Id: 36057, Name: Snorkel, Selling: 75.00
+Id: 36058, Name: Snorkel, Selling: 75.00
+Id: 36059, Name: Snorkel, Selling: 75.00
+Id: 36060, Name: Snorkel, Selling: 75.00
+Id: 36061, Name: Snorkel, Selling: 75.00
+Id: 36062, Name: Diving Tank, Selling: 0.00
+Id: 36064, Name: Message in a Bottle, Selling: 0.00
+Id: 36065, Name: Torn Note, Selling: 20.00
+Id: 36066, Name: Raw Fish Meat, Selling: 10.00
+Id: 36067, Name: Cooked Fish Meat, Selling: 25.00
+Id: 36068, Name: Sakhalin Fish, Selling: 0.00
+Id: 36069, Name: Highland Fish, Selling: 0.00
+Id: 36070, Name: Clownfish, Selling: 0.00
+Id: 36071, Name: Goldfish, Selling: 0.00
+Id: 36072, Name: Black Sakana, Selling: 0.00
+Id: 36073, Name: Trout, Selling: 0.00
+Id: 36074, Name: Salmon, Selling: 0.00
+Id: 36075, Name: Eel, Selling: 0.00
+Id: 36076, Name: Swordfish, Selling: 0.00
+Id: 36077, Name: Jerry Can, Selling: 300.00
+Id: 36078, Name: Large Jerry Can, Selling: 1500.00
+Id: 36079, Name: Snowberry Jam Sandwich, Selling: 15.00
+Id: 36080, Name: Raw Meat, Selling: 10.00
+Id: 36081, Name: Cooked Meat, Selling: 25.00
+Id: 36082, Name: Fish Sandwich, Selling: 15.00
+Id: 36083, Name: Meat Sandwich, Selling: 15.00
+Id: 36084, Name: Leather, Selling: 10.00
+Id: 36085, Name: Leather Bundle, Selling: 100.00
+Id: 36086, Name: Saw, Selling: 50.00
+Id: 36087, Name: Makeshift Jerry Can, Selling: 300.00
+Id: 36088, Name: Rope, Selling: 15.00
+Id: 36089, Name: HMG Beeb, Selling: 0.00
+Id: 36090, Name: Blowtorch, Selling: 150.00
+Id: 36091, Name: Wrench, Selling: 75.00
+Id: 36092, Name: Mechanical Lotus, Selling: 0.00
+Id: 36093, Name: Monocle, Selling: 25.00
+Id: 36094, Name: Penguin, Selling: 0.00
+Id: 36096, Name: Top, Selling: 40.00
+Id: 36097, Name: Ghost, Selling: 0.00
+Id: 36098, Name: Shop, Selling: 0.00
+Id: 36099, Name: Invisibility, Selling: 0.00
+Id: 36100, Name: Pepperoni Pizza Slice, Selling: 0.00
+Id: 36101, Name: Bronze Coin, Selling: 0.00
+Id: 36102, Name: Silver Coins, Selling: 0.00
+Id: 36103, Name: Gold Coins, Selling: 0.00
+Id: 36104, Name: Gold Nugget, Selling: 0.00
+Id: 36105, Name: Gold Ingot, Selling: 0.00
+Id: 36106, Name: Navy Beret, Selling: 60.00
+Id: 36107, Name: Black Beret, Selling: 60.00
+Id: 36108, Name: Green Beret, Selling: 60.00
+Id: 36109, Name: Orange Beret, Selling: 60.00
+Id: 36110, Name: Pink Beret, Selling: 60.00
+Id: 36111, Name: Red Beret, Selling: 60.00
+Id: 36112, Name: White Beret, Selling: 60.00
+Id: 36113, Name: Yellow Beret, Selling: 60.00
+Id: 36114, Name: Blue Beret, Selling: 60.00
+Id: 36115, Name: Aqua Beret, Selling: 60.00
+Id: 36116, Name: Purple Beret, Selling: 60.00
+Id: 36117, Name: Frost Campfire Static #1, Selling: 0.00
+Id: 36118, Name: Fertilizer, Selling: 20.00
+Id: 36119, Name: Cloth Seeds, Selling: 20.00
+Id: 36120, Name: Metal Seeds, Selling: 35.00
+Id: 36121, Name: Metal Chunks, Selling: 25.00
+Id: 36122, Name: ATM, Selling: 0.00
+Id: 36123, Name: XP Book, Selling: 0.00
+Id: 36124, Name: Moses, Selling: 0.00
+Id: 36125, Name: NP553 "Baal", Selling: 0.00
+Id: 36126, Name: Iron Sights, Selling: 25.00
+Id: 36127, Name: Wooden Moses Stock, Selling: 50.00
+Id: 36128, Name: Refurbished Moses Stock, Selling: 50.00
+Id: 36129, Name: Refurbished Moses Stock, Selling: 50.00
+Id: 36130, Name: 7.62mm Magazine, Selling: 450.00
+Id: 36131, Name: 7.62mm Box, Selling: 250.00
+Id: 36132, Name: Military Top, Selling: 0.00
+Id: 36133, Name: Military Bottom, Selling: 0.00
+Id: 36134, Name: Military Vest, Selling: 0.00
+Id: 36135, Name: Military Helmet, Selling: 0.00
+Id: 36136, Name: Balaclava, Selling: 0.00
+Id: 36137, Name: Military Backpack, Selling: 0.00
+Id: 36138, Name: Grenade, Selling: 0.00
+Id: 36139, Name: M349 "Penumbra", Selling: 10000.00
+Id: 36140, Name: 5.56mm Box, Selling: 400.00
+Id: 36141, Name: Iron Sights, Selling: 25.00
+Id: 36142, Name: M349 "Penumbra" Stock, Selling: 50.00
+Id: 36143, Name: RAID Muzzle Brake, Selling: 75.00
+Id: 36144, Name: BVL Muzzle Brake, Selling: 75.00
+Id: 36145, Name: B-3 Compensator, Selling: 75.00
+Id: 36146, Name: REAPER Compensator, Selling: 75.00
+Id: 36147, Name: DASH-2 Sound Suppressor, Selling: 70.00
+Id: 36148, Name: K&R Octagon Suppressor, Selling: 70.00
+Id: 36149, Name: K&R Decagon Suppressor, Selling: 70.00
+Id: 36150, Name: F-11 "FÃƒÂ¤lscher", Selling: 0.00
+Id: 36151, Name: 5.56mm Drum, Selling: 600.00
+Id: 36152, Name: 5.56mm Magazine, Selling: 150.00
+Id: 36153, Name: Mercenary Bottom, Selling: 500.00
+Id: 36154, Name: Mercenary Top, Selling: 500.00
+Id: 36155, Name: Bevlar, Selling: 100.00
+Id: 36156, Name: SWAT Bottom, Selling: 400.00
+Id: 36157, Name: SWAT Top, Selling: 400.00
+Id: 36158, Name: Mercenary Backpack, Selling: 500.00
+Id: 36159, Name: SWAT Backpack, Selling: 400.00
+Id: 36160, Name: Mercenary Helmet, Selling: 500.00
+Id: 36161, Name: SWAT Helmet, Selling: 400.00
+Id: 36162, Name: Mercenary Vest, Selling: 500.00
+Id: 36163, Name: SWAT Vest, Selling: 400.00
+Id: 36164, Name: Biohazard Fibers, Selling: 0.00
+Id: 36165, Name: HAZE Vest, Selling: 1000.00
+Id: 36166, Name: HAZE Helmet, Selling: 1000.00
+Id: 36167, Name: Firefighter Helmet, Selling: 70.00
+Id: 36168, Name: Civilian Vest, Selling: 125.00
+Id: 36169, Name: Construction Helmet, Selling: 70.00
+Id: 36170, Name: HAZE Bottom, Selling: 1000.00
+Id: 36171, Name: HAZE Top, Selling: 1000.00
+Id: 36172, Name: Firefighter Bottom, Selling: 50.00
+Id: 36173, Name: Firefighter Top, Selling: 70.00
+Id: 36174, Name: Construction Bottom, Selling: 65.00
+Id: 36175, Name: Construction Top, Selling: 65.00
+Id: 36176, Name: Construction Bottom, Selling: 65.00
+Id: 36177, Name: Construction Top, Selling: 65.00
+Id: 36178, Name: Mercenary Backpack, Selling: 0.00
+Id: 36179, Name: Carjack , Selling: 150.00
+Id: 36180, Name: Sweater, Selling: 60.00
+Id: 36181, Name: Sweater, Selling: 60.00
+Id: 36182, Name: Sweater, Selling: 60.00
+Id: 36183, Name: Sweater, Selling: 60.00
+Id: 36184, Name: Sweater, Selling: 60.00
+Id: 36185, Name: Touque, Selling: 25.00
+Id: 36186, Name: Touque, Selling: 25.00
+Id: 36187, Name: Touque, Selling: 25.00
+Id: 36188, Name: Touque, Selling: 25.00
+Id: 36189, Name: Touque, Selling: 25.00
+Id: 36190, Name: Sweatpants, Selling: 50.00
+Id: 36191, Name: Sweatpants, Selling: 50.00
+Id: 36192, Name: Sweatpants, Selling: 50.00
+Id: 36193, Name: Sweatpants, Selling: 50.00
+Id: 36194, Name: Sweatpants, Selling: 50.00
+Id: 36195, Name: Armored Plates, Selling: 150.00
+Id: 36196, Name: Paint Bucket, Selling: 0.00
+Id: 36197, Name: Sweater Vest, Selling: 80.00
+Id: 36198, Name: Sweater Vest, Selling: 80.00
+Id: 36199, Name: Sweater Vest, Selling: 80.00
+Id: 36200, Name: Sweater Vest, Selling: 80.00
+Id: 36201, Name: Sweater Vest, Selling: 80.00
+Id: 36202, Name: Cotton Vest, Selling: 40.00
+Id: 36203, Name: Cotton Vest, Selling: 40.00
+Id: 36204, Name: Cotton Vest, Selling: 40.00
+Id: 36205, Name: Cotton Vest, Selling: 40.00
+Id: 36206, Name: Cotton Vest, Selling: 40.00
+Id: 36207, Name: School Backpack, Selling: 180.00
+Id: 36208, Name: School Backpack, Selling: 180.00
+Id: 36209, Name: School Backpack, Selling: 180.00
+Id: 36210, Name: School Backpack, Selling: 180.00
+Id: 36211, Name: School Backpack, Selling: 180.00
+Id: 36212, Name: Hiking Backpack, Selling: 180.00
+Id: 36213, Name: Hiking Backpack, Selling: 180.00
+Id: 36214, Name: Hiking Backpack, Selling: 180.00
+Id: 36215, Name: Hiking Backpack, Selling: 180.00
+Id: 36216, Name: Hiking Backpack, Selling: 180.00
+Id: 36217, Name: Wooden Wall, Selling: 75.00
+Id: 36218, Name: SWAT Helmet, Selling: 400.00
+Id: 36219, Name: Mercenary Helmet, Selling: 500.00
+Id: 36220, Name: Wooden Pillar, Selling: 50.00
+Id: 36221, Name: Wooden Floor, Selling: 75.00
+Id: 36222, Name: Wooden Roof, Selling: 75.00
+Id: 36223, Name: Scrap Wall, Selling: 475.00
+Id: 36224, Name: Scrap Pillar, Selling: 400.00
+Id: 36225, Name: Scrap Floor, Selling: 550.00
+Id: 36226, Name: Scrap Roof, Selling: 550.00
+Id: 36227, Name: Armored Wall, Selling: 700.00
+Id: 36228, Name: Armored Pillar, Selling: 1000.00
+Id: 36229, Name: Armored Floor, Selling: 725.00
+Id: 36230, Name: Armored Roof, Selling: 725.00
+Id: 36231, Name: Wooden Stairs, Selling: 75.00
+Id: 36232, Name: Wooden Doorway, Selling: 75.00
+Id: 36233, Name: Wooden Garage, Selling: 160.00
+Id: 36234, Name: Wooden Window, Selling: 75.00
+Id: 36235, Name: Wooden Ramp Wall, Selling: 75.00
+Id: 36236, Name: Wooden Hole, Selling: 75.00
+Id: 36237, Name: Wooden Ramp, Selling: 75.00
+Id: 36238, Name: Wooden Corner, Selling: 100.00
+Id: 36239, Name: Wooden Corner, Selling: 100.00
+Id: 36240, Name: Triangular Wooden Roof, Selling: 200.00
+Id: 36241, Name: Triangular Wooden Floor, Selling: 200.00
+Id: 36242, Name: Wooden Post, Selling: 60.00
+Id: 36243, Name: Wooden Rampart, Selling: 75.00
+Id: 36244, Name: Triangular Wooden Hole, Selling: 125.00
+Id: 36245, Name: Scrap Ramp Wall, Selling: 300.00
+Id: 36246, Name: Scrap Garage, Selling: 350.00
+Id: 36247, Name: Scrap Doorway, Selling: 520.00
+Id: 36248, Name: Scrap Window, Selling: 480.00
+Id: 36249, Name: Scrap Post, Selling: 180.00
+Id: 36250, Name: Scrap Rampart, Selling: 240.00
+Id: 36251, Name: Scrap Stairs, Selling: 540.00
+Id: 36252, Name: Scrap Ramp, Selling: 450.00
+Id: 36253, Name: Scrap Corner, Selling: 350.00
+Id: 36254, Name: Scrap Corner, Selling: 350.00
+Id: 36255, Name: Scrap Hole, Selling: 400.00
+Id: 36256, Name: Triangular Scrap Hole, Selling: 400.00
+Id: 36257, Name: Triangular Scrap Roof, Selling: 400.00
+Id: 36258, Name: Triangular Scrap Floor, Selling: 400.00
+Id: 36259, Name: ???, Selling: 0.00
+Id: 36260, Name: Pure Pearl, Selling: 0.00
+Id: 36261, Name: Daylight Pearl, Selling: 0.00
+Id: 36262, Name: Dawn Pearl, Selling: 0.00
+Id: 36263, Name: Dusk Pearl, Selling: 0.00
+Id: 36264, Name: Midnight Pearl, Selling: 0.00
+Id: 36265, Name: Armored Ramp Wall, Selling: 2000.00
+Id: 36266, Name: Armored Doorway, Selling: 2000.00
+Id: 36267, Name: Armored Window, Selling: 2000.00
+Id: 36268, Name: Armored Garage, Selling: 2000.00
+Id: 36269, Name: Armored Ramp, Selling: 2000.00
+Id: 36270, Name: Armored Corner, Selling: 2000.00
+Id: 36271, Name: Armored Corner, Selling: 2000.00
+Id: 36272, Name: Armored Stairs, Selling: 2000.00
+Id: 36273, Name: Armored Hole, Selling: 2000.00
+Id: 36274, Name: Armored Post, Selling: 2000.00
+Id: 36275, Name: Armored Rampart, Selling: 2000.00
+Id: 36276, Name: Triangular Armored Floor, Selling: 625.00
+Id: 36277, Name: Triangular Armored Roof, Selling: 625.00
+Id: 36278, Name: Triangular Armored Hole, Selling: 600.00
+Id: 36279, Name: Tanktrap, Selling: 50.00
+Id: 36280, Name: Wooden Door, Selling: 100.00
+Id: 36281, Name: Scrap Door, Selling: 480.00
+Id: 36282, Name: Armored Door, Selling: 750.00
+Id: 36284, Name: Tape, Selling: 15.00
+Id: 36285, Name: Bedroll, Selling: 60.00
+Id: 36286, Name: Bedroll, Selling: 60.00
+Id: 36287, Name: Bedroll, Selling: 60.00
+Id: 36288, Name: Bedroll, Selling: 60.00
+Id: 36289, Name: Bedroll, Selling: 60.00
+Id: 36290, Name: Twig Ladder, Selling: 0.00
+Id: 36291, Name: Wooden Ladder, Selling: 100.00
+Id: 36292, Name: Cloth Plate, Selling: 50.00
+Id: 36293, Name: Wooden Crate, Selling: 250.00
+Id: 36294, Name: Scrap Locker, Selling: 250.00
+Id: 36295, Name: Armored Locker, Selling: 2000.00
+Id: 36296, Name: Wooden Table, Selling: 90.00
+Id: 36297, Name: Wooden Chair, Selling: 80.00
+Id: 36298, Name: Wooden Bed, Selling: 100.00
+Id: 36299, Name: Wooden Bed, Selling: 100.00
+Id: 36300, Name: Wooden Bed, Selling: 100.00
+Id: 36301, Name: Wooden Bed, Selling: 100.00
+Id: 36302, Name: Wooden Bed, Selling: 100.00
+Id: 36303, Name: Mercenary Helmet, Selling: 500.00
+Id: 36304, Name: Mercenary Helmet, Selling: 500.00
+Id: 36305, Name: Mercenary Vest, Selling: 500.00
+Id: 36306, Name: Farmer Overalls, Selling: 25.00
+Id: 36307, Name: Farmer Top, Selling: 40.00
+Id: 36308, Name: Farmer Top, Selling: 40.00
+Id: 36309, Name: Farmer Overalls, Selling: 25.00
+Id: 36310, Name: Farmer Overalls, Selling: 25.00
+Id: 36311, Name: Farmer Overalls, Selling: 25.00
+Id: 36312, Name: Farmer Overalls, Selling: 25.00
+Id: 36313, Name: Farmer Top, Selling: 40.00
+Id: 36314, Name: Farmer Top, Selling: 40.00
+Id: 36315, Name: Farmer Top, Selling: 40.00
+Id: 36316, Name: Farmer Hat, Selling: 15.00
+Id: 36317, Name: Farmer Hat, Selling: 15.00
+Id: 36318, Name: Farmer Hat, Selling: 15.00
+Id: 36319, Name: Torn T-shirt, Selling: 10.00
+Id: 36320, Name: Torn Bottoms, Selling: 30.00
+Id: 36321, Name: Torn Bottoms, Selling: 30.00
+Id: 36322, Name: Torn Bottoms, Selling: 30.00
+Id: 36323, Name: Torn T-shirt, Selling: 10.00
+Id: 36324, Name: Torn T-shirt, Selling: 10.00
+Id: 36325, Name: 9mm Ammo Crate, Selling: 0.00
+Id: 36326, Name: 9mm Ammo Crate, Selling: 0.00
+Id: 36327, Name: 5.56mm Ammo Crate, Selling: 0.00
+Id: 36328, Name: 5.56mm Ammo Crate, Selling: 0.00
+Id: 36329, Name: 7.62mm Ammo Crate, Selling: 0.00
+Id: 36330, Name: 7.62mm Ammo Crate, Selling: 0.00
+Id: 36331, Name: Crossbow, Selling: 450.00
+Id: 36332, Name: Crossbow Barrel, Selling: 0.00
+Id: 36333, Name: Wooden Arrow, Selling: 25.00
+Id: 36334, Name: Metal Arrow, Selling: 50.00
+Id: 36335, Name: Merlin, Selling: 2900.00
+Id: 36336, Name: Herdsman, Selling: 1600.00
+Id: 36337, Name: Herd, Selling: 0.00
+Id: 36338, Name: Claim Banner, Selling: 500.00
+Id: 36339, Name: Claim Flag, Selling: 2000.00
+Id: 36340, Name: Armored Display Locker, Selling: 2000.00
+Id: 36341, Name: Compact Binoculars, Selling: 50.00
+Id: 36342, Name: Compact Binoculars, Selling: 50.00
+Id: 36343, Name: Claim Banner, Selling: 2000.00
+Id: 36344, Name: Claim Banner, Selling: 2000.00
+Id: 36345, Name: Claim Banner, Selling: 2000.00
+Id: 36346, Name: Claim Banner, Selling: 2000.00
+Id: 36347, Name: Claim Flag, Selling: 2000.00
+Id: 36348, Name: Claim Flag, Selling: 2000.00
+Id: 36349, Name: Claim Flag, Selling: 2000.00
+Id: 36350, Name: Claim Flag, Selling: 2000.00
+Id: 36351, Name: Wooden Library, Selling: 125.00
+Id: 36352, Name: Scrap Library, Selling: 250.00
+Id: 36353, Name: Armored Library, Selling: 500.00
+Id: 36354, Name: Medkit, Selling: 80.00
+Id: 36355, Name: Metal Sheet, Selling: 125.00
+Id: 36356, Name: Gun Oil, Selling: 100.00
+Id: 36357, Name: Splint, Selling: 20.00
+Id: 36358, Name: Cotton Wool, Selling: 40.00
+Id: 36359, Name: Adrenaline, Selling: 40.00
+Id: 36360, Name: Iodine Tablets, Selling: 50.00
+Id: 36361, Name: Bandage, Selling: 15.00
+Id: 36362, Name: Dressing, Selling: 30.00
+Id: 36363, Name: Small Generator, Selling: 0.00
+Id: 36364, Name: Large Generator, Selling: 5000.00
+Id: 36365, Name: Oxygenator, Selling: 5000.00
+Id: 36366, Name: Headlamp, Selling: 100.00
+Id: 36367, Name: Flashlight, Selling: 50.00
+Id: 36368, Name: Detonator , Selling: 2500.00
+Id: 36369, Name: C4, Selling: 0.00
+Id: 36370, Name: Gunpowder, Selling: 0.00
+Id: 36371, Name: Light, Selling: 0.00
+Id: 36372, Name: Torch, Selling: 50.00
+Id: 36373, Name: Parachute, Selling: 75.00
+Id: 36374, Name: Frying Pan, Selling: 50.00
+Id: 36375, Name: Officers Sword, Selling: 125.00
+Id: 36376, Name: Saucepan, Selling: 50.00
+Id: 36377, Name: Hunting Knife, Selling: 100.00
+Id: 36378, Name: Field Knife, Selling: 100.00
+Id: 36379, Name: Broom, Selling: 125.00
+Id: 36380, Name: Nightstick, Selling: 100.00
+Id: 36381, Name: Baton, Selling: 50.00
+Id: 36382, Name: Chefs Knife, Selling: 100.00
+Id: 36383, Name: Fisherman Hat, Selling: 20.00
+Id: 36384, Name: Fisherman Overalls, Selling: 40.00
+Id: 36385, Name: Fisherman Top, Selling: 50.00
+Id: 36386, Name: Leather Top, Selling: 25.00
+Id: 36387, Name: Leather Bottom, Selling: 20.00
+Id: 36388, Name: Leather Vest, Selling: 100.00
+Id: 36389, Name: Cloth Pack Mk.I, Selling: 50.00
+Id: 36390, Name: Cloth Pack Mk.II, Selling: 100.00
+Id: 36391, Name: Cloth Pack Mk.III, Selling: 150.00
+Id: 36392, Name: Cloth Pack Mk.IV, Selling: 200.00
+Id: 36393, Name: Scrub Bottoms, Selling: 40.00
+Id: 36394, Name: Scrub Top, Selling: 50.00
+Id: 36395, Name: Bone Saw, Selling: 150.00
+Id: 36396, Name: Snow Shovel, Selling: 50.00
+Id: 36397, Name: GPS, Selling: 60.00
+Id: 36398, Name: Compass, Selling: 100.00
+Id: 36399, Name: Chart, Selling: 15.00
+Id: 36400, Name: Devastator, Selling: 0.00
+Id: 36401, Name: Devastator Magazine, Selling: 0.00
+Id: 36402, Name: Sentry Barrel, Selling: 0.00
+Id: 36403, Name: Sentry Engine, Selling: 0.00
+Id: 36404, Name: Sentry Receiver, Selling: 0.00
+Id: 36405, Name: Turret, Selling: 8000.00
+Id: 36406, Name: Sentry, Selling: 0.00
+Id: 36407, Name: Spotlight, Selling: 90.00
+Id: 36408, Name: Makeshift Canteen, Selling: 25.00
+Id: 36409, Name: Canteen, Selling: 50.00
+Id: 36410, Name: Axe, Selling: 100.00
+Id: 36411, Name: Flashbang, Selling: 150.00
+Id: 36412, Name: Grenade, Selling: 0.00
+Id: 36413, Name: Drill, Selling: 200.00
+Id: 36414, Name: Canned Beans, Selling: 20.00
+Id: 36415, Name: Karjalanpiirakka, Selling: 0.00
+Id: 36416, Name: Croissant, Selling: 0.00
+Id: 36417, Name: Burrito, Selling: 0.00
+Id: 36418, Name: MRE, Selling: 0.00
+Id: 36419, Name: Orange Juice, Selling: 12.00
+Id: 36420, Name: Bottled Water, Selling: 15.00
+Id: 36421, Name: Bottled Soda, Selling: 15.00
+Id: 36422, Name: Bottled Soda, Selling: 15.00
+Id: 36423, Name: Bottled Milk, Selling: 15.00
+Id: 36424, Name: Canned Soda, Selling: 20.00
+Id: 36425, Name: Tomato Soup, Selling: 30.00
+Id: 36426, Name: Canned Soda, Selling: 20.00
+Id: 36427, Name: Canned Sardines, Selling: 20.00
+Id: 36428, Name: Chocolate Bar, Selling: 15.00
+Id: 36429, Name: Snowberry Juice, Selling: 20.00
+Id: 36430, Name: Chicken Soup, Selling: 30.00
+Id: 36431, Name: Canned Salmon, Selling: 20.00
+Id: 36432, Name: Canned Energy Drink, Selling: 30.00
+Id: 36433, Name: Energy Bar, Selling: 15.00
+Id: 36434, Name: Candy Bar, Selling: 15.00
+Id: 36435, Name: Coconut Bar, Selling: 15.00
+Id: 36436, Name: Caramel Bar, Selling: 15.00
+Id: 36437, Name: Milk Carton, Selling: 0.00
+Id: 36438, Name: Apple Juice, Selling: 12.00
+Id: 36439, Name: Grape Juice, Selling: 12.00
+Id: 36440, Name: Tactical Bayonet, Selling: 60.00
+Id: 36441, Name: Stubby Grip, Selling: 50.00
+Id: 36442, Name: RAID Bipod, Selling: 60.00
+Id: 36443, Name: RAID Bipod, Selling: 60.00
+Id: 36444, Name: F-11 Bipod, Selling: 55.00
+Id: 36445, Name: F-11 Bipod, Selling: 55.00
+Id: 36446, Name: REAPER Vertical Grip, Selling: 50.00
+Id: 36447, Name: K&R Horizontal Grip, Selling: 50.00
+Id: 36448, Name: BVL Tilted Grip, Selling: 50.00
+Id: 36449, Name: Iron Sights, Selling: 25.00
+Id: 36450, Name: F-11 "FÃƒÂ¤lscher" Stock, Selling: 0.00
+Id: 36451, Name: NP9 "Kinnie", Selling: 5000.00
+Id: 36452, Name: 9mm Magazine, Selling: 50.00
+Id: 36453, Name: 9mm Box, Selling: 125.00
+Id: 36454, Name: 9mm Drum, Selling: 80.00
+Id: 36455, Name: K&R Hand Stop, Selling: 125.00
+Id: 36456, Name: B-3 4x Scope, Selling: 40.00
+Id: 36457, Name: RAID 6x Scope, Selling: 50.00
+Id: 36458, Name: RAID 8x Scope, Selling: 70.00
+Id: 36459, Name: DASH-2 Dot Sight, Selling: 70.00
+Id: 36460, Name: Tactical Light, Selling: 45.00
+Id: 36461, Name: Tactical Laser, Selling: 45.00
+Id: 36462, Name: Tactical Rangefinder, Selling: 200.00
+Id: 36463, Name: Tactical Laser, Selling: 45.00
+Id: 36464, Name: SSB "Niku" Stock, Selling: 50.00
+Id: 36465, Name: SSB "Niku", Selling: 5000.00
+Id: 36466, Name: Biohazard Hood, Selling: 0.00
+Id: 36467, Name: Snowball, Selling: 0.00
+Id: 36468, Name: Military Nightvision, Selling: 75.00
+Id: 36469, Name: Civilian Nightvision, Selling: 100.00
+Id: 36470, Name: Wooden Lockbox, Selling: 0.00
+Id: 36471, Name: Mercenary Backpack, Selling: 500.00
+Id: 36472, Name: Mercenary Bottom, Selling: 500.00
+Id: 36473, Name: Mercenary Top, Selling: 500.00
+Id: 36474, Name: Log, Selling: 60.00
+Id: 36475, Name: Clock, Selling: 70.00
+Id: 36476, Name: Wooden Bench, Selling: 50.00
+Id: 36477, Name: Wooden Planter Roof, Selling: 100.00
+Id: 36478, Name: Scrap Planter Roof, Selling: 600.00
+Id: 36479, Name: Armored Planter Roof, Selling: 775.00
+Id: 36480, Name: Sandbag, Selling: 30.00
+Id: 36481, Name: Weapon Case, Selling: 250.00
+Id: 36482, Name: Hay Bale, Selling: 125.00
+Id: 36483, Name: Carpet, Selling: 50.00
+Id: 36484, Name: Carpet, Selling: 50.00
+Id: 36485, Name: Carpet, Selling: 50.00
+Id: 36486, Name: Carpet, Selling: 50.00
+Id: 36487, Name: Carpet, Selling: 50.00
+Id: 36488, Name: Planter, Selling: 80.00
+Id: 36489, Name: Campfire, Selling: 65.00
+Id: 36490, Name: Glass, Selling: 250.00
+Id: 36491, Name: One Way Glass, Selling: 300.00
+Id: 36492, Name: Industrial Wooden Crate, Selling: 750.00
+Id: 36493, Name: Wooden Plaque, Selling: 100.00
+Id: 36494, Name: Scrap Plaque, Selling: 250.00
+Id: 36495, Name: Note, Selling: 30.00
+Id: 36496, Name: Wooden Placard, Selling: 60.00
+Id: 36497, Name: Scrap Placard, Selling: 180.00
+Id: 36498, Name: Wooden Sign, Selling: 60.00
+Id: 36499, Name: Scrap Sign, Selling: 150.00
+Id: 36500, Name: Wooden Counter, Selling: 250.00
+Id: 36501, Name: Wooden Wardrobe, Selling: 180.00
+Id: 36502, Name: Wooden Shutter, Selling: 120.00
+Id: 36503, Name: Scrap Shutter, Selling: 300.00
+Id: 36504, Name: Armored Shutter, Selling: 700.00
+Id: 36505, Name: Wooden Gate, Selling: 125.00
+Id: 36506, Name: Scrap Gate, Selling: 400.00
+Id: 36507, Name: Armored Gate, Selling: 2000.00
+Id: 36508, Name: Wooden Hatch, Selling: 140.00
+Id: 36509, Name: Scrap Hatch, Selling: 300.00
+Id: 36510, Name: Armored Hatch, Selling: 425.00
+Id: 36511, Name: Scrap Ladder, Selling: 280.00
+Id: 36512, Name: Wooden Shelf, Selling: 75.00
+Id: 36513, Name: Scrap Shelf, Selling: 250.00
+Id: 36514, Name: DASH-2 Holo Sight, Selling: 50.00
+Id: 36515, Name: Tactical Light, Selling: 45.00
+Id: 36516, Name: NP663 "Bruteforce", Selling: 5000.00
+Id: 36517, Name: DASH-2 Shotgun Suppressor, Selling: 70.00
+Id: 36518, Name: RAID Choke, Selling: 0.00
+Id: 36519, Name: Antique Moses, Selling: 5000.00
+Id: 36520, Name: Moses Grip, Selling: 0.00
+Id: 36521, Name: Moses Grip, Selling: 0.00
+Id: 36522, Name: Boss Bottom, Selling: 70.00
+Id: 36523, Name: Lucky Block, Selling: 0.00
+Id: 36524, Name: Buckshot, Selling: 120.00
+Id: 36525, Name: Slug, Selling: 130.00
+Id: 36526, Name: Makeshift Shells, Selling: 60.00
+Id: 36527, Name: Flare, Selling: 0.00
+Id: 36528, Name: Flare Gun, Selling: 0.00
+Id: 36529, Name: Powerplant Helmet, Selling: 80.00
+Id: 36530, Name: Powerplant Vest, Selling: 0.00
+Id: 36531, Name: Powerplant Bottoms, Selling: 60.00
+Id: 36532, Name: Powerplant Top, Selling: 85.00
+Id: 36533, Name: N4 "Walnut" Stock, Selling: 50.00
+Id: 36534, Name: N4 "Walnut", Selling: 5000.00
+Id: 36535, Name: Horde Beacon, Selling: 0.00
+Id: 36536, Name: N200 "Brenter" Stock, Selling: 50.00
+Id: 36537, Name: JK47 "Grill" Stock, Selling: 50.00
+Id: 36538, Name: K30 "Krizzy" Stock, Selling: 50.00
+Id: 36539, Name: NP5 "Rattlesnake" Stock, Selling: 50.00
+Id: 36540, Name: NP3 "Grit" Stock, Selling: 50.00
+Id: 36541, Name: Iron Sights, Selling: 25.00
+Id: 36542, Name: Iron Sights, Selling: 25.00
+Id: 36543, Name: Iron Sights, Selling: 25.00
+Id: 36544, Name: Iron Sights, Selling: 25.00
+Id: 36545, Name: Iron Sights, Selling: 25.00
+Id: 36546, Name: Makeshift Grip, Selling: 25.00
+Id: 36547, Name: Makeshift 5x Scope, Selling: 35.00
+Id: 36548, Name: Makeshift Sight, Selling: 30.00
+Id: 36549, Name: Makeshift Tactical Light, Selling: 35.00
+Id: 36550, Name: RAID Stock, Selling: 50.00
+Id: 36551, Name: BVL Stock, Selling: 50.00
+Id: 36552, Name: B-3 Stock, Selling: 50.00
+Id: 36553, Name: REAPER Stock, Selling: 50.00
+Id: 36554, Name: DASH-2 Stock, Selling: 50.00
+Id: 36555, Name: K&R Stock, Selling: 50.00
+Id: 36556, Name: Block Upgrade Kit, Selling: 200.00
+Id: 36557, Name: K30 "Krizzy", Selling: 1500.00
+Id: 36558, Name: B18 "Block", Selling: 400.00
+Id: 36559, Name: N200 "Brenter", Selling: 0.00
+Id: 36560, Name: Explosive Slug, Selling: 0.00
+Id: 36561, Name: Key, Selling: 0.00
+Id: 36562, Name: Blueprint, Selling: 0.00
+Id: 36563, Name: Bow, Selling: 200.00
+Id: 36564, Name: JK47 "Grill", Selling: 3600.00
+Id: 36565, Name: B50 "Instructor", Selling: 425.00
+Id: 36566, Name: NP5 "Rattlesnake", Selling: 2950.00
+Id: 36567, Name: NP5 Suppressor, Selling: 0.00
+Id: 36568, Name: B1 "Blicky", Selling: 800.00
+Id: 36569, Name: NP3 "Grit", Selling: 3000.00
+Id: 36570, Name: Sman, Selling: 1400.00
+Id: 36571, Name: 40mm Grenade, Selling: 0.00
+Id: 36572, Name: Cloth Mannequin, Selling: 45.00
+Id: 36573, Name: Scrap Mannequin, Selling: 300.00
+Id: 36574, Name: Intelligence Bottom, Selling: 60.00
+Id: 36575, Name: Intelligence Top, Selling: 80.00
+Id: 36576, Name: Intelligence Cap, Selling: 0.00
+Id: 36577, Name: Iron Sights, Selling: 25.00
+Id: 36578, Name: Energized Snowball, Selling: 0.00
+Id: 36579, Name: Syringe, Selling: 0.00
+Id: 36580, Name: Stealy Wheely Automobiley, Selling: 0.00
+Id: 36581, Name: NP9 "Kinnie" Stock, Selling: 50.00
+Id: 36582, Name: Cotton Swab, Selling: 35.00
+Id: 36583, Name: Q-Tip, Selling: 25.00
+Id: 36584, Name: Penguin Lower, Selling: 0.00
+Id: 36585, Name: Vehicle Battery , Selling: 100.00
+Id: 36586, Name: Biohazard Roll, Selling: 0.00
+Id: 36587, Name: Military Crate, Selling: 0.00
+Id: 36588, Name: Mercenary Boss Bottom, Selling: 0.00
+Id: 36589, Name: Mercenary Boss Top, Selling: 0.00
+Id: 36590, Name: Mercenary Boss Helmet, Selling: 0.00
+Id: 36591, Name: Mercenary Boss Vest, Selling: 0.00
+Id: 36592, Name: Balaclava, Selling: 45.00
+Id: 36593, Name: Pump Jack, Selling: 300.00
+Id: 36594, Name: F-11 "FÃƒÂ¤lscher", Selling: 0.00
+Id: 36595, Name: M349 "Penumbra", Selling: 5000.00
+Id: 36596, Name: K30 "Krizzy", Selling: 1500.00
+Id: 36597, Name: N4 "Walnut", Selling: 5000.00
+Id: 36598, Name: N200 "Brenter", Selling: 0.00
+Id: 36599, Name: NP9 "Kinnie", Selling: 3250.00
+Id: 36600, Name: Seaward Fisher, Selling: 0.00
+Id: 36601, Name: Blue Intelligence, Selling: 0.00
+Id: 36602, Name: Black Intelligence, Selling: 0.00
+Id: 36603, Name: 12.7mm Ammo Crate, Selling: 0.00
+Id: 36604, Name: 12.7mm Cartridge, Selling: 0.00
+Id: 36605, Name: Can, Selling: 425.00
+Id: 36606, Name: BVL Stock, Selling: 50.00
+Id: 36607, Name: K&R Stock, Selling: 50.00
+Id: 36608, Name: REAPER Stock, Selling: 50.00
+Id: 36609, Name: Reginald, Selling: 0.00
+Id: 36610, Name: Black Penguin, Selling: 0.00
+Id: 36611, Name: Blue Penguin, Selling: 0.00
+Id: 36612, Name: Red Penguin, Selling: 0.00
+Id: 36613, Name: Armed Penguin, Selling: 0.00
+Id: 36614, Name: White Penguin, Selling: 0.00
+Id: 36615, Name: Benedict, Selling: 0.00
+Id: 36616, Name: Blindfolded Penguin, Selling: 0.00
+Id: 36617, Name: Donut Penguin, Selling: 0.00
+Id: 36618, Name: Gun Parts, Selling: 250.00
+Id: 36619, Name: Rainbow Beret, Selling: 200.00
+Id: 36620, Name: Leather Ushanka, Selling: 0.00
+Id: 36621, Name: PMC Bottom, Selling: 0.00
+Id: 36622, Name: PMC Top, Selling: 0.00
+Id: 36623, Name: PMC Backpack, Selling: 0.00
+Id: 36624, Name: PMC Vest, Selling: 0.00
+Id: 36625, Name: PMC Helmet, Selling: 0.00
+Id: 36626, Name: PMC Helmet, Selling: 0.00
+Id: 36627, Name: Mozzarella Pizza Slice, Selling: 0.00
+Id: 36628, Name: Marinara Pizza Slice, Selling: 0.00
+Id: 36629, Name: BBQ Pizza Slice, Selling: 0.00
+Id: 36630, Name: Ham & Mushroom Pizza Slice, Selling: 0.00
+Id: 36631, Name: Snowberry Pizza Slice, Selling: 0.00
+Id: 36632, Name: Moral Accord, Selling: 0.00
+Id: 36633, Name: Powerplant Top Zombie, Selling: 0.00
+Id: 36634, Name: Powerplant Bottoms Zombie, Selling: 0.00
+Id: 36635, Name: Powerplant Vest Zombie, Selling: 0.00
+Id: 36636, Name: Powerplant Helmet Zombie, Selling: 0.00
+Id: 36637, Name: SWAT Vest Zombie, Selling: 0.00
+Id: 36638, Name: SWAT Helmet Zombie, Selling: 0.00
+Id: 36639, Name: SWAT Bottom Zombie, Selling: 0.00
+Id: 36640, Name: SWAT Top Zombie, Selling: 0.00
+Id: 36641, Name: Gun Oil Bundle, Selling: 0.00
+Id: 36642, Name: Large Bevlar Coil, Selling: 0.00
+Id: 36643, Name: Garbage Bag, Selling: 0.00
+Id: 36644, Name: Military Drive Static #1, Selling: 0.00
+Id: 36645, Name: PMC Bottom Mk.II, Selling: 0.00
+Id: 36646, Name: PMC Top Mk.II, Selling: 0.00
+Id: 36647, Name: PMC Vest Mk.II, Selling: 0.00
+Id: 36648, Name: PMC Helmet Mk.II, Selling: 0.00
+Id: 36649, Name: PMC Helmet Mk.II, Selling: 0.00

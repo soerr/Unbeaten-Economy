@@ -1,0 +1,39 @@
+Id: 59000, Name: Red VB80, Selling: 3000.00
+Id: 59001, Name: Green VB80, Selling: 3000.00
+Id: 59002, Name: Beige VB80, Selling: 3000.00
+Id: 59003, Name: Blue VB80, Selling: 3000.00
+Id: 59004, Name: BRDM-2, Selling: 0.00
+Id: 59006, Name: Yellow ZAV-500, Selling: 3000.00
+Id: 59007, Name: Green ZAV-500, Selling: 3000.00
+Id: 59008, Name: White ZAV-500, Selling: 3000.00
+Id: 59009, Name: Red ZAV-500, Selling: 3000.00
+Id: 59010, Name: Purple ZAV-500, Selling: 3000.00
+Id: 59011, Name: Black ZAV-500, Selling: 3000.00
+Id: 59012, Name: Blue ZAV-500, Selling: 3000.00
+Id: 59013, Name: White VB80, Selling: 3000.00
+Id: 59014, Name: Gray VB80, Selling: 3000.00
+Id: 59015, Name: Purple VB80, Selling: 3000.00
+Id: 59016, Name: URAL, Selling: 4000.00
+Id: 59017, Name: ZUK-13, Selling: 3000.00
+Id: 59018, Name: ZUK-13, Selling: 3000.00
+Id: 59019, Name: ZUK-13, Selling: 3000.00
+Id: 59020, Name: ZUK-13, Selling: 3000.00
+Id: 59021, Name: ZUK-13, Selling: 3000.00
+Id: 59022, Name: MYZ-83 Tractor, Selling: 2000.00
+Id: 59023, Name: TK-66, Selling: 9000.00
+Id: 59024, Name: BREM-1, Selling: 0.00
+Id: 59025, Name: M80 Jeep, Selling: 4000.00
+Id: 59026, Name: HH-6, Selling: 0.00
+Id: 59027, Name: HAYLEX-85, Selling: 3000.00
+Id: 59028, Name: HAYLEX-85, Selling: 3000.00
+Id: 59029, Name: HAYLEX-85, Selling: 3000.00
+Id: 59030, Name: HAYLEX-85, Selling: 3000.00
+Id: 59031, Name: HAYLEX-85 Technical, Selling: 0.00
+Id: 59032, Name: HAYLEX-85 Technical, Selling: 0.00
+Id: 59033, Name: HAYLEX-85 Technical, Selling: 0.00
+Id: 59034, Name: Blue ZUK-15, Selling: 3000.00
+Id: 59035, Name: Yellow ZUK-15, Selling: 3000.00
+Id: 59036, Name: White ZUK-15, Selling: 3000.00
+Id: 59037, Name: Gray ZUK-15, Selling: 3000.00
+Id: 59038, Name: White M61 Van, Selling: 3000.00
+Id: 59039, Name: Black M61 Van, Selling: 3000.00

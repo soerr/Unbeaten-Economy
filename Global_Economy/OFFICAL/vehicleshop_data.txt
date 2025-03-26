@@ -1,0 +1,94 @@
+Id: 96, Name: Otter, Selling: 0.00
+Id: 97, Name: Runabout, Selling: 5000.00
+Id: 98, Name: Black Jetski, Selling: 5000.00
+Id: 99, Name: Blue Jetski, Selling: 5000.00
+Id: 100, Name: Green Jetski, Selling: 5000.00
+Id: 101, Name: Orange Jetski, Selling: 5000.00
+Id: 102, Name: Purple Jetski, Selling: 5000.00
+Id: 103, Name: Red Jetski, Selling: 5000.00
+Id: 104, Name: White Jetski, Selling: 5000.00
+Id: 105, Name: Yellow Jetski, Selling: 5000.00
+Id: 106, Name: Police Helicopter, Selling: 0.00
+Id: 107, Name: Hummingbird, Selling: 0.00
+Id: 108, Name: Police Launch, Selling: 5000.00
+Id: 109, Name: Rainbow Hatchback, Selling: 0.00
+Id: 110, Name: Black Auto, Selling: 5000.00
+Id: 111, Name: Blue Auto, Selling: 5000.00
+Id: 112, Name: Green Auto, Selling: 5000.00
+Id: 113, Name: Orange Auto, Selling: 5000.00
+Id: 114, Name: Purple Auto, Selling: 5000.00
+Id: 115, Name: Red Auto, Selling: 5000.00
+Id: 116, Name: White Auto, Selling: 5000.00
+Id: 117, Name: Yellow Auto, Selling: 5000.00
+Id: 118, Name: Toiler, Selling: 5000.00
+Id: 119, Name: APC, Selling: 0.00
+Id: 120, Name: Forest Tank, Selling: 0.00
+Id: 121, Name: Desert Tank, Selling: 0.00
+Id: 122, Name: Luggage Car, Selling: 10000.00
+Id: 123, Name: Ghost, Selling: 10000.00
+Id: 124, Name: Dinghy, Selling: 10000.00
+Id: 125, Name: Black Rover, Selling: 5000.01
+Id: 126, Name: Blue Rover, Selling: 5000.01
+Id: 127, Name: Green Rover, Selling: 10000.00
+Id: 128, Name: Orange Rover, Selling: 10000.00
+Id: 129, Name: Purple Rover, Selling: 10000.00
+Id: 130, Name: Red Rover, Selling: 5000.00
+Id: 131, Name: White Rover, Selling: 5000.00
+Id: 132, Name: Yellow Rover, Selling: 5000.00
+Id: 133, Name: Annushka, Selling: 0.00
+Id: 134, Name: Orca, Selling: 0.00
+Id: 135, Name: Attack Heli, Selling: 0.00
+Id: 136, Name: Ural, Selling: 0.00
+Id: 137, Name: Tank, Selling: 0.00
+Id: 138, Name: Tractor, Selling: 10000.00
+Id: 139, Name: Moon Buggy, Selling: 10000.00
+Id: 140, Name: Fighter Jet, Selling: 0.00
+Id: 141, Name: Dumptruck, Selling: 0.00
+Id: 142, Name: Prison Truck, Selling: 10000.00
+Id: 143, Name: Armored Offroader, Selling: 10000.00
+Id: 144, Name: Transport Heli, Selling: 0.00
+Id: 145, Name: Military Offroader, Selling: 10000.00
+Id: 146, Name: Military Offroader, Selling: 10000.00
+Id: 147, Name: Ural, Selling: 10000.00
+Id: 148, Name: APC, Selling: 0.00
+Id: 149, Name: Black Rally Car, Selling: 5000.00
+Id: 150, Name: Blue Rally Car, Selling: 5000.00
+Id: 151, Name: Green Rally Car, Selling: 5000.00
+Id: 152, Name: Orange Rally Car, Selling: 5000.00
+Id: 153, Name: Purple Rally Car, Selling: 5000.00
+Id: 154, Name: Red Rally Car, Selling: 5000.00
+Id: 155, Name: White Rally Car, Selling: 5000.00
+Id: 156, Name: Yellow Rally Car, Selling: 5000.00
+Id: 157, Name: Eagle, Selling: 5000.00
+Id: 158, Name: Black Beetle, Selling: 5000.00
+Id: 159, Name: Blue Beetle, Selling: 5000.00
+Id: 160, Name: Green Beetle, Selling: 5000.00
+Id: 161, Name: Orange Beetle, Selling: 5000.00
+Id: 162, Name: Purple Beetle, Selling: 5000.00
+Id: 163, Name: Red Beetle, Selling: 5000.00
+Id: 164, Name: White Beetle, Selling: 5000.00
+Id: 165, Name: Yellow Beetle, Selling: 5000.00
+Id: 166, Name: Police Car, Selling: 2000.00
+Id: 167, Name: Firetruck, Selling: 5000.00
+Id: 168, Name: Ambulance, Selling: 5000.00
+Id: 169, Name: Police Helicopter, Selling: 0.00
+Id: 170, Name: Military Offroader, Selling: 5000.00
+Id: 171, Name: Ural, Selling: 5000.00
+Id: 172, Name: APC, Selling: 0.00
+Id: 173, Name: Tank, Selling: 0.00
+Id: 174, Name: Attack Heli, Selling: 0.00
+Id: 175, Name: Transport Heli, Selling: 0.00
+Id: 176, Name: Black Dirtbike, Selling: 5000.00
+Id: 177, Name: Blue Dirtbike, Selling: 5000.00
+Id: 178, Name: Green Dirtbike, Selling: 5000.00
+Id: 179, Name: Orange Dirtbike, Selling: 5000.00
+Id: 180, Name: Purple Dirtbike, Selling: 5000.00
+Id: 181, Name: Red Dirtbike, Selling: 5000.00
+Id: 182, Name: White Dirtbike, Selling: 5000.00
+Id: 183, Name: Yellow Dirtbike, Selling: 5000.00
+Id: 184, Name: Orca, Selling: 0.00
+Id: 185, Name: Bicycle, Selling: 2500.00
+Id: 186, Name: Cargo Train, Selling: 0.00
+Id: 187, Name: Cargo Train, Selling: 0.00
+Id: 188, Name: Police Motorcycle, Selling: 5000.00
+Id: 189, Name: Blimp, Selling: 0.00

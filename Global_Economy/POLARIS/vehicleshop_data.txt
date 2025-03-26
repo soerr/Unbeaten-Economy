@@ -1,0 +1,54 @@
+Id: 36000, Name: ZIS, Selling: 0.00
+Id: 36001, Name: Grey Paras, Selling: 7000.00
+Id: 36002, Name: Cream Paras, Selling: 7000.00
+Id: 36003, Name: Black Paras, Selling: 7000.00
+Id: 36004, Name: Red Paras, Selling: 7000.00
+Id: 36005, Name: White Paras, Selling: 7000.00
+Id: 36006, Name: Grey Fifi, Selling: 7000.00
+Id: 36007, Name: Black Fifi, Selling: 7000.00
+Id: 36008, Name: Cream Fifi, Selling: 7000.00
+Id: 36009, Name: Red Fifi, Selling: 7000.00
+Id: 36010, Name: White Fifi, Selling: 7000.00
+Id: 36011, Name: Grey Offender, Selling: 10000.00
+Id: 36012, Name: Black Offender, Selling: 10000.00
+Id: 36013, Name: Cream Offender, Selling: 10000.00
+Id: 36014, Name: Red Offender, Selling: 10000.00
+Id: 36015, Name: White Offender, Selling: 10000.00
+Id: 36016, Name: Grey Traveler, Selling: 10000.00
+Id: 36017, Name: Black Traveler, Selling: 10000.00
+Id: 36018, Name: Cream Traveler, Selling: 4000.10
+Id: 36019, Name: Red Traveler, Selling: 10000.00
+Id: 36020, Name: White Traveler, Selling: 10000.00
+Id: 36021, Name: Expeditioner, Selling: 10000.00
+Id: 36022, Name: Grey Scout, Selling: 10000.00
+Id: 36023, Name: Police Scout, Selling: 10000.00
+Id: 36024, Name: Minecart, Selling: 0.00
+Id: 36025, Name: Rotor, Selling: 0.00
+Id: 36026, Name: Minecart, Selling: 0.00
+Id: 36027, Name: Katalina, Selling: 0.00
+Id: 36028, Name: Fififi, Selling: 0.00
+Id: 36029, Name: Ghost Paras, Selling: 0.00
+Id: 36030, Name: Hovercraft, Selling: 10000.00
+Id: 36031, Name: Black Scout, Selling: 10000.00
+Id: 36032, Name: Cream Scout, Selling: 10000.00
+Id: 36033, Name: Red Scout, Selling: 10000.00
+Id: 36034, Name: White Scout, Selling: 10000.00
+Id: 36035, Name: Grey Fletcher, Selling: 7000.00
+Id: 36036, Name: Black Fletcher, Selling: 7000.00
+Id: 36037, Name: Cream Fletcher, Selling: 7000.00
+Id: 36038, Name: Red Fletcher, Selling: 7000.00
+Id: 36039, Name: White Fletcher, Selling: 7000.00
+Id: 36040, Name: Grey Competitor, Selling: 10000.00
+Id: 36041, Name: Black Competitor, Selling: 10000.00
+Id: 36042, Name: Cream Competitor, Selling: 10000.00
+Id: 36043, Name: Red Competitor, Selling: 10000.00
+Id: 36044, Name: White Competitor, Selling: 10000.00
+Id: 36045, Name: Bushwacker, Selling: 10000.00
+Id: 36046, Name: Bus, Selling: 7000.00
+Id: 36047, Name: Responder, Selling: 7000.00
+Id: 36048, Name: Taxi, Selling: 7000.00
+Id: 36049, Name: Police Van, Selling: 10000.00
+Id: 36050, Name: Military Quad, Selling: 7000.00
+Id: 36051, Name: Police Quad, Selling: 7000.00
+Id: 36052, Name: Tractor, Selling: 7000.00
+Id: 36053, Name: Aqua Offender, Selling: 10000.00

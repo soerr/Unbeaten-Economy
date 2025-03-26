@@ -1,0 +1,36 @@
+Id: 57000, Name: Bus, Selling: 15000.00
+Id: 57001, Name: Tank, Selling: 0.00
+Id: 57002, Name: Blue Ray, Selling: 20000.00
+Id: 57003, Name: X-Ray, Selling: 17500.00
+Id: 57004, Name: Black Ray, Selling: 20000.00
+Id: 57005, Name: Red Ray, Selling: 20000.00
+Id: 57006, Name: Yellow Ray, Selling: 20000.00
+Id: 57007, Name: White Ray, Selling: 20000.00
+Id: 57008, Name: Black Muscle, Selling: 20000.00
+Id: 57009, Name: Blue Muscle, Selling: 20000.00
+Id: 57010, Name: Red Muscle, Selling: 20000.00
+Id: 57011, Name: White Muscle, Selling: 20000.00
+Id: 57012, Name: Yellow Muscle, Selling: 20000.00
+Id: 57013, Name: Stork, Selling: 150000.00
+Id: 57014, Name: Woogie, Selling: 15000.00
+Id: 57015, Name: Black Beeb, Selling: 20000.00
+Id: 57016, Name: Blue Beeb, Selling: 20000.00
+Id: 57017, Name: Red Beeb, Selling: 20000.00
+Id: 57018, Name: White Beeb, Selling: 20000.00
+Id: 57019, Name: Yellow Beeb, Selling: 20000.00
+Id: 57020, Name: Quad, Selling: 35000.00
+Id: 57021, Name: Ambulance, Selling: 25000.00
+Id: 57022, Name: Truck, Selling: 20000.00
+Id: 57023, Name: Blue Motorbike, Selling: 12500.00
+Id: 57024, Name: Black Motorbike, Selling: 12500.00
+Id: 57025, Name: Red Motorbike, Selling: 12500.00
+Id: 57026, Name: White Motorbike, Selling: 12500.00
+Id: 57027, Name: Yellow Motorbike, Selling: 12500.00
+Id: 57028, Name: Police Car, Selling: 35000.00
+Id: 57029, Name: Firetruck, Selling: 30000.00
+Id: 57030, Name: Police Truck, Selling: 0.00
+Id: 57031, Name: Police Truck, Selling: 30000.00
+Id: 57032, Name: Police Truck, Selling: 30000.00
+Id: 57033, Name: Bulldozer, Selling: 20000.00
+Id: 57034, Name: Cart, Selling: 0.00
+Id: 57035, Name: Racing Cart, Selling: 0.00

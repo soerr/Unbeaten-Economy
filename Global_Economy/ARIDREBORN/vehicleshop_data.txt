@@ -1,0 +1,51 @@
+Id: 19000, Name: VB80, Selling: 10000.00
+Id: 19001, Name: ZAV-500, Selling: 10000.00
+Id: 19002, Name: ZUK-13, Selling: 10000.00
+Id: 19003, Name: ZUK-15, Selling: 10000.00
+Id: 19004, Name: ZUK-15, Selling: 10000.00
+Id: 19005, Name: MYZ-83 Tractor, Selling: 0.00
+Id: 19006, Name: MYZ-83 Tractor, Selling: 0.00
+Id: 19007, Name: HAYLEX-85, Selling: 10000.00
+Id: 19008, Name: HAYLEX-85 Technical, Selling: 0.00
+Id: 19009, Name: HAYLEX-85 Technical, Selling: 0.00
+Id: 19010, Name: HAYLEX-85 Technical, Selling: 0.00
+Id: 19011, Name: M61 Van, Selling: 10000.00
+Id: 19012, Name: M80 Jeep, Selling: 3000.00
+Id: 19013, Name: M81 Jeep, Selling: 3000.00
+Id: 19014, Name: Volot Truck, Selling: 0.00
+Id: 19015, Name: Volot Truck, Selling: 0.00
+Id: 19016, Name: Police Truck, Selling: 0.00
+Id: 19017, Name: Minsk Motorbike, Selling: 10000.00
+Id: 19018, Name: URAL, Selling: 3000.00
+Id: 19019, Name: URAL Gradik, Selling: 0.00
+Id: 19020, Name: HEMET, Selling: 25000.00
+Id: 19021, Name: HEMET MLRS, Selling: 0.00
+Id: 19022, Name: BREM-1, Selling: 0.00
+Id: 19023, Name: BREM-1 Evacuator, Selling: 0.00
+Id: 19024, Name: BRDM-2, Selling: 0.00
+Id: 19025, Name: BRDM-2, Selling: 0.00
+Id: 19026, Name: Guardian, Selling: 7000.00
+Id: 19027, Name: Guardian, Selling: 0.00
+Id: 19028, Name: M11 Bruno, Selling: 0.00
+Id: 19029, Name: MBP-2, Selling: 0.00
+Id: 19030, Name: AV-25 Shkiper, Selling: 0.00
+Id: 19031, Name: Object-166, Selling: 0.00
+Id: 19032, Name: Object-166, Selling: 0.00
+Id: 19033, Name: XM-1, Selling: 0.00
+Id: 19034, Name: XM-1, Selling: 0.00
+Id: 19035, Name: HH-6, Selling: 0.00
+Id: 19036, Name: HH-6, Selling: 0.00
+Id: 19037, Name: HH-6, Selling: 0.00
+Id: 19038, Name: HH-6, Selling: 0.00
+Id: 19039, Name: IM-8, Selling: 0.00
+Id: 19040, Name: IM-8, Selling: 0.00
+Id: 19041, Name: IL-2, Selling: 0.00
+Id: 19042, Name: Jengu-J7, Selling: 0.00
+Id: 19043, Name: Thunderbolt, Selling: 0.00
+Id: 19044, Name: O.D.I.N., Selling: 0.00
+Id: 19045, Name: Mortar, Selling: 0.00
+Id: 19046, Name: Soltam, Selling: 0.00
+Id: 19047, Name: Browning, Selling: 0.00
+Id: 19048, Name: Kord, Selling: 0.00
+Id: 19049, Name: Kord, Selling: 0.00
+Id: 19050, Name: TK-66, Selling: 0.00

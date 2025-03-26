@@ -1,0 +1,29 @@
+Id: 51000, Name: HTV 150MM, Selling: 0.00
+Id: 51002, Name: Forklift, Selling: 0.00
+Id: 51003, Name: LTV, Selling: 20000.00
+Id: 51005, Name: Lawn Mower, Selling: 10000.00
+Id: 51006, Name: Red Sedan, Selling: 10000.00
+Id: 51007, Name: Police Sedan, Selling: 10000.00
+Id: 51008, Name: Red Pickup Truck, Selling: 10000.00
+Id: 51009, Name: Police Truck, Selling: 10000.00
+Id: 51010, Name: Blue Muscle Car, Selling: 10000.00
+Id: 51011, Name: SUV, Selling: 0.00
+Id: 51012, Name: Military Jeep, Selling: 10000.00
+Id: 51013, Name: Buzzkill, Selling: 0.00
+Id: 51014, Name: G-Yacht, Selling: 15000.00
+Id: 51015, Name: Blue Sedan, Selling: 10000.00
+Id: 51016, Name: Green Sedan, Selling: 10000.00
+Id: 51017, Name: White Sedan, Selling: 10000.00
+Id: 51018, Name: Black Sedan, Selling: 10000.00
+Id: 51019, Name: Blue Pickup Truck, Selling: 10000.00
+Id: 51020, Name: Green Pickup Truck, Selling: 10000.00
+Id: 51021, Name: White Pickup Truck, Selling: 10000.00
+Id: 51022, Name: Black Pickup Truck, Selling: 10000.00
+Id: 51023, Name: Red Van, Selling: 10000.00
+Id: 51024, Name: Blue Van, Selling: 10000.00
+Id: 51025, Name: Green Van, Selling: 10000.00
+Id: 51026, Name: White Van, Selling: 10000.00
+Id: 51027, Name: Black Van, Selling: 10000.00
+Id: 51028, Name: Black Muscle Car, Selling: 10000.00
+Id: 51029, Name: Orange Muscle Car, Selling: 10000.00
+Id: 51030, Name: Orange Muscle Car, Selling: 10000.00
