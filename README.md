@@ -16,4 +16,4 @@ We encourage community members to help improve our economy system. To contribute
 - Follow the repository's format and structure.  
 - No unobtainable items will be added.  
 ---  
-*Maintained by the Unbeaten Network* [Discord](https://discord.gg/4QeCC7cMGn)  
+*Maintained by the Unbeaten Network [Discord](https://discord.gg/4QeCC7cMGn)*  
