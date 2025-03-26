@@ -1,7 +1,3 @@
-# Unbeaten-Economy
-
-Unbeaten Network Global Server Economy
-
 ## Overview
 The **Unbeaten-Economy** is the official economy system for Unbeaten servers. This system manages item prices of all ingame items.
 
@@ -15,14 +11,13 @@ We encourage community members to participate in bettering our economy system. T
 3. Submit a pull request with a explanation.
 4. The Unbeaten Network team will review and approve the updates.
 
-
 ## Guidelines for Contributions
 - Ensure balance and fairness across the economy.
 - Follow the repository's format and structure.
 - No unobtainable items will be added.
 
 
-**Discord:** [https://discord.gg/4QeCC7cMGn]  
+[Discord]([www.google.com](https://discord.gg/4QeCC7cMGn))
 ---
 *Maintained by the Unbeaten Network *
 
