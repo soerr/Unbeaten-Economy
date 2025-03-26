@@ -9,7 +9,7 @@ We encourage community members to help improve our economy system. To contribute
 1. Fork this repository.  
 2. Modify the economy file for the desired map.  
 3. Submit a pull request with an explanation.  
-4. The Unbeaten Network team will review and approve the updates.  
+4. The Unbeaten Network will review and approve the updates.  
 
 ## Guidelines for Contributions  
 - Ensure balance and fairness across the economy.  
