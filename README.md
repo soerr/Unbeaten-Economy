@@ -1,5 +1,6 @@
 # Unbeaten-Economy  
-The **Unbeaten-Economy** is the official economic system for Unbeaten servers. This system manages the prices of all in-game items.  
+The **Unbeaten-Economy** is the official economic system for Unbeaten servers. This system manages the prices of all in-game items.
+**Selling means the price of the item when you type /Buy (id/name)**
 
 ## Public Economy Data  
 To promote community involvement, we propose making item prices publicly available. This allows the community to contribute.  
