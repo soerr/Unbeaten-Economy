@@ -16,7 +16,7 @@ Id: 51019, Name: Stack of Metal Ingots, Selling: 900.00
 Id: 51020, Name: Fabric Scraps, Selling: 30.00
 Id: 51021, Name: Fabric, Selling: 120.00
 Id: 51022, Name: Stack of Fabric, Selling: 0.00
-Id: 51023, Name: Wood Log, Selling: 0.00
+Id: 51023, Name: Wood Log, Selling: 5.00
 Id: 51024, Name: Stack of Logs, Selling: 0.00
 Id: 51025, Name: Complex Building Manual, Selling: 0.00
 Id: 51028, Name: Plastic Scrap, Selling: 30.00
