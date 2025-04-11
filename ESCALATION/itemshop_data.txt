@@ -350,7 +350,7 @@ Id: 51388, Name: Centare Iron Sights, Selling: 0.00
 Id: 51400, Name: Bandage, Selling: 25.00
 Id: 51401, Name: Dressing, Selling: 50.00
 Id: 51404, Name: Banana, Selling: 0.00
-Id: 51405, Name: Banana Peel, Selling: 400.00
+Id: 51405, Name: Banana Peel, Selling: 50.00
 Id: 51406, Name: Inhaler, Selling: 100.00
 Id: 51407, Name: Medpack, Selling: 200.00
 Id: 51408, Name: Stim, Selling: 50.00
