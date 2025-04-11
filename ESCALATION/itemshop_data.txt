@@ -949,6 +949,7 @@ Id: 52229, Name: Affair, Selling: 0.00
 Id: 52230, Name: Afterparty, Selling: 0.00
 Id: 52231, Name: Nebulobby, Selling: 0.00
 Id: 52232, Name: Tekno, Selling: 0.00
+Id: 52235, Name: RAC-48, Selling: 500
 Id: 52240, Name: Ashley, Selling: 0.00
 Id: 52242, Name: Walker Monitoring Conversion Kit, Selling: 0.00
 Id: 52244, Name: Duzey-SP, Selling: 0.00
