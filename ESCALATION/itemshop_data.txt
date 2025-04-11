@@ -186,7 +186,7 @@ Id: 51208, Name: CSO-85, Selling: 0.00
 Id: 51209, Name: Hermes, Selling: 0.00
 Id: 51210, Name: Drill Bomb, Selling: 0.00
 Id: 51211, Name: Walker, Selling: 750.00
-Id: 51212, Name: Cavalry, Selling: 1000.00
+Id: 51212, Name: Cavalry, Selling: 500.00
 Id: 51213, Name: Government, Selling: 400.00
 Id: 51214, Name: Government-SP, Selling: 500.00
 Id: 51215, Name: Asset-SP, Selling: 750.00
