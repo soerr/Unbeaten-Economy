@@ -288,7 +288,7 @@ Id: 51318, Name: Throwing Disk, Selling: 0.00
 Id: 51319, Name: Throwing Landmine, Selling: 0.00
 Id: 51320, Name: Brick, Selling: 0.00
 Id: 51321, Name: Sundoor, Selling: 0.00
-Id: 51322, Name: Tempest, Selling: 0.00
+Id: 51322, Name: Tempest, Selling: 4000.00
 Id: 51323, Name: HE Shell, Selling: 0.00
 Id: 51324, Name: Hera, Selling: 0.00
 Id: 51325, Name: Rocket Pod, Selling: 0.00
@@ -312,7 +312,7 @@ Id: 51342, Name: Dual M1911 "Accelerators", Selling: 0.00
 Id: 51343, Name: Dual Iridium Tantos, Selling: 0.00
 Id: 51344, Name: Dual M1911-SP "Accelerators", Selling: 0.00
 Id: 51345, Name: Dual Iridium Tanto-SPs, Selling: 0.00
-Id: 51346, Name: Tempest-SP, Selling: 0.00
+Id: 51346, Name: Tempest-SP, Selling: 4500.00
 Id: 51347, Name: Sundoor-SP, Selling: 500.00
 Id: 51348, Name: Midnight Blade, Selling: 0.00
 Id: 51349, Name: Ballistic Shield, Selling: 0.00
