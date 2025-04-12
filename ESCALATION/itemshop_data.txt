@@ -758,10 +758,10 @@ Id: 52019, Name: Random Item for 50 GRB, Selling: 0.00
 Id: 52020, Name: Biohazard Tank, Selling: 0.00
 Id: 52021, Name: BioHood, Selling: 0.00
 Id: 52022, Name: Farmer Hat, Selling: 0.00
-Id: 52023, Name: EOD Helmet, Selling: 0.00
+Id: 52023, Name: EOD Helmet, Selling: 7500.00
 Id: 52024, Name: Strike Call 6 (TEST), Selling: 0.00
 Id: 52025, Name: BioBlue, Selling: 0.00
-Id: 52026, Name: EOD Vest, Selling: 0.00
+Id: 52026, Name: EOD Vest, Selling: 5000.00
 Id: 52027, Name: EODRadio, Selling: 0.00
 Id: 52028, Name: Ares Rockets, Selling: 0.00
 Id: 52029, Name: goober, Selling: 0.00
@@ -1020,8 +1020,8 @@ Id: 52324, Name: White Suit Top, Selling: 0.00
 Id: 52325, Name: White Suit Bottom, Selling: 0.00
 Id: 52326, Name: Blue Suit Top, Selling: 0.00
 Id: 52327, Name: Blue Suit Bottom, Selling: 0.00
-Id: 52328, Name: EOD Top, Selling: 0.00
-Id: 52329, Name: EOD Bottom, Selling: 0.00
+Id: 52328, Name: EOD Top, Selling: 5000.00
+Id: 52329, Name: EOD Bottom, Selling: 5000.00
 Id: 52330, Name: Flight Top, Selling: 0.00
 Id: 52331, Name: Flight Bottom, Selling: 0.00
 Id: 52332, Name: Flight Helmet, Selling: 0.00
