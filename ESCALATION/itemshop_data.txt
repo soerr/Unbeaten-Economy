@@ -951,7 +951,7 @@ Id: 52231, Name: Nebulobby, Selling: 0.00
 Id: 52232, Name: Tekno, Selling: 0.00
 Id: 52235, Name: RAC-48, Selling: 1500.00
 Id: 52237, Name: Empay, Selling: 1000.00
-Id: 52239, Name: Esdee: Selling:2000.00
+Id: 52239, Name: Esdee: Selling: 2000.00
 Id: 52240, Name: Ashley, Selling: 0.00
 Id: 52242, Name: Walker Monitoring Conversion Kit, Selling: 0.00
 Id: 52244, Name: Duzey-SP, Selling: 0.00
