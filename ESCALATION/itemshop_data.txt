@@ -193,7 +193,7 @@ Id: 51215, Name: Asset-SP, Selling: 750.00
 Id: 51216, Name: ECS-25, Selling: 750.00
 Id: 51217, Name: Falcon .50, Selling: 300.00
 Id: 51218, Name: Crown, Selling: 0.00
-Id: 51219, Name: Nacht, Selling: 0.00
+Id: 51219, Name: Nacht, Selling: 4500.00
 Id: 51220, Name: Ulfberht, Selling: 300.00
 Id: 51221, Name: Looty, Selling: 400.00
 Id: 51222, Name: Uzey, Selling: 200.00
