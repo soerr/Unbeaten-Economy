@@ -1047,6 +1047,7 @@ Id: 52423, Name: Plastic Shelter (Green), Selling: 10000.00
 Id: 52424, Name: Plastic Shelter (Blue), Selling: 10000.00
 Id: 52430, Name: Liberator, Selling: 6000.00
 Id: 52431, Name: Liberator-SP, Selling: 6500.00
+Id: 52530, Name: Exakt, Selling: 1250.00
 Id: 55001, Name: Pile of Logs, Selling: 0.00
 Id: 55002, Name: Pile of Metal Ingots, Selling: 4500.00
 Id: 55003, Name: Pile of Fabric, Selling: 0.00
