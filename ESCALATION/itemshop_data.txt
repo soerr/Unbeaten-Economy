@@ -1040,6 +1040,7 @@ Id: 52346, Name: Robot #5, Selling: 0.00
 Id: 52347, Name: Robot #6, Selling: 0.00
 Id: 52349, Name: Buzzkill, Selling: 0.00
 Id: 52350, Name: AH-46 Kings Hand, Selling: 0.00
+Id: 52387, Name: LMG Incendiary Drum, Selling: 450.00
 Id: 52420, Name: Plastic Shelter (White), Selling: 10000.00
 Id: 52421, Name: Plastic Shelter (Red), Selling: 10000.00
 Id: 52422, Name: Plastic Shelter (Orange), Selling: 10000.00
