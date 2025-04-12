@@ -645,13 +645,13 @@ Id: 51892, Name: Reinforced Short Ramp Wall, Selling: 0.00
 Id: 51893, Name: Reinforced Storefront, Selling: 0.00
 Id: 51896, Name: Complex Building Knowledge, Selling: 500.00
 Id: 51897, Name: Forget Complex Building Knowledge, Selling: 0.00
-Id: 51900, Name: 5 Grubby, Selling: 0.00
-Id: 51901, Name: 10 Grubby, Selling: 0.00
-Id: 51902, Name: 25 Grubby, Selling: 0.00
-Id: 51903, Name: 50 Grubby, Selling: 0.00
-Id: 51904, Name: 100 Grubby, Selling: 0.00
-Id: 51905, Name: 250 Grubby, Selling: 0.00
-Id: 51906, Name: 500 Grubby, Selling: 0.00
+Id: 51900, Name: 5 Grubby, Selling: 5.00
+Id: 51901, Name: 10 Grubby, Selling: 10.00
+Id: 51902, Name: 25 Grubby, Selling: 25.00
+Id: 51903, Name: 50 Grubby, Selling: 50.00
+Id: 51904, Name: 100 Grubby, Selling: 100.00
+Id: 51905, Name: 250 Grubby, Selling: 250.00
+Id: 51906, Name: 500 Grubby, Selling: 500.00
 Id: 51908, Name: Armor Piercing Marksman Magazine, Selling: 100.00
 Id: 51909, Name: Hollow Point Marksman Magazine, Selling: 100.00
 Id: 51910, Name: 12 Gauge Shells, Selling: 100.00
@@ -765,7 +765,7 @@ Id: 52026, Name: EOD Vest, Selling: 0.00
 Id: 52027, Name: EODRadio, Selling: 0.00
 Id: 52028, Name: Ares Rockets, Selling: 0.00
 Id: 52029, Name: goober, Selling: 0.00
-Id: 52030, Name: Grubby Spread, Selling: 0.00
+Id: 52030, Name: Grubby Spread, Selling: 5000.00
 Id: 52032, Name: Military Short Gun Crate, Selling: 0.00
 Id: 52033, Name: Military Long Gun Crate, Selling: 0.00
 Id: 52034, Name: Military Armory Crate, Selling: 0.00
