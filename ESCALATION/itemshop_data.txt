@@ -258,8 +258,8 @@ Id: 51285, Name: Empey-SP, Selling: 350.00
 Id: 51286, Name: Uzey-SP, Selling: 450.00
 Id: 51287, Name: Nacht-SP, Selling: 5000.00
 Id: 51288, Name: Gotha Bomb, Selling: 0.00
-Id: 51289, Name: ECS-25-BLK, Selling: 0.00
-Id: 51290, Name: ECS-25-BLK-SP, Selling: 0.00
+Id: 51289, Name: ECS-25-BLK, Selling: 750.00
+Id: 51290, Name: ECS-25-BLK-SP, Selling: 750.00
 Id: 51291, Name: Golden Falcon, Selling: 0.00
 Id: 51292, Name: M1911 "Accelerator", Selling: 0.00
 Id: 51293, Name: M1911-SP "Accelerator", Selling: 0.00
