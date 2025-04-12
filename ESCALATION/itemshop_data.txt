@@ -438,7 +438,7 @@ Id: 51650, Name: Metal Hatch, Selling: 0.00
 Id: 51651, Name: Wooden Ladder, Selling: 200.00
 Id: 51652, Name: Wooden Shutter, Selling: 200.00
 Id: 51653, Name: Metal Shutter, Selling: 0.00
-Id: 51654, Name: Vault Hatch, Selling: 0.00
+Id: 51654, Name: Vault Hatch, Selling: 1100.00
 Id: 51655, Name: Barbed Wire, Selling: 0.00
 Id: 51656, Name: Concertina Wire, Selling: 0.00
 Id: 51657, Name: Beartrap, Selling: 0.00
@@ -459,7 +459,7 @@ Id: 51671, Name: Red Couch, Selling: 0.00
 Id: 51672, Name: Yellow Couch, Selling: 0.00
 Id: 51673, Name: Blue Couch, Selling: 0.00
 Id: 51674, Name: Green Couch, Selling: 0.00
-Id: 51675, Name: Vault Door, Selling: 0.00
+Id: 51675, Name: Vault Door, Selling: 1100.00
 Id: 51677, Name: White Bed, Selling: 0.00
 Id: 51678, Name: Red Bed, Selling: 0.00
 Id: 51679, Name: Yellow Bed, Selling: 0.00
