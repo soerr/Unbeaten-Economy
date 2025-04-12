@@ -186,7 +186,7 @@ Id: 51208, Name: CSO-85, Selling: 0.00
 Id: 51209, Name: Hermes, Selling: 0.00
 Id: 51210, Name: Drill Bomb, Selling: 0.00
 Id: 51211, Name: Walker, Selling: 750.00
-Id: 51212, Name: Cavalry, Selling: 500.00
+Id: 51212, Name: Cavalry, Selling: 1000.00
 Id: 51213, Name: Government, Selling: 400.00
 Id: 51214, Name: Government-SP, Selling: 500.00
 Id: 51215, Name: Asset-SP, Selling: 750.00
@@ -288,7 +288,7 @@ Id: 51318, Name: Throwing Disk, Selling: 0.00
 Id: 51319, Name: Throwing Landmine, Selling: 0.00
 Id: 51320, Name: Brick, Selling: 0.00
 Id: 51321, Name: Sundoor, Selling: 0.00
-Id: 51322, Name: Tempest, Selling: 4000.00
+Id: 51322, Name: Tempest, Selling: 6000.00
 Id: 51323, Name: HE Shell, Selling: 0.00
 Id: 51324, Name: Hera, Selling: 0.00
 Id: 51325, Name: Rocket Pod, Selling: 0.00
@@ -312,7 +312,7 @@ Id: 51342, Name: Dual M1911 "Accelerators", Selling: 0.00
 Id: 51343, Name: Dual Iridium Tantos, Selling: 0.00
 Id: 51344, Name: Dual M1911-SP "Accelerators", Selling: 0.00
 Id: 51345, Name: Dual Iridium Tanto-SPs, Selling: 0.00
-Id: 51346, Name: Tempest-SP, Selling: 4500.00
+Id: 51346, Name: Tempest-SP, Selling: 6500.00
 Id: 51347, Name: Sundoor-SP, Selling: 500.00
 Id: 51348, Name: Midnight Blade, Selling: 0.00
 Id: 51349, Name: Ballistic Shield, Selling: 0.00
@@ -350,7 +350,7 @@ Id: 51388, Name: Centare Iron Sights, Selling: 0.00
 Id: 51400, Name: Bandage, Selling: 25.00
 Id: 51401, Name: Dressing, Selling: 50.00
 Id: 51404, Name: Banana, Selling: 0.00
-Id: 51405, Name: Banana Peel, Selling: 50.00
+Id: 51405, Name: Banana Peel, Selling: 400.00
 Id: 51406, Name: Inhaler, Selling: 100.00
 Id: 51407, Name: Medpack, Selling: 200.00
 Id: 51408, Name: Stim, Selling: 50.00
@@ -949,9 +949,9 @@ Id: 52229, Name: Affair, Selling: 0.00
 Id: 52230, Name: Afterparty, Selling: 0.00
 Id: 52231, Name: Nebulobby, Selling: 0.00
 Id: 52232, Name: Tekno, Selling: 0.00
-Id: 52235, Name: RAC-48, Selling: 500.00
+Id: 52235, Name: RAC-48, Selling: 1500.00
 Id: 52237, Name: Empay, Selling: 1000.00
-Id: 52239, Name: Esdee: Selling: 1000.00
+Id: 52239, Name: Esdee: Selling:2000.00
 Id: 52240, Name: Ashley, Selling: 0.00
 Id: 52242, Name: Walker Monitoring Conversion Kit, Selling: 0.00
 Id: 52244, Name: Duzey-SP, Selling: 0.00
