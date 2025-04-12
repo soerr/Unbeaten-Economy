@@ -425,7 +425,7 @@ Id: 51636, Name: Worklamp, Selling: 0.00
 Id: 51637, Name: Bulletproof Glass, Selling: 0.00
 Id: 51638, Name: One Way Glass, Selling: 0.00
 Id: 51639, Name: Wooden Door, Selling: 200.00
-Id: 51640, Name: Metal Door, Selling: 0.00
+Id: 51640, Name: Metal Door, Selling: 400.00
 Id: 51642, Name: Wooden Barricade, Selling: 200.00
 Id: 51643, Name: Metal Doubledoor, Selling: 0.00
 Id: 51644, Name: Wooden Doubledoor, Selling: 200.00
@@ -434,7 +434,7 @@ Id: 51646, Name: Metal Gate, Selling: 0.00
 Id: 51647, Name: Wooden Fortification, Selling: 200.00
 Id: 51648, Name: Metal Fortification, Selling: 0.00
 Id: 51649, Name: Wooden Hatch, Selling: 200.00
-Id: 51650, Name: Metal Hatch, Selling: 0.00
+Id: 51650, Name: Metal Hatch, Selling: 400.00
 Id: 51651, Name: Wooden Ladder, Selling: 200.00
 Id: 51652, Name: Wooden Shutter, Selling: 200.00
 Id: 51653, Name: Metal Shutter, Selling: 0.00
