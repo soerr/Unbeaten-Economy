@@ -478,57 +478,57 @@ Id: 51695, Name: PBS Sea Mine MAP OBJECT, Selling: 0.00
 Id: 51696, Name: PBS Razorwire 1 MAP OBJECT, Selling: 0.00
 Id: 51697, Name: PBS Razorwire 2 MAP OBJECT, Selling: 0.00
 Id: 51698, Name: PBS airdrop, Selling: 0.00
-Id: 51700, Name: Wooden Floor, Selling: 0.00
-Id: 51701, Name: Wooden Wall, Selling: 0.00
-Id: 51702, Name: Wooden Roof, Selling: 0.00
-Id: 51703, Name: Wooden Doorway, Selling: 0.00
-Id: 51704, Name: Wooden Window, Selling: 0.00
-Id: 51705, Name: Wooden Garage, Selling: 0.00
-Id: 51706, Name: Wooden Hole, Selling: 0.00
-Id: 51707, Name: Wooden Stairs, Selling: 0.00
-Id: 51708, Name: Wooden Ramp, Selling: 0.00
-Id: 51709, Name: Wooden Ramp Wall, Selling: 0.00
-Id: 51710, Name: Wooden Rampart, Selling: 0.00
-Id: 51711, Name: Wooden Triangular Floor, Selling: 0.00
-Id: 51712, Name: Wooden Triangular Roof, Selling: 0.00
-Id: 51713, Name: Wooden Half Floor, Selling: 0.00
-Id: 51714, Name: Wooden Half Roof, Selling: 0.00
-Id: 51715, Name: Wooden Decorative Pillar, Selling: 0.00
-Id: 51716, Name: Wooden Decorative Post, Selling: 0.00
-Id: 51717, Name: Wooden Half Wall, Selling: 0.00
-Id: 51718, Name: Wooden Center Wall, Selling: 0.00
-Id: 51719, Name: Wooden Offset Doorway, Selling: 0.00
-Id: 51720, Name: Wooden Half Doorway, Selling: 0.00
-Id: 51721, Name: Wooden Circular Window, Selling: 0.00
-Id: 51722, Name: Wooden Horizontal Window, Selling: 0.00
-Id: 51723, Name: Wooden Vertical Window, Selling: 0.00
-Id: 51724, Name: Wooden Center Offset Hole, Selling: 0.00
-Id: 51725, Name: Wooden Corner Offset Hole, Selling: 0.00
-Id: 51726, Name: Wooden Left Stairs, Selling: 0.00
-Id: 51727, Name: Wooden Right Stairs, Selling: 0.00
-Id: 51728, Name: Wooden Triangular Hole, Selling: 0.00
-Id: 51729, Name: Wooden Half Ramp Left, Selling: 0.00
-Id: 51730, Name: Wooden Half Ramp Right, Selling: 0.00
-Id: 51731, Name: Wooden Concave Ramp, Selling: 0.00
-Id: 51732, Name: Wooden Convex Ramp, Selling: 0.00
-Id: 51733, Name: Wooden Pyramid Cap, Selling: 0.00
-Id: 51734, Name: Wooden Short Ramp Wall, Selling: 0.00
-Id: 51735, Name: Wooden Half Rampart, Selling: 0.00
-Id: 51736, Name: Wooden Slotted Rampart, Selling: 0.00
-Id: 51737, Name: Wooden Railing, Selling: 0.00
-Id: 51738, Name: Wooden Half Railing, Selling: 0.00
-Id: 51739, Name: Wooden Center Doorway, Selling: 0.00
-Id: 51740, Name: Wooden Center Window, Selling: 0.00
-Id: 51741, Name: Wooden Center Railing, Selling: 0.00
-Id: 51742, Name: Wooden Left Landing, Selling: 0.00
-Id: 51743, Name: Wooden Right Landing, Selling: 0.00
-Id: 51744, Name: Wooden Quarter Hole, Selling: 0.00
-Id: 51745, Name: Wooden Lower Triangular Ramp, Selling: 0.00
-Id: 51746, Name: Wooden Upper Triangular Ramp, Selling: 0.00
-Id: 51747, Name: Wooden Reverse Stairs, Selling: 0.00
-Id: 51748, Name: Wooden Storefront, Selling: 0.00
-Id: 51749, Name: Wooden Upper Short Ramp Wall, Selling: 0.00
-Id: 51750, Name: Wooden Upper Rampart, Selling: 0.00
+Id: 51700, Name: Wooden Floor, Selling: 500.00
+Id: 51701, Name: Wooden Wall, Selling: 500.00
+Id: 51702, Name: Wooden Roof, Selling: 500.00
+Id: 51703, Name: Wooden Doorway, Selling: 500.00
+Id: 51704, Name: Wooden Window, Selling: 500.00
+Id: 51705, Name: Wooden Garage, Selling: 500.00
+Id: 51706, Name: Wooden Hole, Selling: 500.00
+Id: 51707, Name: Wooden Stairs, Selling: 500.00
+Id: 51708, Name: Wooden Ramp, Selling: 500.00
+Id: 51709, Name: Wooden Ramp Wall, Selling: 500.00
+Id: 51710, Name: Wooden Rampart, Selling: 500.00
+Id: 51711, Name: Wooden Triangular Floor, Selling: 500.00
+Id: 51712, Name: Wooden Triangular Roof, Selling: 500.00
+Id: 51713, Name: Wooden Half Floor, Selling: 500.00
+Id: 51714, Name: Wooden Half Roof, Selling: 500.00
+Id: 51715, Name: Wooden Decorative Pillar, Selling: 500.00
+Id: 51716, Name: Wooden Decorative Post, Selling: 500.00
+Id: 51717, Name: Wooden Half Wall, Selling: 500.00
+Id: 51718, Name: Wooden Center Wall, Selling: 500.00
+Id: 51719, Name: Wooden Offset Doorway, Selling: 500.00
+Id: 51720, Name: Wooden Half Doorway, Selling: 500.00
+Id: 51721, Name: Wooden Circular Window, Selling: 500.00
+Id: 51722, Name: Wooden Horizontal Window, Selling: 500.00
+Id: 51723, Name: Wooden Vertical Window, Selling: 500.00
+Id: 51724, Name: Wooden Center Offset Hole, Selling: 500.00
+Id: 51725, Name: Wooden Corner Offset Hole, Selling: 500.00
+Id: 51726, Name: Wooden Left Stairs, Selling: 500.00
+Id: 51727, Name: Wooden Right Stairs, Selling: 500.00
+Id: 51728, Name: Wooden Triangular Hole, Selling: 500.00
+Id: 51729, Name: Wooden Half Ramp Left, Selling: 500.00
+Id: 51730, Name: Wooden Half Ramp Right, Selling: 500.00
+Id: 51731, Name: Wooden Concave Ramp, Selling: 500.00
+Id: 51732, Name: Wooden Convex Ramp, Selling: 500.00
+Id: 51733, Name: Wooden Pyramid Cap, Selling: 500.00
+Id: 51734, Name: Wooden Short Ramp Wall, Selling: 500.00
+Id: 51735, Name: Wooden Half Rampart, Selling: 500.00
+Id: 51736, Name: Wooden Slotted Rampart, Selling: 500.00
+Id: 51737, Name: Wooden Railing, Selling: 500.00
+Id: 51738, Name: Wooden Half Railing, Selling: 500.00
+Id: 51739, Name: Wooden Center Doorway, Selling: 500.00
+Id: 51740, Name: Wooden Center Window, Selling: 500.00
+Id: 51741, Name: Wooden Center Railing, Selling: 500.00
+Id: 51742, Name: Wooden Left Landing, Selling: 500.00
+Id: 51743, Name: Wooden Right Landing, Selling: 500.00
+Id: 51744, Name: Wooden Quarter Hole, Selling: 500.00
+Id: 51745, Name: Wooden Lower Triangular Ramp, Selling: 500.00
+Id: 51746, Name: Wooden Upper Triangular Ramp, Selling: 500.00
+Id: 51747, Name: Wooden Reverse Stairs, Selling: 500.00
+Id: 51748, Name: Wooden Storefront, Selling: 500.00
+Id: 51749, Name: Wooden Upper Short Ramp Wall, Selling: 500.00
+Id: 51750, Name: Wooden Upper Rampart, Selling: 500.00
 Id: 51760, Name: Armored Floor, Selling: 0.00
 Id: 51761, Name: Armored Wall, Selling: 0.00
 Id: 51762, Name: Armored Roof, Selling: 0.00
@@ -560,77 +560,77 @@ Id: 51795, Name: Reinforced Slotted Rampart, Selling: 600.00
 Id: 51796, Name: Reinforced Half Doorway, Selling: 600.00
 Id: 51797, Name: Reinforced Center Doorway, Selling: 600.00
 Id: 51798, Name: Reinforced Center Window, Selling: 600.00
-Id: 51800, Name: Metal Floor, Selling: 0.00
-Id: 51801, Name: Metal Wall, Selling: 0.00
-Id: 51802, Name: Metal Roof, Selling: 0.00
-Id: 51803, Name: Metal Doorway, Selling: 0.00
-Id: 51804, Name: Metal Window, Selling: 0.00
-Id: 51805, Name: Metal Garage, Selling: 0.00
-Id: 51806, Name: Metal Hole, Selling: 0.00
-Id: 51807, Name: Metal Stairs, Selling: 0.00
-Id: 51808, Name: Metal Ramp, Selling: 0.00
-Id: 51809, Name: Metal Ramp Wall, Selling: 0.00
-Id: 51810, Name: Metal Rampart, Selling: 0.00
-Id: 51811, Name: Metal Triangular Floor, Selling: 0.00
-Id: 51812, Name: Metal Triangular Roof, Selling: 0.00
-Id: 51813, Name: Metal Half Floor, Selling: 0.00
-Id: 51814, Name: Metal Half Roof, Selling: 0.00
-Id: 51815, Name: Metal Decorative Pillar, Selling: 0.00
-Id: 51816, Name: Metal Decorative Post, Selling: 0.00
-Id: 51817, Name: Metal Half Wall, Selling: 0.00
-Id: 51818, Name: Metal Center Wall, Selling: 0.00
-Id: 51819, Name: Metal Offset Doorway, Selling: 0.00
-Id: 51820, Name: Metal Half Doorway, Selling: 0.00
-Id: 51821, Name: Metal Circular Window, Selling: 0.00
-Id: 51822, Name: Metal Horizontal Window, Selling: 0.00
-Id: 51823, Name: Metal Vertical Window, Selling: 0.00
-Id: 51824, Name: Metal Center Offset Hole, Selling: 0.00
-Id: 51825, Name: Metal Corner Offset Hole, Selling: 0.00
-Id: 51826, Name: Metal Left Stairs, Selling: 0.00
-Id: 51827, Name: Metal Right Stairs, Selling: 0.00
-Id: 51828, Name: Metal Triangular Hole, Selling: 0.00
-Id: 51829, Name: Metal Half Ramp Left, Selling: 0.00
-Id: 51830, Name: Metal Half Ramp Right, Selling: 0.00
-Id: 51831, Name: Metal Concave Ramp, Selling: 0.00
-Id: 51832, Name: Metal Convex Ramp, Selling: 0.00
-Id: 51833, Name: Metal Pyramid Cap, Selling: 0.00
-Id: 51834, Name: Metal Short Ramp Wall, Selling: 0.00
-Id: 51835, Name: Metal Half Rampart, Selling: 0.00
-Id: 51836, Name: Metal Slotted Rampart, Selling: 0.00
-Id: 51837, Name: Metal Railing, Selling: 0.00
-Id: 51838, Name: Metal Half Railing, Selling: 0.00
-Id: 51839, Name: Metal Center Doorway, Selling: 0.00
-Id: 51840, Name: Metal Center Window, Selling: 0.00
-Id: 51841, Name: Metal Center Railing, Selling: 0.00
-Id: 51842, Name: Metal Left Landing, Selling: 0.00
-Id: 51843, Name: Metal Right Landing, Selling: 0.00
-Id: 51844, Name: Metal Quarter Hole, Selling: 0.00
-Id: 51845, Name: Metal Lower Triangular Ramp, Selling: 0.00
-Id: 51846, Name: Metal Upper Triangular Ramp, Selling: 0.00
-Id: 51847, Name: Metal Reverse Stairs, Selling: 0.00
-Id: 51848, Name: Metal Storefront, Selling: 0.00
-Id: 51849, Name: Metal Upper Short Ramp Wall, Selling: 0.00
-Id: 51850, Name: Wooden Quarter Roof, Selling: 0.00
-Id: 51851, Name: Wooden Quartered Roof, Selling: 0.00
-Id: 51852, Name: Wooden Decorative Centered Pillar, Selling: 0.00
-Id: 51853, Name: Wooden Decorative Centered Post, Selling: 0.00
-Id: 51854, Name: Wooden Half Center Railing, Selling: 0.00
-Id: 51855, Name: Wooden Ramp Rampart, Selling: 0.00
-Id: 51856, Name: Wooden Ramp Railing, Selling: 0.00
-Id: 51857, Name: Wooden Center Rampart, Selling: 0.00
-Id: 51858, Name: Wooden Half Left Center Wall, Selling: 0.00
-Id: 51859, Name: Wooden Half Right Center Wall, Selling: 0.00
-Id: 51860, Name: Metal Quarter Roof, Selling: 0.00
-Id: 51861, Name: Metal Quartered Roof, Selling: 0.00
-Id: 51862, Name: Metal Decorative Centered Pillar, Selling: 0.00
-Id: 51863, Name: Metal Decorative Centered Post, Selling: 0.00
-Id: 51864, Name: Metal Half Center Railing, Selling: 0.00
-Id: 51865, Name: Metal Ramp Rampart, Selling: 0.00
-Id: 51866, Name: Metal Ramp Railing, Selling: 0.00
-Id: 51867, Name: Metal Center Rampart, Selling: 0.00
-Id: 51868, Name: Metal Half Left Center Wall, Selling: 0.00
-Id: 51869, Name: Metal Half Right Center Wall, Selling: 0.00
-Id: 51870, Name: Metal Upper Rampart, Selling: 0.00
+Id: 51800, Name: Metal Floor, Selling: 1500.00
+Id: 51801, Name: Metal Wall, Selling: 1000.00
+Id: 51802, Name: Metal Roof, Selling: 1000.00
+Id: 51803, Name: Metal Doorway, Selling: 1000.00
+Id: 51804, Name: Metal Window, Selling: 1000.00
+Id: 51805, Name: Metal Garage, Selling: 1000.00
+Id: 51806, Name: Metal Hole, Selling: 1000.00
+Id: 51807, Name: Metal Stairs, Selling: 1000.00
+Id: 51808, Name: Metal Ramp, Selling: 1000.00
+Id: 51809, Name: Metal Ramp Wall, Selling: 1000.00
+Id: 51810, Name: Metal Rampart, Selling: 1000.00
+Id: 51811, Name: Metal Triangular Floor, Selling: 1000.00
+Id: 51812, Name: Metal Triangular Roof, Selling: 1000.00
+Id: 51813, Name: Metal Half Floor, Selling: 1000.00
+Id: 51814, Name: Metal Half Roof, Selling: 1000.00
+Id: 51815, Name: Metal Decorative Pillar, Selling: 1000.00
+Id: 51816, Name: Metal Decorative Post, Selling: 1000.00
+Id: 51817, Name: Metal Half Wall, Selling: 1000.00
+Id: 51818, Name: Metal Center Wall, Selling: 1000.00
+Id: 51819, Name: Metal Offset Doorway, Selling: 1000.00
+Id: 51820, Name: Metal Half Doorway, Selling: 1000.00
+Id: 51821, Name: Metal Circular Window, Selling: 1000.00
+Id: 51822, Name: Metal Horizontal Window, Selling: 1000.00
+Id: 51823, Name: Metal Vertical Window, Selling: 1000.00
+Id: 51824, Name: Metal Center Offset Hole, Selling: 1000.00
+Id: 51825, Name: Metal Corner Offset Hole, Selling: 1000.00
+Id: 51826, Name: Metal Left Stairs, Selling: 1000.00
+Id: 51827, Name: Metal Right Stairs, Selling: 1000.00
+Id: 51828, Name: Metal Triangular Hole, Selling: 1000.00
+Id: 51829, Name: Metal Half Ramp Left, Selling: 1000.00
+Id: 51830, Name: Metal Half Ramp Right, Selling: 1000.00
+Id: 51831, Name: Metal Concave Ramp, Selling: 1000.00
+Id: 51832, Name: Metal Convex Ramp, Selling: 1000.00
+Id: 51833, Name: Metal Pyramid Cap, Selling: 1000.00
+Id: 51834, Name: Metal Short Ramp Wall, Selling: 1000.00
+Id: 51835, Name: Metal Half Rampart, Selling: 1000.00
+Id: 51836, Name: Metal Slotted Rampart, Selling: 1000.00
+Id: 51837, Name: Metal Railing, Selling: 1000.00
+Id: 51838, Name: Metal Half Railing, Selling: 1000.00
+Id: 51839, Name: Metal Center Doorway, Selling: 1000.00
+Id: 51840, Name: Metal Center Window, Selling: 1000.00
+Id: 51841, Name: Metal Center Railing, Selling: 1000.00
+Id: 51842, Name: Metal Left Landing, Selling: 1000.00
+Id: 51843, Name: Metal Right Landing, Selling: 1000.00
+Id: 51844, Name: Metal Quarter Hole, Selling: 1000.00
+Id: 51845, Name: Metal Lower Triangular Ramp, Selling: 1000.00
+Id: 51846, Name: Metal Upper Triangular Ramp, Selling: 1000.00
+Id: 51847, Name: Metal Reverse Stairs, Selling: 1000.00
+Id: 51848, Name: Metal Storefront, Selling: 1000.00
+Id: 51849, Name: Metal Upper Short Ramp Wall, Selling: 1000.00
+Id: 51850, Name: Wooden Quarter Roof, Selling: 500.00
+Id: 51851, Name: Wooden Quartered Roof, Selling: 500.00
+Id: 51852, Name: Wooden Decorative Centered Pillar, Selling: 500.00
+Id: 51853, Name: Wooden Decorative Centered Post, Selling: 500.00
+Id: 51854, Name: Wooden Half Center Railing, Selling: 500.00
+Id: 51855, Name: Wooden Ramp Rampart, Selling: 500.00
+Id: 51856, Name: Wooden Ramp Railing, Selling: 500.00
+Id: 51857, Name: Wooden Center Rampart, Selling: 500.00
+Id: 51858, Name: Wooden Half Left Center Wall, Selling: 500.00
+Id: 51859, Name: Wooden Half Right Center Wall, Selling: 500.00
+Id: 51860, Name: Metal Quarter Roof, Selling: 1000.00
+Id: 51861, Name: Metal Quartered Roof, Selling: 1000.00
+Id: 51862, Name: Metal Decorative Centered Pillar, Selling: 1000.00
+Id: 51863, Name: Metal Decorative Centered Post, Selling: 1000.00
+Id: 51864, Name: Metal Half Center Railing, Selling: 1000.00
+Id: 51865, Name: Metal Ramp Rampart, Selling: 1000.00
+Id: 51866, Name: Metal Ramp Railing, Selling: 1000.00
+Id: 51867, Name: Metal Center Rampart, Selling: 1000.00
+Id: 51868, Name: Metal Half Left Center Wall, Selling: 1000.00
+Id: 51869, Name: Metal Half Right Center Wall, Selling: 1000.00
+Id: 51870, Name: Metal Upper Rampart, Selling: 1000.00
 Id: 51880, Name: Wooden Trapped Roof, Selling: 0.00
 Id: 51881, Name: Wooden Trapped Triangular Roof, Selling: 0.00
 Id: 51882, Name: Wooden Trapped Hole, Selling: 0.00
