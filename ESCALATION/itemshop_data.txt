@@ -1045,6 +1045,7 @@ Id: 52421, Name: Plastic Shelter (Red), Selling: 10000.00
 Id: 52422, Name: Plastic Shelter (Orange), Selling: 10000.00
 Id: 52423, Name: Plastic Shelter (Green), Selling: 10000.00
 Id: 52424, Name: Plastic Shelter (Blue), Selling: 10000.00
+Id: 52427, Name: Vault Gate, Selling: 1100.00
 Id: 52430, Name: Liberator, Selling: 6000.00
 Id: 52431, Name: Liberator-SP, Selling: 6500.00
 Id: 52484, Name: Plush Shark, Selling: 5000.00
