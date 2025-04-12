@@ -288,7 +288,7 @@ Id: 51318, Name: Throwing Disk, Selling: 0.00
 Id: 51319, Name: Throwing Landmine, Selling: 0.00
 Id: 51320, Name: Brick, Selling: 0.00
 Id: 51321, Name: Sundoor, Selling: 0.00
-Id: 51322, Name: Tempest, Selling: 0.00
+Id: 51322, Name: Tempest, Selling: 6000.00
 Id: 51323, Name: HE Shell, Selling: 0.00
 Id: 51324, Name: Hera, Selling: 0.00
 Id: 51325, Name: Rocket Pod, Selling: 0.00
@@ -312,7 +312,7 @@ Id: 51342, Name: Dual M1911 "Accelerators", Selling: 0.00
 Id: 51343, Name: Dual Iridium Tantos, Selling: 0.00
 Id: 51344, Name: Dual M1911-SP "Accelerators", Selling: 0.00
 Id: 51345, Name: Dual Iridium Tanto-SPs, Selling: 0.00
-Id: 51346, Name: Tempest-SP, Selling: 0.00
+Id: 51346, Name: Tempest-SP, Selling: 6500.00
 Id: 51347, Name: Sundoor-SP, Selling: 500.00
 Id: 51348, Name: Midnight Blade, Selling: 0.00
 Id: 51349, Name: Ballistic Shield, Selling: 0.00
@@ -949,6 +949,9 @@ Id: 52229, Name: Affair, Selling: 0.00
 Id: 52230, Name: Afterparty, Selling: 0.00
 Id: 52231, Name: Nebulobby, Selling: 0.00
 Id: 52232, Name: Tekno, Selling: 0.00
+Id: 52235, Name: RAC-48, Selling: 1500.00
+Id: 52237, Name: Empay, Selling: 1000.00
+Id: 52239, Name: Esdee: Selling: 2000.00
 Id: 52240, Name: Ashley, Selling: 0.00
 Id: 52242, Name: Walker Monitoring Conversion Kit, Selling: 0.00
 Id: 52244, Name: Duzey-SP, Selling: 0.00
@@ -1037,6 +1040,13 @@ Id: 52346, Name: Robot #5, Selling: 0.00
 Id: 52347, Name: Robot #6, Selling: 0.00
 Id: 52349, Name: Buzzkill, Selling: 0.00
 Id: 52350, Name: AH-46 Kings Hand, Selling: 0.00
+Id: 52420, Name: Plastic Shelter (White), Selling: 10000.00
+Id: 52421, Name: Plastic Shelter (Red), Selling: 10000.00
+Id: 52422, Name: Plastic Shelter (Orange), Selling: 10000.00
+Id: 52423, Name: Plastic Shelter (Green), Selling: 10000.00
+Id: 52424, Name: Plastic Shelter (Blue), Selling: 10000.00
+Id: 52430, Name: Liberator, Selling: 6000.00
+Id: 52431, Name: Liberator-SP, Selling: 6500.00
 Id: 55001, Name: Pile of Logs, Selling: 0.00
 Id: 55002, Name: Pile of Metal Ingots, Selling: 4500.00
 Id: 55003, Name: Pile of Fabric, Selling: 0.00
