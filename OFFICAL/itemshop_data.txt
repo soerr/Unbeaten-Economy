@@ -7,7 +7,7 @@ Id: 7, Name: Military Suppressor, Selling: 70.00
 Id: 8, Name: Vertical Grip, Selling: 45.00
 Id: 9, Name: Red Daypack, Selling: 180.00
 Id: 10, Name: Police Vest, Selling: 120.00
-Id: 11, Name: Red Bandana, Selling: 0.00
+Id: 11, Name: Red Bandana, Selling: 35.00
 Id: 13, Name: Canned Beans, Selling: 15.00
 Id: 14, Name: Bottled Water, Selling: 15.00
 Id: 15, Name: Medkit, Selling: 80.00
@@ -514,7 +514,7 @@ Id: 1013, Name: Desert Military Vest, Selling: 200.00
 Id: 1014, Name: Leather Pack, Selling: 80.00
 Id: 1015, Name: Biohazard Top, Selling: 400.00
 Id: 1016, Name: Biohazard Bottom, Selling: 350.00
-Id: 1017, Name: Biohazard Hood, Selling: 0.00
+Id: 1017, Name: Biohazard Hood, Selling: 5000.00
 Id: 1018, Name: Sabertooth, Selling: 2800.00
 Id: 1019, Name: Sabertooth Iron Sights, Selling: 25.00
 Id: 1020, Name: Sabertooth Magazine, Selling: 180.00
@@ -555,20 +555,20 @@ Id: 1054, Name: $50 Note, Selling: 50.00
 Id: 1055, Name: $100 Note, Selling: 100.00
 Id: 1056, Name: Loonie, Selling: 15.00
 Id: 1057, Name: Toonie, Selling: 15.00
-Id: 1058, Name: Large Maple Plate, Selling: 0.00
-Id: 1059, Name: Small Maple Plate, Selling: 0.00
+Id: 1058, Name: Large Maple Plate, Selling: 500.00
+Id: 1059, Name: Small Maple Plate, Selling: 500.00
 Id: 1060, Name: Large Maple Frame, Selling: 0.00
 Id: 1061, Name: Small Maple Frame, Selling: 0.00
 Id: 1062, Name: Maple Siding, Selling: 15.00
 Id: 1063, Name: Maple Pipe, Selling: 15.00
-Id: 1064, Name: Large Birch Plate, Selling: 0.00
-Id: 1065, Name: Small Birch Plate, Selling: 0.00
+Id: 1064, Name: Large Birch Plate, Selling: 500.00
+Id: 1065, Name: Small Birch Plate, Selling: 500.00
 Id: 1066, Name: Large Birch Frame, Selling: 0.00
 Id: 1067, Name: Small Birch Frame, Selling: 0.00
 Id: 1068, Name: Birch Siding, Selling: 15.00
 Id: 1069, Name: Birch Pipe, Selling: 15.00
-Id: 1070, Name: Large Pine Plate, Selling: 0.00
-Id: 1071, Name: Small Pine Plate, Selling: 0.00
+Id: 1070, Name: Large Pine Plate, Selling: 500.00
+Id: 1071, Name: Small Pine Plate, Selling: 500.00
 Id: 1072, Name: Large Pine Frame, Selling: 0.00
 Id: 1073, Name: Small Pine Frame, Selling: 0.00
 Id: 1074, Name: Pine Siding, Selling: 15.00
@@ -588,8 +588,8 @@ Id: 1087, Name: Pine Doorframe, Selling: 120.00
 Id: 1088, Name: Pine Garageframe, Selling: 100.00
 Id: 1089, Name: Metal Doorframe, Selling: 320.00
 Id: 1090, Name: Metal Garageframe, Selling: 280.00
-Id: 1091, Name: Large Metal Plate, Selling: 0.00
-Id: 1092, Name: Small Metal Plate, Selling: 0.00
+Id: 1091, Name: Large Metal Plate, Selling: 500.00
+Id: 1092, Name: Small Metal Plate, Selling: 500.00
 Id: 1093, Name: Metal Siding, Selling: 15.00
 Id: 1094, Name: Metal Pipe, Selling: 15.00
 Id: 1095, Name: Maple Sign, Selling: 60.00
@@ -639,18 +639,18 @@ Id: 1138, Name: Red Scarf, Selling: 40.00
 Id: 1139, Name: White Scarf, Selling: 40.00
 Id: 1140, Name: Yellow Scarf, Selling: 40.00
 Id: 1143, Name: Sawed-Off, Selling: 1300.00
-Id: 1144, Name: Large Birch Plate, Selling: 0.00
-Id: 1145, Name: Large Birch Plate, Selling: 0.00
-Id: 1146, Name: Large Maple Plate, Selling: 0.00
-Id: 1147, Name: Large Maple Plate, Selling: 0.00
-Id: 1148, Name: Large Pine Plate, Selling: 0.00
-Id: 1149, Name: Large Pine Plate, Selling: 0.00
-Id: 1150, Name: Small Birch Plate, Selling: 0.00
-Id: 1151, Name: Small Birch Plate, Selling: 0.00
-Id: 1152, Name: Small Maple Plate, Selling: 0.00
-Id: 1153, Name: Small Maple Plate, Selling: 0.00
-Id: 1154, Name: Small Pine Plate, Selling: 0.00
-Id: 1155, Name: Small Pine Plate, Selling: 0.00
+Id: 1144, Name: Large Birch Plate, Selling: 500.00
+Id: 1145, Name: Large Birch Plate, Selling: 500.00
+Id: 1146, Name: Large Maple Plate, Selling: 500.00
+Id: 1147, Name: Large Maple Plate, Selling: 500.00
+Id: 1148, Name: Large Pine Plate, Selling: 500.00
+Id: 1149, Name: Large Pine Plate, Selling: 500.00
+Id: 1150, Name: Small Birch Plate, Selling: 500.00
+Id: 1151, Name: Small Birch Plate, Selling: 500.00
+Id: 1152, Name: Small Maple Plate, Selling: 500.00
+Id: 1153, Name: Small Maple Plate, Selling: 500.00
+Id: 1154, Name: Small Pine Plate, Selling: 500.00
+Id: 1155, Name: Small Pine Plate, Selling: 500.00
 Id: 1156, Name: Thief Top, Selling: 60.00
 Id: 1157, Name: Thief Bottom, Selling: 40.00
 Id: 1158, Name: Claim Flag, Selling: 500.00
@@ -664,10 +664,10 @@ Id: 1165, Name: Nailgun, Selling: 300.00
 Id: 1166, Name: Nailgun Magazine, Selling: 50.00
 Id: 1167, Name: Name, Selling: 0.00
 Id: 1168, Name: Civilian Vest, Selling: 100.00
-Id: 1169, Name: Spec Ops Vest, Selling: 0.00
-Id: 1170, Name: Spec Ops Rucksack, Selling: 0.00
-Id: 1171, Name: Spec Ops Top, Selling: 0.00
-Id: 1172, Name: Spec Ops Bottom, Selling: 0.00
+Id: 1169, Name: Spec Ops Vest, Selling: 1000.00
+Id: 1170, Name: Spec Ops Rucksack, Selling: 1000.00
+Id: 1171, Name: Spec Ops Top, Selling: 1000.00
+Id: 1172, Name: Spec Ops Bottom, Selling: 1000.00
 Id: 1173, Name: Makeshift Armor, Selling: 100.00
 Id: 1174, Name: Scythe, Selling: 125.00
 Id: 1175, Name: Chart, Selling: 15.00
@@ -870,7 +870,7 @@ Id: 1371, Name: Bulldog Magazine, Selling: 80.00
 Id: 1372, Name: Friendly Sentry, Selling: 1250.00
 Id: 1373, Name: Hostile Sentry, Selling: 1500.00
 Id: 1374, Name: Name, Selling: 0.00
-Id: 1375, Name: Fusilaut, Selling: 0.00
+Id: 1375, Name: Fusilaut, Selling: 10000.00
 Id: 1376, Name: Fusilaut Iron Sights, Selling: 25.00
 Id: 1377, Name: Nightraider, Selling: 10000.00
 Id: 1378, Name: Nightraider Iron Sights, Selling: 25.00
@@ -978,7 +978,7 @@ Id: 1480, Name: Determinator, Selling: 1400.00
 Id: 1481, Name: Empire, Selling: 2000.00
 Id: 1482, Name: Empire Iron Sights, Selling: 25.00
 Id: 1483, Name: Empire Magazine, Selling: 150.00
-Id: 1484, Name: Devils Bane, Selling: 0.00
+Id: 1484, Name: Devils Bane, Selling: 25000.00
 Id: 1485, Name: Devils Bane Magazine, Selling: 150.00
 Id: 1486, Name: Devils Bane Iron Sights, Selling: 25.00
 Id: 1487, Name: Luger Magazine, Selling: 80.00
@@ -992,7 +992,7 @@ Id: 1494, Name: Ghillie Hood, Selling: 100.00
 Id: 1495, Name: Ghillie Vest, Selling: 70.00
 Id: 1498, Name: Lederhosen Top, Selling: 60.00
 Id: 1499, Name: Lederhosen Bottom, Selling: 50.00
-Id: 1500, Name: Ghillie Netting, Selling: 0.00
+Id: 1500, Name: Ghillie Netting, Selling: 500.00
 Id: 1501, Name: EA Tee, Selling: 45.00
 Id: 1502, Name: EA Beret, Selling: 35.00
 Id: 1503, Name: Zweihander, Selling: 0.00
@@ -1036,6 +1036,22 @@ Id: 1706, Name: Gingerbread Cookie, Selling: 0.00
 Id: 1707, Name: Ice Crystal, Selling: 0.00
 Id: 1708, Name: Drumstick, Selling: 0.00
 Id: 1764, Name: Housing Planner, Selling: 400.00
+Id: 1900, Name: Stacked Maple Logs, Selling: 250.00
+Id: 1901, Name: Stacked Birch Logs, Selling: 250.00
+Id: 1902, Name: Stacked Pine Logs, Selling: 250.00
+Id: 1903, Name: Stacked Maple Planks, Selling: 150.00
+Id: 1904, Name: Stacked Birch Planks, Selling: 150.00
+Id: 1905, Name: Stacked Pine Planks, Selling: 150.00
+Id: 1906, Name: Stacked Maple Sticks, Selling: 150.00
+Id: 1907, Name: Stacked Birch Sticks, Selling: 150.00
+Id: 1908, Name: Stacked Pine Sticks, Selling: 150.00
+Id: 1909, Name: Stacked Metal Scraps, Selling: 500.00
+Id: 1910, Name: Stacked Metal Sheets, Selling: 500.00
+Id: 1911, Name: Stacked Metal Bars, Selling: 250.00
+Id: 1912, Name: Stacked Wires, Selling: 1750.00
+Id: 1913, Name: Stacked Cloths, Selling: 150.00
+Id: 1914, Name: Stacked Ropes, Selling: 150.00
+Id: 1915, Name Stacked Bricks, Selling: 1000.00
 Id: 2010, Name: Mushroom, Selling: 15.00
 Id: 2011, Name: Roasted Mushroom, Selling: 15.00
 Id: 2013, Name: Mushroom P, Selling: 15.00
