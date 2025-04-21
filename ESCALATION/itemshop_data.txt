@@ -542,24 +542,24 @@ Id: 51769, Name: Armored Ramp Wall, Selling: 0.00
 Id: 51770, Name: Armored Rampart, Selling: 0.00
 Id: 51771, Name: Armored Triangular Floor, Selling: 0.00
 Id: 51772, Name: Armored Triangular Roof, Selling: 0.00
-Id: 51781, Name: Reinforced Wall, Selling: 600.00
-Id: 51782, Name: Reinforced Doorway, Selling: 600.00
-Id: 51783, Name: Reinforced Window, Selling: 600.00
-Id: 51784, Name: Reinforced Garage, Selling: 600.00
-Id: 51785, Name: Reinforced Ramp Wall, Selling: 600.00
-Id: 51786, Name: Reinforced Rampart, Selling: 600.00
-Id: 51787, Name: Reinforced Half Wall, Selling: 600.00
-Id: 51788, Name: Reinforced Center Wall, Selling: 600.00
-Id: 51789, Name: Reinforced Offset Doorway, Selling: 600.00
-Id: 51790, Name: Reinforced Circular Window, Selling: 600.00
-Id: 51791, Name: Reinforced Horizontal Window, Selling: 600.00
-Id: 51792, Name: Reinforced Vertical Window, Selling: 600.00
-Id: 51793, Name: Reinforced Short Ramp Wall, Selling: 600.00
-Id: 51794, Name: Reinforced Half Rampart, Selling: 600.00
-Id: 51795, Name: Reinforced Slotted Rampart, Selling: 600.00
-Id: 51796, Name: Reinforced Half Doorway, Selling: 600.00
-Id: 51797, Name: Reinforced Center Doorway, Selling: 600.00
-Id: 51798, Name: Reinforced Center Window, Selling: 600.00
+Id: 51781, Name: Reinforced Wall, Selling: 1000.00
+Id: 51782, Name: Reinforced Doorway, Selling: 1000.00
+Id: 51783, Name: Reinforced Window, Selling: 1000.00
+Id: 51784, Name: Reinforced Garage, Selling: 1000.00
+Id: 51785, Name: Reinforced Ramp Wall, Selling: 1000.00
+Id: 51786, Name: Reinforced Rampart, Selling: 1000.00
+Id: 51787, Name: Reinforced Half Wall, Selling: 1000.00
+Id: 51788, Name: Reinforced Center Wall, Selling: 1000.00
+Id: 51789, Name: Reinforced Offset Doorway, Selling: 1000.00
+Id: 51790, Name: Reinforced Circular Window, Selling: 1000.00
+Id: 51791, Name: Reinforced Horizontal Window, Selling: 1000.00
+Id: 51792, Name: Reinforced Vertical Window, Selling: 1000.00
+Id: 51793, Name: Reinforced Short Ramp Wall, Selling: 1000.00
+Id: 51794, Name: Reinforced Half Rampart, Selling: 1000.00
+Id: 51795, Name: Reinforced Slotted Rampart, Selling: 1000.00
+Id: 51796, Name: Reinforced Half Doorway, Selling: 1000.00
+Id: 51797, Name: Reinforced Center Doorway, Selling: 1000.00
+Id: 51798, Name: Reinforced Center Window, Selling: 1000.00
 Id: 51800, Name: Metal Floor, Selling: 0.00
 Id: 51801, Name: Metal Wall, Selling: 0.00
 Id: 51802, Name: Metal Roof, Selling: 0.00
@@ -636,13 +636,13 @@ Id: 51881, Name: Wooden Trapped Triangular Roof, Selling: 0.00
 Id: 51882, Name: Wooden Trapped Hole, Selling: 0.00
 Id: 51885, Name: Reinforced Floor, Selling: 600.00
 Id: 51886, Name: Reinforced Roof, Selling: 600.00
-Id: 51887, Name: Reinforced Triangular Floor, Selling: 600.00
-Id: 51888, Name: Reinforced Triangular Roof, Selling: 600.00
-Id: 51889, Name: Reinforced Hole, Selling: 600.00
-Id: 51890, Name: Reinforced Roof, Selling: 600.00
-Id: 51891, Name: Reinforced Triangular Roof, Selling: 600.00
-Id: 51892, Name: Reinforced Short Ramp Wall, Selling: 600.00
-Id: 51893, Name: Reinforced Storefront, Selling: 600.00
+Id: 51887, Name: Reinforced Triangular Floor, Selling: 1000.00
+Id: 51888, Name: Reinforced Triangular Roof, Selling: 1000.00
+Id: 51889, Name: Reinforced Hole, Selling: 1000.00
+Id: 51890, Name: Reinforced Roof, Selling: 1000.00
+Id: 51891, Name: Reinforced Triangular Roof, Selling: 1000.00
+Id: 51892, Name: Reinforced Short Ramp Wall, Selling: 1000.00
+Id: 51893, Name: Reinforced Storefront, Selling: 1000.00
 Id: 51896, Name: Complex Building Knowledge, Selling: 500.00
 Id: 51897, Name: Forget Complex Building Knowledge, Selling: 0.00
 Id: 51900, Name: 5 Grubby, Selling: 5.00
@@ -1049,13 +1049,13 @@ Id: 52424, Name: Plastic Shelter (Blue), Selling: 10000.00
 Id: 52427, Name: Vault Gate, Selling: 1100.00
 Id: 52430, Name: Liberator, Selling: 6000.00
 Id: 52431, Name: Liberator-SP, Selling: 6500.00
-Id: 52484, Name: Plush Shark, Selling: 5000.00
-Id: 52485, Name: Plush Bear, Selling: 5000.00
-Id: 52491, Name: Firestorm, Selling: 10000.00
+Id: 52484, Name: Plush Shark, Selling: 0.00
+Id: 52485, Name: Plush Bear, Selling: 0.00
+Id: 52491, Name: Firestorm, Selling: 0.00
 Id: 52493, Name: Anvil Balaclava, Selling: 300.00
 Id: 52530, Name: Exakt, Selling: 1250.00
-Id: 52532, Name: Pig, Selling: 5500.00
-Id: 52536, Name: Shark, Selling: 2500.00
+Id: 52532, Name: Pig, Selling: 0.00
+Id: 52536, Name: Shark, Selling: 0.00
 Id: 55001, Name: Pile of Logs, Selling: 0.00
 Id: 55002, Name: Pile of Metal Ingots, Selling: 4500.00
 Id: 55003, Name: Pile of Fabric, Selling: 0.00
