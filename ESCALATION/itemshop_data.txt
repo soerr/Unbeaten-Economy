@@ -193,7 +193,7 @@ Id: 51215, Name: Asset-SP, Selling: 750.00
 Id: 51216, Name: ECS-25, Selling: 750.00
 Id: 51217, Name: Falcon .50, Selling: 300.00
 Id: 51218, Name: Crown, Selling: 0.00
-Id: 51219, Name: Nacht, Selling: 0.00
+Id: 51219, Name: Nacht, Selling: 4500.00
 Id: 51220, Name: Ulfberht, Selling: 300.00
 Id: 51221, Name: Looty, Selling: 400.00
 Id: 51222, Name: Uzey, Selling: 200.00
@@ -258,8 +258,8 @@ Id: 51285, Name: Empey-SP, Selling: 350.00
 Id: 51286, Name: Uzey-SP, Selling: 450.00
 Id: 51287, Name: Nacht-SP, Selling: 5000.00
 Id: 51288, Name: Gotha Bomb, Selling: 0.00
-Id: 51289, Name: ECS-25-BLK, Selling: 0.00
-Id: 51290, Name: ECS-25-BLK-SP, Selling: 0.00
+Id: 51289, Name: ECS-25-BLK, Selling: 750.00
+Id: 51290, Name: ECS-25-BLK-SP, Selling: 750.00
 Id: 51291, Name: Golden Falcon, Selling: 0.00
 Id: 51292, Name: M1911 "Accelerator", Selling: 0.00
 Id: 51293, Name: M1911-SP "Accelerator", Selling: 0.00
@@ -425,20 +425,20 @@ Id: 51636, Name: Worklamp, Selling: 0.00
 Id: 51637, Name: Bulletproof Glass, Selling: 0.00
 Id: 51638, Name: One Way Glass, Selling: 0.00
 Id: 51639, Name: Wooden Door, Selling: 200.00
-Id: 51640, Name: Metal Door, Selling: 0.00
+Id: 51640, Name: Metal Door, Selling: 400.00
 Id: 51642, Name: Wooden Barricade, Selling: 200.00
 Id: 51643, Name: Metal Doubledoor, Selling: 0.00
 Id: 51644, Name: Wooden Doubledoor, Selling: 200.00
 Id: 51645, Name: Wooden Gate, Selling: 200.00
-Id: 51646, Name: Metal Gate, Selling: 0.00
+Id: 51646, Name: Metal Gate, Selling: 400.00
 Id: 51647, Name: Wooden Fortification, Selling: 200.00
 Id: 51648, Name: Metal Fortification, Selling: 0.00
 Id: 51649, Name: Wooden Hatch, Selling: 200.00
-Id: 51650, Name: Metal Hatch, Selling: 0.00
+Id: 51650, Name: Metal Hatch, Selling: 400.00
 Id: 51651, Name: Wooden Ladder, Selling: 200.00
 Id: 51652, Name: Wooden Shutter, Selling: 200.00
-Id: 51653, Name: Metal Shutter, Selling: 0.00
-Id: 51654, Name: Vault Hatch, Selling: 0.00
+Id: 51653, Name: Metal Shutter, Selling: 400.00
+Id: 51654, Name: Vault Hatch, Selling: 1100.00
 Id: 51655, Name: Barbed Wire, Selling: 0.00
 Id: 51656, Name: Concertina Wire, Selling: 0.00
 Id: 51657, Name: Beartrap, Selling: 0.00
@@ -459,7 +459,7 @@ Id: 51671, Name: Red Couch, Selling: 0.00
 Id: 51672, Name: Yellow Couch, Selling: 0.00
 Id: 51673, Name: Blue Couch, Selling: 0.00
 Id: 51674, Name: Green Couch, Selling: 0.00
-Id: 51675, Name: Vault Door, Selling: 0.00
+Id: 51675, Name: Vault Door, Selling: 1100.00
 Id: 51677, Name: White Bed, Selling: 0.00
 Id: 51678, Name: Red Bed, Selling: 0.00
 Id: 51679, Name: Yellow Bed, Selling: 0.00
@@ -542,24 +542,24 @@ Id: 51769, Name: Armored Ramp Wall, Selling: 0.00
 Id: 51770, Name: Armored Rampart, Selling: 0.00
 Id: 51771, Name: Armored Triangular Floor, Selling: 0.00
 Id: 51772, Name: Armored Triangular Roof, Selling: 0.00
-Id: 51781, Name: Reinforced Wall, Selling: 1000.00
-Id: 51782, Name: Reinforced Doorway, Selling: 1000.00
-Id: 51783, Name: Reinforced Window, Selling: 1000.00
-Id: 51784, Name: Reinforced Garage, Selling: 1000.00
-Id: 51785, Name: Reinforced Ramp Wall, Selling: 1000.00
-Id: 51786, Name: Reinforced Rampart, Selling: 1000.00
-Id: 51787, Name: Reinforced Half Wall, Selling: 1000.00
-Id: 51788, Name: Reinforced Center Wall, Selling: 1000.00
-Id: 51789, Name: Reinforced Offset Doorway, Selling: 1000.00
-Id: 51790, Name: Reinforced Circular Window, Selling: 1000.00
-Id: 51791, Name: Reinforced Horizontal Window, Selling: 1000.00
-Id: 51792, Name: Reinforced Vertical Window, Selling: 1000.00
-Id: 51793, Name: Reinforced Short Ramp Wall, Selling: 1000.00
-Id: 51794, Name: Reinforced Half Rampart, Selling: 1000.00
-Id: 51795, Name: Reinforced Slotted Rampart, Selling: 1000.00
-Id: 51796, Name: Reinforced Half Doorway, Selling: 1000.00
-Id: 51797, Name: Reinforced Center Doorway, Selling: 1000.00
-Id: 51798, Name: Reinforced Center Window, Selling: 1000.00
+Id: 51781, Name: Reinforced Wall, Selling: 600.00
+Id: 51782, Name: Reinforced Doorway, Selling: 600.00
+Id: 51783, Name: Reinforced Window, Selling: 600.00
+Id: 51784, Name: Reinforced Garage, Selling: 600.00
+Id: 51785, Name: Reinforced Ramp Wall, Selling: 600.00
+Id: 51786, Name: Reinforced Rampart, Selling: 600.00
+Id: 51787, Name: Reinforced Half Wall, Selling: 600.00
+Id: 51788, Name: Reinforced Center Wall, Selling: 600.00
+Id: 51789, Name: Reinforced Offset Doorway, Selling: 600.00
+Id: 51790, Name: Reinforced Circular Window, Selling: 600.00
+Id: 51791, Name: Reinforced Horizontal Window, Selling: 600.00
+Id: 51792, Name: Reinforced Vertical Window, Selling: 600.00
+Id: 51793, Name: Reinforced Short Ramp Wall, Selling: 600.00
+Id: 51794, Name: Reinforced Half Rampart, Selling: 600.00
+Id: 51795, Name: Reinforced Slotted Rampart, Selling: 600.00
+Id: 51796, Name: Reinforced Half Doorway, Selling: 600.00
+Id: 51797, Name: Reinforced Center Doorway, Selling: 600.00
+Id: 51798, Name: Reinforced Center Window, Selling: 600.00
 Id: 51800, Name: Metal Floor, Selling: 0.00
 Id: 51801, Name: Metal Wall, Selling: 0.00
 Id: 51802, Name: Metal Roof, Selling: 0.00
@@ -638,20 +638,20 @@ Id: 51885, Name: Reinforced Floor, Selling: 600.00
 Id: 51886, Name: Reinforced Roof, Selling: 600.00
 Id: 51887, Name: Reinforced Triangular Floor, Selling: 600.00
 Id: 51888, Name: Reinforced Triangular Roof, Selling: 600.00
-Id: 51889, Name: Reinforced Hole, Selling: 0.00
-Id: 51890, Name: Reinforced Roof, Selling: 0.00
-Id: 51891, Name: Reinforced Triangular Roof, Selling: 0.00
-Id: 51892, Name: Reinforced Short Ramp Wall, Selling: 0.00
-Id: 51893, Name: Reinforced Storefront, Selling: 0.00
+Id: 51889, Name: Reinforced Hole, Selling: 600.00
+Id: 51890, Name: Reinforced Roof, Selling: 600.00
+Id: 51891, Name: Reinforced Triangular Roof, Selling: 600.00
+Id: 51892, Name: Reinforced Short Ramp Wall, Selling: 600.00
+Id: 51893, Name: Reinforced Storefront, Selling: 600.00
 Id: 51896, Name: Complex Building Knowledge, Selling: 500.00
 Id: 51897, Name: Forget Complex Building Knowledge, Selling: 0.00
-Id: 51900, Name: 5 Grubby, Selling: 0.00
-Id: 51901, Name: 10 Grubby, Selling: 0.00
-Id: 51902, Name: 25 Grubby, Selling: 0.00
-Id: 51903, Name: 50 Grubby, Selling: 0.00
-Id: 51904, Name: 100 Grubby, Selling: 0.00
-Id: 51905, Name: 250 Grubby, Selling: 0.00
-Id: 51906, Name: 500 Grubby, Selling: 0.00
+Id: 51900, Name: 5 Grubby, Selling: 5.00
+Id: 51901, Name: 10 Grubby, Selling: 10.00
+Id: 51902, Name: 25 Grubby, Selling: 25.00
+Id: 51903, Name: 50 Grubby, Selling: 50.00
+Id: 51904, Name: 100 Grubby, Selling: 100.00
+Id: 51905, Name: 250 Grubby, Selling: 250.00
+Id: 51906, Name: 500 Grubby, Selling: 500.00
 Id: 51908, Name: Armor Piercing Marksman Magazine, Selling: 100.00
 Id: 51909, Name: Hollow Point Marksman Magazine, Selling: 100.00
 Id: 51910, Name: 12 Gauge Shells, Selling: 100.00
@@ -758,14 +758,14 @@ Id: 52019, Name: Random Item for 50 GRB, Selling: 0.00
 Id: 52020, Name: Biohazard Tank, Selling: 0.00
 Id: 52021, Name: BioHood, Selling: 0.00
 Id: 52022, Name: Farmer Hat, Selling: 0.00
-Id: 52023, Name: EOD Helmet, Selling: 0.00
+Id: 52023, Name: EOD Helmet, Selling: 7500.00
 Id: 52024, Name: Strike Call 6 (TEST), Selling: 0.00
 Id: 52025, Name: BioBlue, Selling: 0.00
-Id: 52026, Name: EOD Vest, Selling: 0.00
+Id: 52026, Name: EOD Vest, Selling: 5000.00
 Id: 52027, Name: EODRadio, Selling: 0.00
 Id: 52028, Name: Ares Rockets, Selling: 0.00
 Id: 52029, Name: goober, Selling: 0.00
-Id: 52030, Name: Grubby Spread, Selling: 0.00
+Id: 52030, Name: Grubby Spread, Selling: 5000.00
 Id: 52032, Name: Military Short Gun Crate, Selling: 0.00
 Id: 52033, Name: Military Long Gun Crate, Selling: 0.00
 Id: 52034, Name: Military Armory Crate, Selling: 0.00
@@ -1020,8 +1020,8 @@ Id: 52324, Name: White Suit Top, Selling: 0.00
 Id: 52325, Name: White Suit Bottom, Selling: 0.00
 Id: 52326, Name: Blue Suit Top, Selling: 0.00
 Id: 52327, Name: Blue Suit Bottom, Selling: 0.00
-Id: 52328, Name: EOD Top, Selling: 0.00
-Id: 52329, Name: EOD Bottom, Selling: 0.00
+Id: 52328, Name: EOD Top, Selling: 5000.00
+Id: 52329, Name: EOD Bottom, Selling: 5000.00
 Id: 52330, Name: Flight Top, Selling: 0.00
 Id: 52331, Name: Flight Bottom, Selling: 0.00
 Id: 52332, Name: Flight Helmet, Selling: 0.00
@@ -1040,13 +1040,22 @@ Id: 52346, Name: Robot #5, Selling: 0.00
 Id: 52347, Name: Robot #6, Selling: 0.00
 Id: 52349, Name: Buzzkill, Selling: 0.00
 Id: 52350, Name: AH-46 Kings Hand, Selling: 0.00
+Id: 52387, Name: LMG Incendiary Drum, Selling: 450.00
 Id: 52420, Name: Plastic Shelter (White), Selling: 10000.00
 Id: 52421, Name: Plastic Shelter (Red), Selling: 10000.00
 Id: 52422, Name: Plastic Shelter (Orange), Selling: 10000.00
 Id: 52423, Name: Plastic Shelter (Green), Selling: 10000.00
 Id: 52424, Name: Plastic Shelter (Blue), Selling: 10000.00
+Id: 52427, Name: Vault Gate, Selling: 1100.00
 Id: 52430, Name: Liberator, Selling: 6000.00
 Id: 52431, Name: Liberator-SP, Selling: 6500.00
+Id: 52484, Name: Plush Shark, Selling: 5000.00
+Id: 52485, Name: Plush Bear, Selling: 5000.00
+Id: 52491, Name: Firestorm, Selling: 10000.00
+Id: 52493, Name: Anvil Balaclava, Selling: 300.00
+Id: 52530, Name: Exakt, Selling: 1250.00
+Id: 52532, Name: Pig, Selling: 5500.00
+Id: 52536, Name: Shark, Selling: 2500.00
 Id: 55001, Name: Pile of Logs, Selling: 0.00
 Id: 55002, Name: Pile of Metal Ingots, Selling: 4500.00
 Id: 55003, Name: Pile of Fabric, Selling: 0.00
