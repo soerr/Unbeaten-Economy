@@ -7,7 +7,7 @@ Id: 7, Name: Military Suppressor, Selling: 70.00
 Id: 8, Name: Vertical Grip, Selling: 45.00
 Id: 9, Name: Red Daypack, Selling: 180.00
 Id: 10, Name: Police Vest, Selling: 120.00
-Id: 11, Name: Red Bandana, Selling: 0.00
+Id: 11, Name: Red Bandana, Selling: 35.00
 Id: 13, Name: Canned Beans, Selling: 15.00
 Id: 14, Name: Bottled Water, Selling: 15.00
 Id: 15, Name: Medkit, Selling: 80.00
@@ -55,7 +55,7 @@ Id: 60, Name: Pine Window, Selling: 75.00
 Id: 61, Name: Maple Plank, Selling: 15.00
 Id: 62, Name: Birch Plank, Selling: 15.00
 Id: 63, Name: Pine Plank, Selling: 15.00
-Id: 64, Name: Rope, Selling: 15.00
+Id: 64, Name: Rope, Selling: 50.00
 Id: 65, Name: Wire, Selling: 175.00
 Id: 66, Name: Cloth, Selling: 15.00
 Id: 67, Name: Metal Scrap, Selling: 50.00
@@ -514,7 +514,7 @@ Id: 1013, Name: Desert Military Vest, Selling: 200.00
 Id: 1014, Name: Leather Pack, Selling: 80.00
 Id: 1015, Name: Biohazard Top, Selling: 400.00
 Id: 1016, Name: Biohazard Bottom, Selling: 350.00
-Id: 1017, Name: Biohazard Hood, Selling: 0.00
+Id: 1017, Name: Biohazard Hood, Selling: 5000.00
 Id: 1018, Name: Sabertooth, Selling: 2800.00
 Id: 1019, Name: Sabertooth Iron Sights, Selling: 25.00
 Id: 1020, Name: Sabertooth Magazine, Selling: 180.00
@@ -664,10 +664,10 @@ Id: 1165, Name: Nailgun, Selling: 300.00
 Id: 1166, Name: Nailgun Magazine, Selling: 50.00
 Id: 1167, Name: Name, Selling: 0.00
 Id: 1168, Name: Civilian Vest, Selling: 100.00
-Id: 1169, Name: Spec Ops Vest, Selling: 0.00
-Id: 1170, Name: Spec Ops Rucksack, Selling: 0.00
-Id: 1171, Name: Spec Ops Top, Selling: 0.00
-Id: 1172, Name: Spec Ops Bottom, Selling: 0.00
+Id: 1169, Name: Spec Ops Vest, Selling: 1000.00
+Id: 1170, Name: Spec Ops Rucksack, Selling: 1000.00
+Id: 1171, Name: Spec Ops Top, Selling: 1000.00
+Id: 1172, Name: Spec Ops Bottom, Selling: 1000.00
 Id: 1173, Name: Makeshift Armor, Selling: 100.00
 Id: 1174, Name: Scythe, Selling: 125.00
 Id: 1175, Name: Chart, Selling: 15.00
@@ -870,7 +870,7 @@ Id: 1371, Name: Bulldog Magazine, Selling: 80.00
 Id: 1372, Name: Friendly Sentry, Selling: 1250.00
 Id: 1373, Name: Hostile Sentry, Selling: 1500.00
 Id: 1374, Name: Name, Selling: 0.00
-Id: 1375, Name: Fusilaut, Selling: 0.00
+Id: 1375, Name: Fusilaut, Selling: 10000.00
 Id: 1376, Name: Fusilaut Iron Sights, Selling: 25.00
 Id: 1377, Name: Nightraider, Selling: 10000.00
 Id: 1378, Name: Nightraider Iron Sights, Selling: 25.00
@@ -978,7 +978,7 @@ Id: 1480, Name: Determinator, Selling: 1400.00
 Id: 1481, Name: Empire, Selling: 2000.00
 Id: 1482, Name: Empire Iron Sights, Selling: 25.00
 Id: 1483, Name: Empire Magazine, Selling: 150.00
-Id: 1484, Name: Devils Bane, Selling: 0.00
+Id: 1484, Name: Devils Bane, Selling: 25000.00
 Id: 1485, Name: Devils Bane Magazine, Selling: 150.00
 Id: 1486, Name: Devils Bane Iron Sights, Selling: 25.00
 Id: 1487, Name: Luger Magazine, Selling: 80.00
@@ -988,8 +988,8 @@ Id: 1490, Name: Swissgewehr Magazine, Selling: 150.00
 Id: 1491, Name: Military Top, Selling: 80.00
 Id: 1492, Name: Ghillie Top, Selling: 80.00
 Id: 1493, Name: Ghillie Bottom, Selling: 65.00
-Id: 1494, Name: Ghillie Hood, Selling: 100.00
-Id: 1495, Name: Ghillie Vest, Selling: 70.00
+Id: 1494, Name: Ghillie Hood, Selling: 70.00
+Id: 1495, Name: Ghillie Vest, Selling: 100.00
 Id: 1498, Name: Lederhosen Top, Selling: 60.00
 Id: 1499, Name: Lederhosen Bottom, Selling: 50.00
 Id: 1500, Name: Ghillie Netting, Selling: 0.00
@@ -1036,6 +1036,22 @@ Id: 1706, Name: Gingerbread Cookie, Selling: 0.00
 Id: 1707, Name: Ice Crystal, Selling: 0.00
 Id: 1708, Name: Drumstick, Selling: 0.00
 Id: 1764, Name: Housing Planner, Selling: 400.00
+Id: 1900, Name: Stacked Maple Logs, Selling: 0.00
+Id: 1901, Name: Stacked Birch Logs, Selling: 0.00
+Id: 1902, Name: Stacked Pine Logs, Selling: 0.00
+Id: 1903, Name: Stacked Maple Planks, Selling: 0.00
+Id: 1904, Name: Stacked Birch Planks, Selling: 0.00
+Id: 1905, Name: Stacked Pine Planks, Selling: 0.00
+Id: 1906, Name: Stacked Maple Sticks, Selling: 0.00
+Id: 1907, Name: Stacked Birch Sticks, Selling: 0.00
+Id: 1908, Name: Stacked Pine Sticks, Selling: 0.00
+Id: 1909, Name: Stacked Metal Scraps, Selling: 500.00
+Id: 1910, Name: Stacked Metal Sheets, Selling: 1200.00
+Id: 1911, Name: Stacked Metal Bars, Selling: 250.00
+Id: 1912, Name: Stacked Wires, Selling: 1750.00
+Id: 1913, Name: Stacked Cloths, Selling: 150.00
+Id: 1914, Name: Stacked Ropes, Selling: 500.00
+Id: 1915, Name Stacked Bricks, Selling: 1000.00
 Id: 2010, Name: Mushroom, Selling: 15.00
 Id: 2011, Name: Roasted Mushroom, Selling: 15.00
 Id: 2013, Name: Mushroom P, Selling: 15.00
