@@ -1036,17 +1036,17 @@ Id: 1706, Name: Gingerbread Cookie, Selling: 0.00
 Id: 1707, Name: Ice Crystal, Selling: 0.00
 Id: 1708, Name: Drumstick, Selling: 0.00
 Id: 1764, Name: Housing Planner, Selling: 400.00
-Id: 1900, Name: Stacked Maple Logs, Selling: 250.00
-Id: 1901, Name: Stacked Birch Logs, Selling: 250.00
-Id: 1902, Name: Stacked Pine Logs, Selling: 250.00
-Id: 1903, Name: Stacked Maple Planks, Selling: 150.00
-Id: 1904, Name: Stacked Birch Planks, Selling: 150.00
-Id: 1905, Name: Stacked Pine Planks, Selling: 150.00
-Id: 1906, Name: Stacked Maple Sticks, Selling: 150.00
-Id: 1907, Name: Stacked Birch Sticks, Selling: 150.00
-Id: 1908, Name: Stacked Pine Sticks, Selling: 150.00
+Id: 1900, Name: Stacked Maple Logs, Selling: 0.00
+Id: 1901, Name: Stacked Birch Logs, Selling: 0.00
+Id: 1902, Name: Stacked Pine Logs, Selling: 0.00
+Id: 1903, Name: Stacked Maple Planks, Selling: 0.00
+Id: 1904, Name: Stacked Birch Planks, Selling: 0.00
+Id: 1905, Name: Stacked Pine Planks, Selling: 0.00
+Id: 1906, Name: Stacked Maple Sticks, Selling: 0.00
+Id: 1907, Name: Stacked Birch Sticks, Selling: 0.00
+Id: 1908, Name: Stacked Pine Sticks, Selling: 0.00
 Id: 1909, Name: Stacked Metal Scraps, Selling: 500.00
-Id: 1910, Name: Stacked Metal Sheets, Selling: 500.00
+Id: 1910, Name: Stacked Metal Sheets, Selling: 1200.00
 Id: 1911, Name: Stacked Metal Bars, Selling: 250.00
 Id: 1912, Name: Stacked Wires, Selling: 1750.00
 Id: 1913, Name: Stacked Cloths, Selling: 150.00
