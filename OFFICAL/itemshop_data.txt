@@ -555,20 +555,20 @@ Id: 1054, Name: $50 Note, Selling: 50.00
 Id: 1055, Name: $100 Note, Selling: 100.00
 Id: 1056, Name: Loonie, Selling: 15.00
 Id: 1057, Name: Toonie, Selling: 15.00
-Id: 1058, Name: Large Maple Plate, Selling: 500.00
-Id: 1059, Name: Small Maple Plate, Selling: 500.00
+Id: 1058, Name: Large Maple Plate, Selling: 0.00
+Id: 1059, Name: Small Maple Plate, Selling: 0.00
 Id: 1060, Name: Large Maple Frame, Selling: 0.00
 Id: 1061, Name: Small Maple Frame, Selling: 0.00
 Id: 1062, Name: Maple Siding, Selling: 15.00
 Id: 1063, Name: Maple Pipe, Selling: 15.00
-Id: 1064, Name: Large Birch Plate, Selling: 500.00
-Id: 1065, Name: Small Birch Plate, Selling: 500.00
+Id: 1064, Name: Large Birch Plate, Selling: 0.00
+Id: 1065, Name: Small Birch Plate, Selling: 0.00
 Id: 1066, Name: Large Birch Frame, Selling: 0.00
 Id: 1067, Name: Small Birch Frame, Selling: 0.00
 Id: 1068, Name: Birch Siding, Selling: 15.00
 Id: 1069, Name: Birch Pipe, Selling: 15.00
-Id: 1070, Name: Large Pine Plate, Selling: 500.00
-Id: 1071, Name: Small Pine Plate, Selling: 500.00
+Id: 1070, Name: Large Pine Plate, Selling: 0.00
+Id: 1071, Name: Small Pine Plate, Selling: 0.00
 Id: 1072, Name: Large Pine Frame, Selling: 0.00
 Id: 1073, Name: Small Pine Frame, Selling: 0.00
 Id: 1074, Name: Pine Siding, Selling: 15.00
@@ -588,8 +588,8 @@ Id: 1087, Name: Pine Doorframe, Selling: 120.00
 Id: 1088, Name: Pine Garageframe, Selling: 100.00
 Id: 1089, Name: Metal Doorframe, Selling: 320.00
 Id: 1090, Name: Metal Garageframe, Selling: 280.00
-Id: 1091, Name: Large Metal Plate, Selling: 500.00
-Id: 1092, Name: Small Metal Plate, Selling: 500.00
+Id: 1091, Name: Large Metal Plate, Selling: 0.00
+Id: 1092, Name: Small Metal Plate, Selling: 0.00
 Id: 1093, Name: Metal Siding, Selling: 15.00
 Id: 1094, Name: Metal Pipe, Selling: 15.00
 Id: 1095, Name: Maple Sign, Selling: 60.00
@@ -639,18 +639,18 @@ Id: 1138, Name: Red Scarf, Selling: 40.00
 Id: 1139, Name: White Scarf, Selling: 40.00
 Id: 1140, Name: Yellow Scarf, Selling: 40.00
 Id: 1143, Name: Sawed-Off, Selling: 1300.00
-Id: 1144, Name: Large Birch Plate, Selling: 500.00
-Id: 1145, Name: Large Birch Plate, Selling: 500.00
-Id: 1146, Name: Large Maple Plate, Selling: 500.00
-Id: 1147, Name: Large Maple Plate, Selling: 500.00
-Id: 1148, Name: Large Pine Plate, Selling: 500.00
-Id: 1149, Name: Large Pine Plate, Selling: 500.00
-Id: 1150, Name: Small Birch Plate, Selling: 500.00
-Id: 1151, Name: Small Birch Plate, Selling: 500.00
-Id: 1152, Name: Small Maple Plate, Selling: 500.00
-Id: 1153, Name: Small Maple Plate, Selling: 500.00
-Id: 1154, Name: Small Pine Plate, Selling: 500.00
-Id: 1155, Name: Small Pine Plate, Selling: 500.00
+Id: 1144, Name: Large Birch Plate, Selling: 0.00
+Id: 1145, Name: Large Birch Plate, Selling: 0.00
+Id: 1146, Name: Large Maple Plate, Selling: 0.00
+Id: 1147, Name: Large Maple Plate, Selling: 0.00
+Id: 1148, Name: Large Pine Plate, Selling: 0.00
+Id: 1149, Name: Large Pine Plate, Selling: 0.00
+Id: 1150, Name: Small Birch Plate, Selling: 0.00
+Id: 1151, Name: Small Birch Plate, Selling: 0.00
+Id: 1152, Name: Small Maple Plate, Selling: 0.00
+Id: 1153, Name: Small Maple Plate, Selling: 0.00
+Id: 1154, Name: Small Pine Plate, Selling: 0.00
+Id: 1155, Name: Small Pine Plate, Selling: 0.00
 Id: 1156, Name: Thief Top, Selling: 60.00
 Id: 1157, Name: Thief Bottom, Selling: 40.00
 Id: 1158, Name: Claim Flag, Selling: 500.00
@@ -988,11 +988,11 @@ Id: 1490, Name: Swissgewehr Magazine, Selling: 150.00
 Id: 1491, Name: Military Top, Selling: 80.00
 Id: 1492, Name: Ghillie Top, Selling: 80.00
 Id: 1493, Name: Ghillie Bottom, Selling: 65.00
-Id: 1494, Name: Ghillie Hood, Selling: 100.00
-Id: 1495, Name: Ghillie Vest, Selling: 70.00
+Id: 1494, Name: Ghillie Hood, Selling: 70.00
+Id: 1495, Name: Ghillie Vest, Selling: 100.00
 Id: 1498, Name: Lederhosen Top, Selling: 60.00
 Id: 1499, Name: Lederhosen Bottom, Selling: 50.00
-Id: 1500, Name: Ghillie Netting, Selling: 500.00
+Id: 1500, Name: Ghillie Netting, Selling: 0.00
 Id: 1501, Name: EA Tee, Selling: 45.00
 Id: 1502, Name: EA Beret, Selling: 35.00
 Id: 1503, Name: Zweihander, Selling: 0.00
