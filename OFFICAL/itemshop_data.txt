@@ -664,10 +664,10 @@ Id: 1165, Name: Nailgun, Selling: 300.00
 Id: 1166, Name: Nailgun Magazine, Selling: 50.00
 Id: 1167, Name: Name, Selling: 0.00
 Id: 1168, Name: Civilian Vest, Selling: 100.00
-Id: 1169, Name: Spec Ops Vest, Selling: 1000.00
-Id: 1170, Name: Spec Ops Rucksack, Selling: 1000.00
-Id: 1171, Name: Spec Ops Top, Selling: 1000.00
-Id: 1172, Name: Spec Ops Bottom, Selling: 1000.00
+Id: 1169, Name: Spec Ops Vest, Selling: 500.00
+Id: 1170, Name: Spec Ops Rucksack, Selling: 500.00
+Id: 1171, Name: Spec Ops Top, Selling: 500.00
+Id: 1172, Name: Spec Ops Bottom, Selling: 500.00
 Id: 1173, Name: Makeshift Armor, Selling: 100.00
 Id: 1174, Name: Scythe, Selling: 125.00
 Id: 1175, Name: Chart, Selling: 15.00
