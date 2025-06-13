@@ -1,0 +1,9 @@
+Id: 41500, Name: Multipurpose Helicopter, Selling: 00.00
+Id: 41501, Name: MT-LB, Selling: 10000.00
+Id: 41502, Name: MT-LB, Selling: 10000.00
+Id: 41503, Name: UASZ-469, Selling: 10000.00
+Id: 41504, Name: UASZ-469, Selling: 10000.00
+Id: 41505, Name: UASZ-452, Selling: 10000.00
+Id: 41506, Name: UASZ-452, Selling: 10000.00
+Id: 41507, Name: VALKAZ-4310, Selling: 10000.00
+Id: 41508, Name: VALKAZ-4310, Selling: 10000.00
