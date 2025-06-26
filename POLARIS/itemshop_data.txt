@@ -45,7 +45,7 @@ Id: 30543, Name: BR-16 "Willow", Selling: 0.00
 Id: 30544, Name: Iron Sights, Selling: 0.00
 Id: 30545, Name: Iron Sights, Selling: 0.00
 Id: 30546, Name: Skinner Heavy Stock, Selling: 0.00
-Id: 30547, Name: R10 "Richmond", Selling: 10000.00
+Id: 30547, Name: R10 "Richmond", Selling: 0.00
 Id: 30548, Name: Iron Sights, Selling: 0.00
 Id: 30549, Name: LAR-58 "Weasel", Selling: 0.00
 Id: 30550, Name: LAR-58 "Weasel" OSW, Selling: 0.00
