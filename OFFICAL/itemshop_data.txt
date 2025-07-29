@@ -245,12 +245,12 @@ Id: 251, Name: White Travelpack, Selling: 220.00
 Id: 252, Name: Yellow Travelpack, Selling: 220.00
 Id: 253, Name: Alicepack, Selling: 400.00
 Id: 254, Name: Fragmentation Grenade, Selling: 0.00
-Id: 255, Name: Blue Flare, Selling: 20.00
-Id: 256, Name: Green Flare, Selling: 20.00
-Id: 257, Name: Orange Flare, Selling: 20.00
-Id: 258, Name: Purple Flare, Selling: 20.00
-Id: 259, Name: Red Flare, Selling: 20.00
-Id: 260, Name: Yellow Flare, Selling: 20.00
+Id: 255, Name: Blue Flare, Selling: 50.00
+Id: 256, Name: Green Flare, Selling: 50.00
+Id: 257, Name: Orange Flare, Selling: 50.00
+Id: 258, Name: Purple Flare, Selling: 50.00
+Id: 259, Name: Red Flare, Selling: 50.00
+Id: 260, Name: Yellow Flare, Selling: 50.00
 Id: 261, Name: Black Smoke, Selling: 25.00
 Id: 262, Name: Blue Smoke, Selling: 25.00
 Id: 263, Name: Green Smoke, Selling: 25.00
@@ -767,12 +767,12 @@ Id: 1268, Name: Triangular Pine Roof, Selling: 200.00
 Id: 1269, Name: Triangular Metal Roof, Selling: 400.00
 Id: 1270, Name: Gasmask, Selling: 5000.00
 Id: 1271, Name: Filter , Selling: 0.00
-Id: 1272, Name: Blue Flare Sconce, Selling: 60.00
-Id: 1273, Name: Green Flare Sconce, Selling: 60.00
-Id: 1274, Name: Orange Flare Sconce, Selling: 60.00
-Id: 1275, Name: Purple Flare Sconce, Selling: 60.00
-Id: 1276, Name: Red Flare Sconce, Selling: 60.00
-Id: 1277, Name: Yellow Flare Sconce, Selling: 60.00
+Id: 1272, Name: Blue Flare Sconce, Selling: 100.00
+Id: 1273, Name: Green Flare Sconce, Selling: 100.00
+Id: 1274, Name: Orange Flare Sconce, Selling: 100.00
+Id: 1275, Name: Purple Flare Sconce, Selling: 100.00
+Id: 1276, Name: Red Flare Sconce, Selling: 100.00
+Id: 1277, Name: Yellow Flare Sconce, Selling: 100.00
 Id: 1278, Name: Maple Wardrobe, Selling: 180.00
 Id: 1279, Name: Birch Wardrobe, Selling: 180.00
 Id: 1280, Name: Pine Wardrobe, Selling: 180.00
