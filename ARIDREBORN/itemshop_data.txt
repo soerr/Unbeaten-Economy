@@ -603,7 +603,7 @@ Id: 19260, Name: AR Mag, Selling: 100.00
 Id: 19261, Name: AR20 Holo Sight, Selling: 0.00
 Id: 19262, Name: High Tier Gun Parts, Selling: 0.00
 Id: 19263, Name: Intermediate Ammo Box, Selling: 0.00
-Id: 19264, Name: Rescue Saw, Selling: 3500.00
+Id: 19264, Name: Rescue Saw, Selling: 0.00
 Id: 19265, Name: Bomb Charge, Selling: 0.00
 Id: 19267, Name: Homemade Charge, Selling: 0.00
 Id: 19268, Name: Homemade Charge, Selling: 0.00
