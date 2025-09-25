@@ -1,4 +1,4 @@
-Id: 25298, Name: Buak_Crate_Safezone, Selling: 10000000.00
+Id: 25298, Name: Buak_Crate_Safezone, Selling: 0.00
 Id: 25299, Name: Buak_Mannequin_Store, Selling: 0.00
 Id: 25300, Name: Sewing Thread, Selling: 0.00
 Id: 25301, Name: Bones, Selling: 0.00
