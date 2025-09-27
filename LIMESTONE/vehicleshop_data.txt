@@ -1,0 +1,5 @@
+Id: 21500, Name: Patriotic Train, Selling: 0.00
+Id: 21501, Name: Train, Selling: 0.00
+Id: 21506, Name: Mounted Valkyrie, Selling: 0.00
+Id: 21507, Name: Mounted Valkyrie, Selling: 0.00
+Id: 21508, Name: Mounted Valkyrie, Selling: 0.00
