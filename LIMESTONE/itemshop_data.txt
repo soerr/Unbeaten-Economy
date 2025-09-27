@@ -1,14 +1,14 @@
-Id: 21500, Name: Wood, Selling: 0.00
-Id: 21501, Name: Stack Of Wood, Selling: 0.00
-Id: 21502, Name: Electronics, Selling: 0.00
-Id: 21503, Name: Stack Of Electronics, Selling: 0.00
-Id: 21504, Name: Metal, Selling: 0.00
-Id: 21505, Name: Stack Of Metal, Selling: 0.00
-Id: 21506, Name: Cloth, Selling: 0.00
+Id: 21500, Name: Wood, Selling: 50.00
+Id: 21501, Name: Stack Of Wood, Selling: 500.00
+Id: 21502, Name: Electronics, Selling: 100.00
+Id: 21503, Name: Stack Of Electronics, Selling: 500.00
+Id: 21504, Name: Metal, Selling: 100.00
+Id: 21505, Name: Stack Of Metal, Selling: 600.00
+Id: 21506, Name: Cloth, Selling: 50.00
 Id: 21507, Name: Stack Of Cloth, Selling: 0.00
 Id: 21508, Name: Stack Of Money, Selling: 0.00
 Id: 21509, Name: Gold Bar, Selling: 0.00
-Id: 21510, Name: Viper, Selling: 0.00
+Id: 21510, Name: Viper, Selling: 2500.00
 Id: 21511, Name: Viper PDW Mods, Selling: 0.00
 Id: 21512, Name: Viper Baseline Mods, Selling: 0.00
 Id: 21513, Name: Viper Old School Mods, Selling: 0.00
@@ -18,55 +18,55 @@ Id: 21516, Name: Gnome Effigy, Selling: 0.00
 Id: 21517, Name: Viper SD, Selling: 0.00
 Id: 21518, Name: Raymond, Selling: 0.00
 Id: 21519, Name: Red Dot Sight, Selling: 0.00
-Id: 21520, Name: Armor Plating, Selling: 0.00
-Id: 21521, Name: GPS, Selling: 0.00
+Id: 21520, Name: Armor Plating, Selling: 400.00
+Id: 21521, Name: GPS, Selling: 200.00
 Id: 21522, Name: Gun Parts, Selling: 0.00
 Id: 21523, Name: Stack Of Gun Parts, Selling: 0.00
 Id: 21524, Name: Full-Spectrum Silencer Kit, Selling: 0.00
-Id: 21525, Name: Hammer, Selling: 0.00
-Id: 21526, Name: Pistol Ammo Box, Selling: 0.00
-Id: 21527, Name: Rifle Ammo Box, Selling: 0.00
-Id: 21528, Name: Sniper Ammo Box, Selling: 0.00
+Id: 21525, Name: Hammer, Selling: 200.00
+Id: 21526, Name: Pistol Ammo Box, Selling: 200.00
+Id: 21527, Name: Rifle Ammo Box, Selling: 300.00
+Id: 21528, Name: Sniper Ammo Box, Selling: 400.00
 Id: 21529, Name: Debug, Selling: 0.00
 Id: 21530, Name: Lapua Ammo Box, Selling: 0.00
 Id: 21531, Name: Testing Alicepack, Selling: 0.00
 Id: 21532, Name: Raymond Mods, Selling: 0.00
 Id: 21533, Name: Green Dot Sight, Selling: 0.00
 Id: 21534, Name: Viper Specialist Mods, Selling: 0.00
-Id: 21535, Name: Nail, Selling: 0.00
+Id: 21535, Name: Nail, Selling: 50.00
 Id: 21536, Name: Stack Of Nails, Selling: 0.00
-Id: 21537, Name: Tape, Selling: 0.00
+Id: 21537, Name: Tape, Selling: 100.00
 Id: 21538, Name: Dogtag, Selling: 0.00
-Id: 21539, Name: Pitbull, Selling: 0.00
+Id: 21539, Name: Pitbull, Selling: 2500.00
 Id: 21540, Name: Pitbull Baseline Mods, Selling: 0.00
 Id: 21541, Name: Pitbull Picket Mods, Selling: 0.00
 Id: 21542, Name: Pitbull Slick Mods, Selling: 0.00
 Id: 21543, Name: Skeletonised Receiver, Selling: 0.00
-Id: 21544, Name: Pitbull FMJ Mag, Selling: 0.00
-Id: 21545, Name: Heavy Barrel, Selling: 0.00
+Id: 21544, Name: Pitbull FMJ Mag, Selling: 150.00
+Id: 21545, Name: Heavy Barrel, Selling: 100.00
 Id: 21546, Name: Iridium Barrel, Selling: 0.00
 Id: 21547, Name: Ported Barrel, Selling: 0.00
-Id: 21548, Name: Tactical Light, Selling: 0.00
-Id: 21549, Name: Tactical Laser, Selling: 0.00
-Id: 21550, Name: Military Laser, Selling: 0.00
-Id: 21552, Name: Adaptive Accelerator, Selling: 0.00
-Id: 21553, Name: Horizontal Fixer, Selling: 0.00
+Id: 21548, Name: Tactical Light, Selling: 100.00
+Id: 21549, Name: Tactical Laser, Selling: 100.00
+Id: 21550, Name: Military Laser, Selling: 200.00
+Id: 21552, Name: Adaptive Accelerator, Selling: 200.00
+Id: 21553, Name: Horizontal Fixer, Selling: 200.00
 Id: 21554, Name: Gilded Bolt Carrier, Selling: 0.00
 Id: 21555, Name: Platinum Recoil Spring, Selling: 0.00
-Id: 21556, Name: Stable Adapter, Selling: 0.00
+Id: 21556, Name: Stable Adapter, Selling: 200.00
 Id: 21557, Name: Vertical Stabilizer, Selling: 0.00
 Id: 21558, Name: Adamantine Buffer Tube, Selling: 0.00
-Id: 21559, Name: Weighted Bolt, Selling: 0.00
+Id: 21559, Name: Weighted Bolt, Selling: 200.00
 Id: 21560, Name: Red Reflex Sight, Selling: 0.00
 Id: 21561, Name: Green Reflex Sight, Selling: 0.00
 Id: 21562, Name: Bone Hook, Selling: 0.00
-Id: 21563, Name: Bread, Selling: 0.00
+Id: 21563, Name: Bread, Selling: 50.00
 Id: 21564, Name: Lapua Bullet, Selling: 0.00
 Id: 21565, Name: Quake PDW Mods, Selling: 0.00
 Id: 21566, Name: Quake Baseline Mods, Selling: 0.00
 Id: 21567, Name: Quake Specialist Mods, Selling: 0.00
 Id: 21568, Name: Bone Spikes, Selling: 0.00
-Id: 21569, Name: Quake, Selling: 0.00
+Id: 21569, Name: Quake, Selling: 4500.00
 Id: 21570, Name: Compass, Selling: 0.00
 Id: 21571, Name: PDA, Selling: 0.00
 Id: 21572, Name: Pitbull SD, Selling: 0.00
@@ -83,19 +83,19 @@ Id: 21582, Name: Echo Bolt, Selling: 0.00
 Id: 21583, Name: Widowmaker Scope, Selling: 0.00
 Id: 21584, Name: Widowmaker Mag, Selling: 0.00
 Id: 21585, Name: Widowmaker, Selling: 0.00
-Id: 21586, Name: Chevron Scope, Selling: 0.00
-Id: 21587, Name: Phantom Scope, Selling: 0.00
+Id: 21586, Name: Chevron Scope, Selling: 100.00
+Id: 21587, Name: Phantom Scope, Selling: 100.00
 Id: 21588, Name: Cooking Salt, Selling: 0.00
 Id: 21589, Name: Blue Extract, Selling: 0.00
 Id: 21590, Name: Green Extract, Selling: 0.00
 Id: 21591, Name: Red Extract, Selling: 0.00
 Id: 21592, Name: Gunpowder, Selling: 0.00
-Id: 21593, Name: Toolbox, Selling: 0.00
+Id: 21593, Name: Toolbox, Selling: 500.00
 Id: 21594, Name: Advanced Tools, Selling: 0.00
-Id: 21595, Name: Repair Kit, Selling: 0.00
-Id: 21596, Name: Glue, Selling: 0.00
+Id: 21595, Name: Repair Kit, Selling: 500.00
+Id: 21596, Name: Glue, Selling: 50.00
 Id: 21597, Name: GL Ammo Crate, Selling: 0.00
-Id: 21598, Name: Fabric, Selling: 0.00
+Id: 21598, Name: Fabric, Selling: 50.00
 Id: 21599, Name: Basic Pouch, Selling: 0.00
 Id: 21600, Name: Cargo Pouch, Selling: 0.00
 Id: 21601, Name: Stinger Grenade, Selling: 0.00
@@ -109,12 +109,11 @@ Id: 21608, Name: Widowmaker Internals, Selling: 0.00
 Id: 21609, Name: Widowmaker Scope Module, Selling: 0.00
 Id: 21610, Name: Stack Of Armor Plating, Selling: 0.00
 Id: 21611, Name: Stack Of Fabric, Selling: 0.00
-Id: 21612, Name: Eaglefire, Selling: 0.00
-Id: 21613, Name: Eaglefire SD, Selling: 0.00
-Id: 21614, Name: Eagle, Selling: 0.00
-Id: 21615, Name: Eagle SD, Selling: 0.00
-Id: 21616, Name: Eaglestrike, Selling: 0.00
-Id: 21617, Name: Eaglestrike SD, Selling: 0.00
+Id: 21612, Name: Eaglefire, Selling: 4000.00
+Id: 21613, Name: Eaglefire SD, Selling: 4400.00
+Id: 21614, Name: Eagle, Selling: 4000.00
+Id: 21615, Name: Eagle SD, Selling: 4400.00
+Id: 21616, Name: Eaglestrike, Selling: 4500.00
 Id: 21618, Name: Halotech Sight, Selling: 0.00
 Id: 21619, Name: Variable Scope [1.5x], Selling: 0.00
 Id: 21620, Name: Variable Scope [5x], Selling: 0.00
@@ -128,26 +127,26 @@ Id: 21627, Name: Eagle Precision Mods, Selling: 0.00
 Id: 21628, Name: Eagle Striker Mods, Selling: 0.00
 Id: 21629, Name: Loaf Of Bread, Selling: 0.00
 Id: 21630, Name: Halotech Optic, Selling: 0.00
-Id: 21631, Name: Adler, Selling: 0.00
+Id: 21631, Name: Adler, Selling: 4000.00
 Id: 21632, Name: Law Rocket, Selling: 0.00
 Id: 21633, Name: Law, Selling: 0.00
 Id: 21634, Name: Carbon Frame, Selling: 0.00
 Id: 21635, Name: Flare, Selling: 0.00
 Id: 21636, Name: Frag Grenade, Selling: 0.00
-Id: 21637, Name: Smoke Grenade, Selling: 0.00
-Id: 21638, Name: Flashbang, Selling: 0.00
+Id: 21637, Name: Smoke Grenade, Selling: 100.00
+Id: 21638, Name: Flashbang, Selling: 100.00
 Id: 21639, Name: Banger Grenade, Selling: 0.00
 Id: 21640, Name: Baseball Bat, Selling: 0.00
 Id: 21641, Name: Mangled Bat, Selling: 0.00
 Id: 21642, Name: Welding Torch, Selling: 0.00
-Id: 21643, Name: Axe, Selling: 0.00
-Id: 21644, Name: Crowbar, Selling: 0.00
-Id: 21645, Name: Entrenching Tool, Selling: 0.00
-Id: 21646, Name: Frying Pan, Selling: 0.00
-Id: 21647, Name: Kitchen Knife, Selling: 0.00
-Id: 21648, Name: Field Knife, Selling: 0.00
-Id: 21649, Name: Survival Knife, Selling: 0.00
-Id: 21650, Name: Tactical Knife, Selling: 0.00
+Id: 21643, Name: Axe, Selling: 200.00
+Id: 21644, Name: Crowbar, Selling: 200.00
+Id: 21645, Name: Entrenching Tool, Selling: 200.00
+Id: 21646, Name: Frying Pan, Selling: 200.00
+Id: 21647, Name: Kitchen Knife, Selling: 200.00
+Id: 21648, Name: Field Knife, Selling: 200.00
+Id: 21649, Name: Survival Knife, Selling: 200.00
+Id: 21650, Name: Tactical Knife, Selling: 200.00
 Id: 21651, Name: Lead Pipe, Selling: 0.00
 Id: 21652, Name: Titanium Axe, Selling: 0.00
 Id: 21653, Name: Sledge, Selling: 0.00
@@ -158,14 +157,14 @@ Id: 21657, Name: Honey Bee Baseline Mods, Selling: 0.00
 Id: 21658, Name: Honey Bee Specialist Mods, Selling: 0.00
 Id: 21659, Name: Honey Bee PDW Mods, Selling: 0.00
 Id: 21660, Name: Agriculture Tools, Selling: 0.00
-Id: 21661, Name: Honey Bee, Selling: 0.00
-Id: 21662, Name: Honey Bee SD, Selling: 0.00
+Id: 21661, Name: Honey Bee, Selling: 6000.00
+Id: 21662, Name: Honey Bee SD, Selling: 6400.00
 Id: 21663, Name: Honey Bee Baseline Mods, Selling: 0.00
 Id: 21664, Name: Fishing Rod, Selling: 0.00
 Id: 21665, Name: Honey Bee PDW Mods, Selling: 0.00
 Id: 21666, Name: Blueberry Plant, Selling: 0.00
-Id: 21667, Name: Honey Bee, Selling: 0.00
-Id: 21668, Name: Honey Bee SD, Selling: 0.00
+Id: 21667, Name: Honey Bee, Selling: 6000.00
+Id: 21668, Name: Honey Bee SD, Selling: 6400.00
 Id: 21669, Name: Honey Bee Baseline Mods, Selling: 0.00
 Id: 21670, Name: Vehicle MG, Selling: 0.00
 Id: 21671, Name: Honey Bee PDW Mods, Selling: 0.00
@@ -177,7 +176,7 @@ Id: 21676, Name: Nightcrawler, Selling: 0.00
 Id: 21677, Name: Cross Scope, Selling: 0.00
 Id: 21678, Name: Bloodhound, Selling: 0.00
 Id: 21679, Name: Bloodhound Baseline Mods, Selling: 0.00
-Id: 21680, Name: Mercy, Selling: 0.00
+Id: 21680, Name: Mercy, Selling: 4500.00
 Id: 21681, Name: Bloodhound DMR Mods, Selling: 0.00
 Id: 21682, Name: Bloodhound DMR Mods, Selling: 0.00
 Id: 21683, Name: Bloodhound EBR Mods, Selling: 0.00
@@ -219,14 +218,14 @@ Id: 21718, Name: Red Herb Seed, Selling: 0.00
 Id: 21719, Name: Beige Mushroom Seed, Selling: 0.00
 Id: 21720, Name: Brown Mushroom Seed, Selling: 0.00
 Id: 21721, Name: Widowmaker Receiver, Selling: 0.00
-Id: 21722, Name: Military FMJ Mag, Selling: 0.00
+Id: 21722, Name: Military FMJ Mag, Selling: 100.00
 Id: 21723, Name: Military FMJ Box, Selling: 0.00
-Id: 21724, Name: Military FMJ Drum, Selling: 0.00
+Id: 21724, Name: Military FMJ Drum, Selling: 300.00
 Id: 21725, Name: Military AP Box, Selling: 0.00
 Id: 21726, Name: Military AP Drum, Selling: 0.00
 Id: 21727, Name: Military FRAG Box, Selling: 0.00
 Id: 21728, Name: Military FRAG Drum, Selling: 0.00
-Id: 21729, Name: Viper FMJ Mag, Selling: 0.00
+Id: 21729, Name: Viper FMJ Mag, Selling: 100.00
 Id: 21730, Name: Viper SP Mag, Selling: 0.00
 Id: 21731, Name: Viper AP Mag, Selling: 0.00
 Id: 21732, Name: Heavy FMJ Mag, Selling: 0.00
@@ -236,13 +235,13 @@ Id: 21735, Name: Cable Reel, Selling: 0.00
 Id: 21736, Name: Concrete Slab, Selling: 0.00
 Id: 21737, Name: Stack Of Concrete Slabs, Selling: 0.00
 Id: 21738, Name: Concrete Bag, Selling: 0.00
-Id: 21739, Name: Motor Oil, Selling: 0.00
+Id: 21739, Name: Motor Oil, Selling: 200.00
 Id: 21740, Name: Reinforced Concrete, Selling: 0.00
 Id: 21741, Name: Stack Of Reinforced Concrete, Selling: 0.00
 Id: 21742, Name: Door Handle, Selling: 0.00
 Id: 21743, Name: Handcuffs, Selling: 0.00
 Id: 21744, Name: Handcuffs Key, Selling: 0.00
-Id: 21745, Name: Carjack, Selling: 0.00
+Id: 21745, Name: Carjack, Selling: 200.00
 Id: 21746, Name: Military Carjack, Selling: 0.00
 Id: 21747, Name: Blueberry Seed, Selling: 0.00
 Id: 21749, Name: Raspberry Seed, Selling: 0.00
@@ -264,9 +263,9 @@ Id: 21764, Name: Army Canteen, Selling: 0.00
 Id: 21765, Name: Red Refillable Bottle, Selling: 0.00
 Id: 21766, Name: Blue Refillable Bottle, Selling: 0.00
 Id: 21767, Name: White Refillable Bottle, Selling: 0.00
-Id: 21768, Name: Gas Can, Selling: 0.00
-Id: 21769, Name: Large Gas Can, Selling: 0.00
-Id: 21770, Name: Wrench, Selling: 0.00
+Id: 21768, Name: Gas Can, Selling: 400.00
+Id: 21769, Name: Large Gas Can, Selling: 2000.00
+Id: 21770, Name: Wrench, Selling: 400.00
 Id: 21771, Name: Tomahawk, Selling: 0.00
 Id: 21772, Name: Battleaxe, Selling: 0.00
 Id: 21773, Name: BMG SP Bullet, Selling: 0.00
@@ -289,8 +288,8 @@ Id: 21789, Name: Paper Sheet, Selling: 0.00
 Id: 21790, Name: Calendar, Selling: 0.00
 Id: 21791, Name: Rag, Selling: 0.00
 Id: 21792, Name: Bandage, Selling: 0.00
-Id: 21793, Name: Dressing, Selling: 0.00
-Id: 21794, Name: Medical Kit, Selling: 0.00
+Id: 21793, Name: Dressing, Selling: 100.00
+Id: 21794, Name: Medical Kit, Selling: 200.00
 Id: 21795, Name: Splint, Selling: 0.00
 Id: 21796, Name: Cough Tablets, Selling: 0.00
 Id: 21797, Name: Chinese Gasmask Filter, Selling: 0.00
@@ -311,18 +310,18 @@ Id: 21811, Name: Tracksuit Bottoms, Selling: 0.00
 Id: 21812, Name: Tracksuit Bottoms, Selling: 0.00
 Id: 21813, Name: Colonel Bottoms, Selling: 0.00
 Id: 21814, Name: Spec Ops Overalls, Selling: 0.00
-Id: 21815, Name: Military Shorts, Selling: 0.00
-Id: 21816, Name: Military Shorts, Selling: 0.00
-Id: 21817, Name: Military Shorts, Selling: 0.00
+Id: 21815, Name: Military Shorts, Selling: 400.00
+Id: 21816, Name: Military Shorts, Selling: 400.00
+Id: 21817, Name: Military Shorts, Selling: 400.00
 Id: 21818, Name: Tactical Pants, Selling: 0.00
 Id: 21819, Name: Tactical Pants, Selling: 0.00
 Id: 21820, Name: Tactical Pants, Selling: 0.00
 Id: 21821, Name: Spec Ops Pants, Selling: 0.00
 Id: 21822, Name: Spec Ops Pants, Selling: 0.00
 Id: 21823, Name: Spec Ops Pants, Selling: 0.00
-Id: 21824, Name: Military Shirt, Selling: 0.00
-Id: 21825, Name: Military Shirt, Selling: 0.00
-Id: 21826, Name: Military Shirt, Selling: 0.00
+Id: 21824, Name: Military Shirt, Selling: 400.00
+Id: 21825, Name: Military Shirt, Selling: 400.00
+Id: 21826, Name: Military Shirt, Selling: 400.00
 Id: 21827, Name: Plaid Shirt, Selling: 0.00
 Id: 21828, Name: Plaid Shirt, Selling: 0.00
 Id: 21829, Name: Plaid Shirt, Selling: 0.00
@@ -364,10 +363,10 @@ Id: 21864, Name: Shirt, Selling: 0.00
 Id: 21865, Name: Bandana, Selling: 0.00
 Id: 21866, Name: Ski Mask, Selling: 0.00
 Id: 21867, Name: Hi-Speed Glasses, Selling: 0.00
-Id: 21868, Name: Military Nightvision Goggles, Selling: 0.00
-Id: 21869, Name: Military Nightvision Goggles, Selling: 0.00
-Id: 21870, Name: Nightvision Goggles, Selling: 0.00
-Id: 21871, Name: Nightvision Goggles, Selling: 0.00
+Id: 21868, Name: Military Nightvision Goggles, Selling: 700.00
+Id: 21869, Name: Military Nightvision Goggles, Selling: 700.00
+Id: 21870, Name: Nightvision Goggles, Selling: 600.00
+Id: 21871, Name: Nightvision Goggles, Selling: 600.00
 Id: 21872, Name: Puffer Vest, Selling: 0.00
 Id: 21873, Name: Puffer Vest, Selling: 0.00
 Id: 21874, Name: Puffer Vest, Selling: 0.00
@@ -386,39 +385,39 @@ Id: 21886, Name: Knapsack, Selling: 0.00
 Id: 21887, Name: Knapsack, Selling: 0.00
 Id: 21888, Name: Knapsack, Selling: 0.00
 Id: 21889, Name: Knapsack, Selling: 0.00
-Id: 21890, Name: Camping Pack, Selling: 0.00
-Id: 21891, Name: Camping Pack, Selling: 0.00
-Id: 21892, Name: Camping Pack, Selling: 0.00
-Id: 21893, Name: Camping Pack, Selling: 0.00
-Id: 21894, Name: Camping Pack, Selling: 0.00
-Id: 21895, Name: Assault Pack, Selling: 0.00
-Id: 21896, Name: Assault Pack, Selling: 0.00
-Id: 21897, Name: Assault Pack, Selling: 0.00
-Id: 21898, Name: Coyote Pack, Selling: 0.00
-Id: 21899, Name: Coyote Pack, Selling: 0.00
-Id: 21900, Name: Coyote Pack, Selling: 0.00
-Id: 21901, Name: Rifle Bag, Selling: 0.00
-Id: 21902, Name: Rifle Bag, Selling: 0.00
-Id: 21903, Name: Rifle Bag, Selling: 0.00
-Id: 21904, Name: Rucksack, Selling: 0.00
-Id: 21905, Name: Rucksack, Selling: 0.00
-Id: 21906, Name: Rucksack, Selling: 0.00
-Id: 21907, Name: Military Helmet, Selling: 0.00
-Id: 21908, Name: Military Helmet, Selling: 0.00
-Id: 21909, Name: Military Helmet, Selling: 0.00
+Id: 21890, Name: Camping Pack, Selling: 1500.00
+Id: 21891, Name: Camping Pack, Selling: 1500.00
+Id: 21892, Name: Camping Pack, Selling: 1500.00
+Id: 21893, Name: Camping Pack, Selling: 1500.00
+Id: 21894, Name: Camping Pack, Selling: 1500.00
+Id: 21895, Name: Assault Pack, Selling: 2000.00
+Id: 21896, Name: Assault Pack, Selling: 2000.00
+Id: 21897, Name: Assault Pack, Selling: 2000.00
+Id: 21898, Name: Coyote Pack, Selling: 1750.00
+Id: 21899, Name: Coyote Pack, Selling: 1750.00
+Id: 21900, Name: Coyote Pack, Selling: 1750.00
+Id: 21901, Name: Rifle Bag, Selling: 1400.00
+Id: 21902, Name: Rifle Bag, Selling: 1400.00
+Id: 21903, Name: Rifle Bag, Selling: 1400.00
+Id: 21904, Name: Rucksack, Selling: 3000.00
+Id: 21905, Name: Rucksack, Selling: 3000.00
+Id: 21906, Name: Rucksack, Selling: 3000.00
+Id: 21907, Name: Military Helmet, Selling: 400.00
+Id: 21908, Name: Military Helmet, Selling: 400.00
+Id: 21909, Name: Military Helmet, Selling: 400.00
 Id: 21910, Name: Tactical Helmet, Selling: 0.00
 Id: 21911, Name: Tactical Helmet, Selling: 0.00
 Id: 21912, Name: Tactical Helmet, Selling: 0.00
-Id: 21913, Name: Heavy Helmet, Selling: 0.00
-Id: 21914, Name: Heavy Helmet, Selling: 0.00
-Id: 21915, Name: Heavy Helmet, Selling: 0.00
-Id: 21916, Name: Tactical Rig, Selling: 0.00
+Id: 21913, Name: Heavy Helmet, Selling: 1000.00
+Id: 21914, Name: Heavy Helmet, Selling: 1000.00
+Id: 21915, Name: Heavy Helmet, Selling: 1000.00
+Id: 21916, Name: Tactical Rig, Selling: 400.00
 Id: 21917, Name: Loader Tactical Rig, Selling: 0.00
 Id: 21918, Name: Cargo Tactical Rig, Selling: 0.00
-Id: 21919, Name: Tactical Rig, Selling: 0.00
+Id: 21919, Name: Tactical Rig, Selling: 400.00
 Id: 21920, Name: Loader Tactical Rig, Selling: 0.00
 Id: 21921, Name: Cargo Tactical Rig, Selling: 0.00
-Id: 21922, Name: Tactical Rig, Selling: 0.00
+Id: 21922, Name: Tactical Rig, Selling: 400.00
 Id: 21923, Name: Loader Tactical Rig, Selling: 0.00
 Id: 21924, Name: Cargo Tactical Rig, Selling: 0.00
 Id: 21925, Name: Compact Rig, Selling: 0.00
@@ -486,9 +485,9 @@ Id: 21986, Name: Windbreaker, Selling: 0.00
 Id: 21987, Name: Camo Shirt, Selling: 0.00
 Id: 21988, Name: Bandana, Selling: 0.00
 Id: 21989, Name: Ski Mask, Selling: 0.00
-Id: 21990, Name: Armor Upgrade Kit, Selling: 0.00
-Id: 21991, Name: Rope, Selling: 0.00
-Id: 21992, Name: Tactical Rig, Selling: 0.00
+Id: 21990, Name: Armor Upgrade Kit, Selling: 1000.00
+Id: 21991, Name: Rope, Selling: 100.00
+Id: 21992, Name: Tactical Rig, Selling: 400.00
 Id: 21993, Name: Loader Tactical Rig, Selling: 0.00
 Id: 21994, Name: Cargo Tactical Rig, Selling: 0.00
 Id: 21995, Name: Pro Rig, Selling: 0.00
@@ -512,25 +511,25 @@ Id: 22016, Name: Magenta Syringe, Selling: 0.00
 Id: 22017, Name: Cyan Syringe, Selling: 0.00
 Id: 22018, Name: White Syringe, Selling: 0.00
 Id: 22019, Name: Black Syringe, Selling: 0.00
-Id: 22020, Name: Wooden Doorway, Selling: 0.00
-Id: 22021, Name: Wooden Floor, Selling: 0.00
-Id: 22022, Name: Triangular Wooden Floor, Selling: 0.00
-Id: 22023, Name: Wooden Garage, Selling: 0.00
-Id: 22024, Name: Wooden Hole, Selling: 0.00
-Id: 22025, Name: Triangular Wooden Hole, Selling: 0.00
-Id: 22026, Name: Wooden Pillar, Selling: 0.00
-Id: 22027, Name: Wooden Post, Selling: 0.00
-Id: 22028, Name: Wooden Ramp, Selling: 0.00
-Id: 22029, Name: Wooden Ramp Corner, Selling: 0.00
-Id: 22030, Name: Wooden Ramp Corner, Selling: 0.00
-Id: 22031, Name: Wooden Rampart, Selling: 0.00
-Id: 22032, Name: Wooden Roof, Selling: 0.00
-Id: 22033, Name: Wooden Planter Roof, Selling: 0.00
-Id: 22034, Name: Triangular Wooden Roof, Selling: 0.00
-Id: 22035, Name: Wooden Stairs, Selling: 0.00
-Id: 22036, Name: Wooden Wall, Selling: 0.00
-Id: 22037, Name: Wooden Ramp Wall, Selling: 0.00
-Id: 22038, Name: Wooden Window, Selling: 0.00
+Id: 22020, Name: Wooden Doorway, Selling: 500.00
+Id: 22021, Name: Wooden Floor, Selling: 500.00
+Id: 22022, Name: Triangular Wooden Floor, Selling: 400.00
+Id: 22023, Name: Wooden Garage, Selling: 500.00
+Id: 22024, Name: Wooden Hole, Selling: 500.00
+Id: 22025, Name: Triangular Wooden Hole, Selling: 500.00
+Id: 22026, Name: Wooden Pillar, Selling: 200.00
+Id: 22027, Name: Wooden Post, Selling: 100.00
+Id: 22028, Name: Wooden Ramp, Selling: 500.00
+Id: 22029, Name: Wooden Ramp Corner, Selling: 500.00
+Id: 22030, Name: Wooden Ramp Corner, Selling: 500.00
+Id: 22031, Name: Wooden Rampart, Selling: 500.00
+Id: 22032, Name: Wooden Roof, Selling: 500.00
+Id: 22033, Name: Wooden Planter Roof, Selling: 600.00
+Id: 22034, Name: Triangular Wooden Roof, Selling: 500.00
+Id: 22035, Name: Wooden Stairs, Selling: 500.00
+Id: 22036, Name: Wooden Wall, Selling: 500.00
+Id: 22037, Name: Wooden Ramp Wall, Selling: 300.00
+Id: 22038, Name: Wooden Window, Selling: 500.00
 Id: 22039, Name: Metal Doorway, Selling: 0.00
 Id: 22040, Name: Metal Floor, Selling: 0.00
 Id: 22041, Name: Triangular Metal Floor, Selling: 0.00
@@ -629,8 +628,8 @@ Id: 22133, Name: Magnified Halotech Optic, Selling: 0.00
 Id: 22134, Name: Unmagnified Halotech Sight, Selling: 0.00
 Id: 22135, Name: Jungle Bottoms, Selling: 0.00
 Id: 22136, Name: Jungle Top, Selling: 0.00
-Id: 22137, Name: Recon Binoculars, Selling: 0.00
-Id: 22138, Name: Binoculars, Selling: 0.00
+Id: 22137, Name: Recon Binoculars, Selling: 200.00
+Id: 22138, Name: Binoculars, Selling: 200.00
 Id: 22139, Name: Widowmaker Rangefinder, Selling: 0.00
 Id: 22140, Name: Reinforced 2x2 Gate, Selling: 0.00
 Id: 22141, Name: Reinforced 4x2 Gate, Selling: 0.00
@@ -638,21 +637,21 @@ Id: 22142, Name: Reinforced 5x5 Hangar Door, Selling: 0.00
 Id: 22143, Name: Mining Charge, Selling: 0.00
 Id: 22144, Name: Large Safe, Selling: 0.00
 Id: 22145, Name: Safe, Selling: 0.00
-Id: 22146, Name: Wooden Crate, Selling: 0.00
-Id: 22147, Name: Industrial Wooden Crate, Selling: 0.00
-Id: 22148, Name: Metal Crate, Selling: 0.00
-Id: 22149, Name: Metal Crate, Selling: 0.00
-Id: 22150, Name: Metal Crate, Selling: 0.00
-Id: 22151, Name: Metal Crate, Selling: 0.00
-Id: 22152, Name: Metal Crate, Selling: 0.00
-Id: 22153, Name: Metal Crate, Selling: 0.00
-Id: 22154, Name: Industrial Metal Crate, Selling: 0.00
-Id: 22155, Name: Industrial Metal Crate, Selling: 0.00
-Id: 22156, Name: Industrial Metal Crate, Selling: 0.00
-Id: 22157, Name: Industrial Metal Crate, Selling: 0.00
-Id: 22158, Name: Industrial Metal Crate, Selling: 0.00
-Id: 22159, Name: Industrial Metal Crate, Selling: 0.00
-Id: 22162, Name: Generator, Selling: 0.00
+Id: 22146, Name: Wooden Crate, Selling: 400.00
+Id: 22147, Name: Industrial Wooden Crate, Selling: 750.00
+Id: 22148, Name: Metal Crate, Selling: 1500.00
+Id: 22149, Name: Metal Crate, Selling: 150.00
+Id: 22150, Name: Metal Crate, Selling: 1500.00
+Id: 22151, Name: Metal Crate, Selling: 1500.00
+Id: 22152, Name: Metal Crate, Selling: 1500.00
+Id: 22153, Name: Metal Crate, Selling: 1500.00
+Id: 22154, Name: Industrial Metal Crate, Selling: 3000.00
+Id: 22155, Name: Industrial Metal Crate, Selling: 3000.00
+Id: 22156, Name: Industrial Metal Crate, Selling: 3000.00
+Id: 22157, Name: Industrial Metal Crate, Selling: 3000.00
+Id: 22158, Name: Industrial Metal Crate, Selling: 3000.00
+Id: 22159, Name: Industrial Metal Crate, Selling: 3000.00
+Id: 22162, Name: Generator, Selling: 1500.00
 Id: 22163, Name: Sentry Turret, Selling: 0.00
 Id: 22164, Name: Wireless Sentry Turret, Selling: 0.00
 Id: 22165, Name: Sentry Machine Gun, Selling: 0.00
@@ -699,17 +698,17 @@ Id: 22205, Name: Conkrete Drop, Selling: 0.00
 Id: 22206, Name: Post Package, Selling: 0.00
 Id: 22207, Name: Large Post Package, Selling: 0.00
 Id: 22208, Name: Worm, Selling: 0.00
-Id: 22209, Name: Cobra FMJ Mag, Selling: 0.00
+Id: 22209, Name: Cobra FMJ Mag, Selling: 100.00
 Id: 22210, Name: Cobra FMJ Box, Selling: 0.00
-Id: 22211, Name: Cobra, Selling: 0.00
+Id: 22211, Name: Cobra, Selling: 1000.00
 Id: 22212, Name: Cobra Clutch Mods, Selling: 0.00
 Id: 22213, Name: Cobra Brace Mods, Selling: 0.00
-Id: 22214, Name: Cobra SD, Selling: 0.00
+Id: 22214, Name: Cobra SD, Selling: 1400.00
 Id: 22215, Name: Patriot Baseline Mods, Selling: 0.00
 Id: 22216, Name: Patriot Expert Mods, Selling: 0.00
-Id: 22217, Name: Magnum FMJ Mag, Selling: 0.00
-Id: 22218, Name: Patriot, Selling: 0.00
-Id: 22219, Name: Patriot SD, Selling: 0.00
+Id: 22217, Name: Magnum FMJ Mag, Selling: 150.00
+Id: 22218, Name: Patriot, Selling: 2000.00
+Id: 22219, Name: Patriot SD, Selling: 2400.00
 Id: 22220, Name: Grenade Fuse Box, Selling: 0.00
 Id: 22221, Name: Dirty Shirt, Selling: 0.00
 Id: 22222, Name: Dirty Shirt, Selling: 0.00
@@ -726,8 +725,8 @@ Id: 22232, Name: Contraband Package, Selling: 0.00
 Id: 22233, Name: MRE, Selling: 0.00
 Id: 22234, Name: Stack Of Gunpowder, Selling: 0.00
 Id: 22235, Name: Cobra Clutch Mods, Selling: 0.00
-Id: 22236, Name: Desert Cobra, Selling: 0.00
-Id: 22237, Name: Desert Cobra SD, Selling: 0.00
+Id: 22236, Name: Desert Cobra, Selling: 3067.00
+Id: 22237, Name: Desert Cobra SD, Selling: 3467.00
 Id: 22238, Name: King Cobra, Selling: 0.00
 Id: 22239, Name: Apple Juice, Selling: 0.00
 Id: 22240, Name: Orange Juice, Selling: 0.00
@@ -813,8 +812,8 @@ Id: 22320, Name: Varlet Pistol, Selling: 0.00
 Id: 22321, Name: Millenary, Selling: 0.00
 Id: 22322, Name: Retro Eagle, Selling: 0.00
 Id: 22323, Name: Retro Eagle SD, Selling: 0.00
-Id: 22324, Name: Wild Eagle, Selling: 0.00
-Id: 22325, Name: Wild Eagle SD, Selling: 0.00
+Id: 22324, Name: Wild Eagle, Selling: 4000.00
+Id: 22325, Name: Wild Eagle SD, Selling: 4400.00
 Id: 22326, Name: Wall Cagelight, Selling: 0.00
 Id: 22327, Name: Wall Light, Selling: 0.00
 Id: 22328, Name: Industrial Glue, Selling: 0.00
@@ -865,12 +864,12 @@ Id: 22374, Name: Musket Gold Ball, Selling: 0.00
 Id: 22375, Name: Snapback, Selling: 0.00
 Id: 22376, Name: Snapback SD, Selling: 0.00
 Id: 22377, Name: Claim Pod, Selling: 0.00
-Id: 22378, Name: Rattlesnake, Selling: 0.00
+Id: 22378, Name: Rattlesnake, Selling: 3000.00
 Id: 22379, Name: Damaged Claim Pod, Selling: 0.00
 Id: 22380, Name: Viper AP Drum, Selling: 0.00
-Id: 22381, Name: Viper FMJ Drum, Selling: 0.00
+Id: 22381, Name: Viper FMJ Drum, Selling: 300.00
 Id: 22382, Name: Viper SP Drum, Selling: 0.00
-Id: 22383, Name: Compact Silencer Kit, Selling: 0.00
+Id: 22383, Name: Compact Silencer Kit, Selling: 400.00
 Id: 22384, Name: Empty Drum Mags, Selling: 0.00
 Id: 22385, Name: Casings, Selling: 0.00
 Id: 22386, Name: Stack Of Casings, Selling: 0.00
@@ -884,7 +883,7 @@ Id: 22393, Name: Planter, Selling: 0.00
 Id: 22394, Name: Stack Of Fertilizer, Selling: 0.00
 Id: 22395, Name: Shotgun Ammo Box, Selling: 0.00
 Id: 22396, Name: Shotgun Ammo Crate, Selling: 0.00
-Id: 22397, Name: Shotgun Clip, Selling: 0.00
+Id: 22397, Name: Shotgun Clip, Selling: 100.00
 Id: 22398, Name: Attrition Clip, Selling: 0.00
 Id: 22399, Name: Knockdown, Selling: 0.00
 Id: 22400, Name: Knockback, Selling: 0.00
@@ -905,8 +904,8 @@ Id: 22414, Name: Titanium Block, Selling: 0.00
 Id: 22415, Name: Titanium Keystone, Selling: 0.00
 Id: 22416, Name: Golem Night Mods, Selling: 0.00
 Id: 22417, Name: Golem Target Mods, Selling: 0.00
-Id: 22418, Name: Golem, Selling: 0.00
-Id: 22419, Name: Golem, Selling: 0.00
+Id: 22418, Name: Golem, Selling: 1000.00
+Id: 22419, Name: Golem, Selling: 1000.00
 Id: 22420, Name: Golem Upper Assembly, Selling: 0.00
 Id: 22421, Name: Golem Upper Assembly, Selling: 0.00
 Id: 22422, Name: Golem Lower Assembly, Selling: 0.00
