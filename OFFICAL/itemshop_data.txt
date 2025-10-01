@@ -113,7 +113,7 @@ Id: 118, Name: PDW Iron Sights, Selling: 25.00
 Id: 119, Name: Low Caliber Ranger Ammunition Box, Selling: 0.00
 Id: 120, Name: Kitchen Knife, Selling: 100.00
 Id: 121, Name: Military Knife, Selling: 100.00
-Id: 122, Name: Zubeknakov, Selling: 0.00
+Id: 122, Name: Zubeknakov, Selling: 10000.00
 Id: 123, Name: Ranger Magazine, Selling: 150.00
 Id: 124, Name: Zubeknakov Iron Sights, Selling: 25.00
 Id: 125, Name: Ranger Drum, Selling: 250.00
