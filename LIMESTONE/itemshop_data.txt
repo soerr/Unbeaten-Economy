@@ -138,7 +138,7 @@ Id: 21638, Name: Flashbang, Selling: 100.00
 Id: 21639, Name: Banger Grenade, Selling: 0.00
 Id: 21640, Name: Baseball Bat, Selling: 0.00
 Id: 21641, Name: Mangled Bat, Selling: 0.00
-Id: 21642, Name: Welding Torch, Selling: 0.00
+Id: 21642, Name: Welding Torch, Selling: 250.00
 Id: 21643, Name: Axe, Selling: 200.00
 Id: 21644, Name: Crowbar, Selling: 200.00
 Id: 21645, Name: Entrenching Tool, Selling: 200.00
@@ -193,7 +193,7 @@ Id: 21693, Name: Sportshot, Selling: 0.00
 Id: 21694, Name: Regulator Barrel, Selling: 0.00
 Id: 21695, Name: Sportshot SD, Selling: 0.00
 Id: 21696, Name: Gas Regulator, Selling: 0.00
-Id: 21697, Name: Varlet FMJ Mag, Selling: 0.00
+Id: 21697, Name: Varlet FMJ Mag, Selling: 100.00
 Id: 21698, Name: Varlet Baseline, Selling: 0.00
 Id: 21699, Name: Varlet Knight Mods, Selling: 0.00
 Id: 21700, Name: Varlet Raven Mods, Selling: 0.00
@@ -228,7 +228,7 @@ Id: 21728, Name: Military FRAG Drum, Selling: 0.00
 Id: 21729, Name: Viper FMJ Mag, Selling: 100.00
 Id: 21730, Name: Viper SP Mag, Selling: 0.00
 Id: 21731, Name: Viper AP Mag, Selling: 0.00
-Id: 21732, Name: Heavy FMJ Mag, Selling: 0.00
+Id: 21732, Name: Heavy FMJ Mag, Selling: 100.00
 Id: 21733, Name: Heavy RT Mag, Selling: 0.00
 Id: 21734, Name: Heavy BLK Mag, Selling: 0.00
 Id: 21735, Name: Cable Reel, Selling: 0.00
@@ -405,17 +405,17 @@ Id: 21906, Name: Rucksack, Selling: 3000.00
 Id: 21907, Name: Military Helmet, Selling: 400.00
 Id: 21908, Name: Military Helmet, Selling: 400.00
 Id: 21909, Name: Military Helmet, Selling: 400.00
-Id: 21910, Name: Tactical Helmet, Selling: 0.00
-Id: 21911, Name: Tactical Helmet, Selling: 0.00
-Id: 21912, Name: Tactical Helmet, Selling: 0.00
+Id: 21910, Name: Tactical Helmet, Selling: 800.00
+Id: 21911, Name: Tactical Helmet, Selling: 800.00
+Id: 21912, Name: Tactical Helmet, Selling: 800.00
 Id: 21913, Name: Heavy Helmet, Selling: 1000.00
 Id: 21914, Name: Heavy Helmet, Selling: 1000.00
 Id: 21915, Name: Heavy Helmet, Selling: 1000.00
 Id: 21916, Name: Tactical Rig, Selling: 400.00
-Id: 21917, Name: Loader Tactical Rig, Selling: 0.00
-Id: 21918, Name: Cargo Tactical Rig, Selling: 0.00
+Id: 21917, Name: Loader Tactical Rig, Selling: 1400.00
+Id: 21918, Name: Cargo Tactical Rig, Selling: 1400.00
 Id: 21919, Name: Tactical Rig, Selling: 400.00
-Id: 21920, Name: Loader Tactical Rig, Selling: 0.00
+Id: 21920, Name: Loader Tactical Rig, Selling: 400.00
 Id: 21921, Name: Cargo Tactical Rig, Selling: 0.00
 Id: 21922, Name: Tactical Rig, Selling: 400.00
 Id: 21923, Name: Loader Tactical Rig, Selling: 0.00
@@ -503,14 +503,14 @@ Id: 22008, Name: Metal Briefcase, Selling: 0.00
 Id: 22009, Name: Fire Extinguisher, Selling: 0.00
 Id: 22010, Name: Mannequin, Selling: 0.00
 Id: 22011, Name: Propane Tank, Selling: 0.00
-Id: 22012, Name: Red Syringe, Selling: 0.00
-Id: 22013, Name: Green Syringe, Selling: 0.00
-Id: 22014, Name: Blue Syringe, Selling: 0.00
-Id: 22015, Name: Yellow Syringe, Selling: 0.00
-Id: 22016, Name: Magenta Syringe, Selling: 0.00
-Id: 22017, Name: Cyan Syringe, Selling: 0.00
-Id: 22018, Name: White Syringe, Selling: 0.00
-Id: 22019, Name: Black Syringe, Selling: 0.00
+Id: 22012, Name: Red Syringe, Selling: 150.00
+Id: 22013, Name: Green Syringe, Selling: 150.00
+Id: 22014, Name: Blue Syringe, Selling: 150.00
+Id: 22015, Name: Yellow Syringe, Selling: 150.00
+Id: 22016, Name: Magenta Syringe, Selling: 150.00
+Id: 22017, Name: Cyan Syringe, Selling: 150.00
+Id: 22018, Name: White Syringe, Selling: 150.00
+Id: 22019, Name: Black Syringe, Selling: 150.00
 Id: 22020, Name: Wooden Doorway, Selling: 500.00
 Id: 22021, Name: Wooden Floor, Selling: 500.00
 Id: 22022, Name: Triangular Wooden Floor, Selling: 400.00
@@ -836,9 +836,9 @@ Id: 22346, Name: Driver Gun, Selling: 0.00
 Id: 22347, Name: Mounted Valkyrie, Selling: 0.00
 Id: 22348, Name: MG Ammo Box, Selling: 0.00
 Id: 22349, Name: HMG Sight, Selling: 0.00
-Id: 22350, Name: Sniper Scope [8x], Selling: 0.00
-Id: 22351, Name: Sniper Scope [4x], Selling: 0.00
-Id: 22352, Name: Chevron Scope, Selling: 0.00
+Id: 22350, Name: Sniper Scope [8x], Selling: 250.00
+Id: 22351, Name: Sniper Scope [4x], Selling: 250.00
+Id: 22352, Name: Chevron Scope, Selling: 250.00
 Id: 22353, Name: Phantom Scope, Selling: 0.00
 Id: 22354, Name: Siege Profile Barrel, Selling: 0.00
 Id: 22355, Name: Attachments Box, Selling: 0.00
@@ -1140,7 +1140,7 @@ Id: 22781, Name: Metal Door [EDITOR], Selling: 0.00
 Id: 22782, Name: Heavy Eagle, Selling: 0.00
 Id: 22783, Name: Pumpjack, Selling: 0.00
 Id: 22784, Name: Bulletproof Glass, Selling: 0.00
-Id: 22785, Name: Bedroll, Selling: 0.00
+Id: 22785, Name: Bedroll, Selling: 250.00
 Id: 22786, Name: Nailgun TT Clip, Selling: 0.00
 Id: 22787, Name: Nail BN Drum, Selling: 0.00
 Id: 22788, Name: Nail TT Drum, Selling: 0.00
