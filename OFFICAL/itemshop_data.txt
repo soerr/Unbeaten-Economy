@@ -273,7 +273,7 @@ Id: 282, Name: Birch Door, Selling: 100.00
 Id: 283, Name: Pine Door, Selling: 100.00
 Id: 284, Name: Jail Door, Selling: 250.00
 Id: 285, Name: Metal Bar, Selling: 25.00
-Id: 286, Name: Vault Door, Selling: 0.00
+Id: 286, Name: Vault Door, Selling: 500.00
 Id: 287, Name: Bars Fortification, Selling: 100.00
 Id: 288, Name: Black Bedroll, Selling: 60.00
 Id: 289, Name: Blue Bedroll, Selling: 60.00
@@ -555,20 +555,20 @@ Id: 1054, Name: $50 Note, Selling: 50.00
 Id: 1055, Name: $100 Note, Selling: 100.00
 Id: 1056, Name: Loonie, Selling: 15.00
 Id: 1057, Name: Toonie, Selling: 15.00
-Id: 1058, Name: Large Maple Plate, Selling: 0.00
-Id: 1059, Name: Small Maple Plate, Selling: 0.00
+Id: 1058, Name: Large Maple Plate, Selling: 100.00
+Id: 1059, Name: Small Maple Plate, Selling: 25.00
 Id: 1060, Name: Large Maple Frame, Selling: 0.00
 Id: 1061, Name: Small Maple Frame, Selling: 0.00
 Id: 1062, Name: Maple Siding, Selling: 15.00
 Id: 1063, Name: Maple Pipe, Selling: 15.00
-Id: 1064, Name: Large Birch Plate, Selling: 0.00
-Id: 1065, Name: Small Birch Plate, Selling: 0.00
+Id: 1064, Name: Large Birch Plate, Selling: 100.00
+Id: 1065, Name: Small Birch Plate, Selling: 25.00
 Id: 1066, Name: Large Birch Frame, Selling: 0.00
 Id: 1067, Name: Small Birch Frame, Selling: 0.00
 Id: 1068, Name: Birch Siding, Selling: 15.00
 Id: 1069, Name: Birch Pipe, Selling: 15.00
-Id: 1070, Name: Large Pine Plate, Selling: 0.00
-Id: 1071, Name: Small Pine Plate, Selling: 0.00
+Id: 1070, Name: Large Pine Plate, Selling: 100.00
+Id: 1071, Name: Small Pine Plate, Selling: 25.00
 Id: 1072, Name: Large Pine Frame, Selling: 0.00
 Id: 1073, Name: Small Pine Frame, Selling: 0.00
 Id: 1074, Name: Pine Siding, Selling: 15.00
@@ -588,8 +588,8 @@ Id: 1087, Name: Pine Doorframe, Selling: 120.00
 Id: 1088, Name: Pine Garageframe, Selling: 100.00
 Id: 1089, Name: Metal Doorframe, Selling: 320.00
 Id: 1090, Name: Metal Garageframe, Selling: 280.00
-Id: 1091, Name: Large Metal Plate, Selling: 0.00
-Id: 1092, Name: Small Metal Plate, Selling: 0.00
+Id: 1091, Name: Large Metal Plate, Selling: 400.00
+Id: 1092, Name: Small Metal Plate, Selling: 10000
 Id: 1093, Name: Metal Siding, Selling: 15.00
 Id: 1094, Name: Metal Pipe, Selling: 15.00
 Id: 1095, Name: Maple Sign, Selling: 60.00
@@ -735,7 +735,7 @@ Id: 1236, Name: Birch Doubledoor, Selling: 240.00
 Id: 1237, Name: Pine Doubledoor, Selling: 240.00
 Id: 1238, Name: Metal Doubledoor, Selling: 600.00
 Id: 1239, Name: Large Slippery Plate, Selling: 0.00
-Id: 1240, Name: Detonator , Selling: 2500.00
+Id: 1240, Name: Detonator, Selling: 2500.00
 Id: 1241, Name: Demolition Charge, Selling: 0.00
 Id: 1242, Name: Makeshift Grenade, Selling: 0.00
 Id: 1243, Name: Cot, Selling: 100.00
@@ -766,7 +766,7 @@ Id: 1267, Name: Triangular Birch Roof, Selling: 200.00
 Id: 1268, Name: Triangular Pine Roof, Selling: 200.00
 Id: 1269, Name: Triangular Metal Roof, Selling: 400.00
 Id: 1270, Name: Gasmask, Selling: 5000.00
-Id: 1271, Name: Filter , Selling: 0.00
+Id: 1271, Name: Filter, Selling: 0.00
 Id: 1272, Name: Blue Flare Sconce, Selling: 100.00
 Id: 1273, Name: Green Flare Sconce, Selling: 100.00
 Id: 1274, Name: Orange Flare Sconce, Selling: 100.00
@@ -946,7 +946,7 @@ Id: 1447, Name: Scalar, Selling: 0.00
 Id: 1448, Name: Scalar Iron Sights, Selling: 25.00
 Id: 1449, Name: Scalar Magazine, Selling: 120.00
 Id: 1450, Name: Vehicle Battery , Selling: 100.00
-Id: 1451, Name: Tire , Selling: 90.00
+Id: 1451, Name: Tire, Selling: 90.00
 Id: 1452, Name: Whole Coconut, Selling: 15.00
 Id: 1453, Name: Split Coconut, Selling: 15.00
 Id: 1454, Name: Black Trunks, Selling: 40.00
@@ -1036,15 +1036,15 @@ Id: 1706, Name: Gingerbread Cookie, Selling: 0.00
 Id: 1707, Name: Ice Crystal, Selling: 0.00
 Id: 1708, Name: Drumstick, Selling: 0.00
 Id: 1764, Name: Housing Planner, Selling: 400.00
-Id: 1900, Name: Stacked Maple Logs, Selling: 0.00
-Id: 1901, Name: Stacked Birch Logs, Selling: 0.00
-Id: 1902, Name: Stacked Pine Logs, Selling: 0.00
-Id: 1903, Name: Stacked Maple Planks, Selling: 0.00
-Id: 1904, Name: Stacked Birch Planks, Selling: 0.00
-Id: 1905, Name: Stacked Pine Planks, Selling: 0.00
-Id: 1906, Name: Stacked Maple Sticks, Selling: 0.00
-Id: 1907, Name: Stacked Birch Sticks, Selling: 0.00
-Id: 1908, Name: Stacked Pine Sticks, Selling: 0.00
+Id: 1900, Name: Stacked Maple Logs, Selling: 300.00
+Id: 1901, Name: Stacked Birch Logs, Selling: 300.00
+Id: 1902, Name: Stacked Pine Logs, Selling: 300.00
+Id: 1903, Name: Stacked Maple Planks, Selling: 180.00
+Id: 1904, Name: Stacked Birch Planks, Selling: 180.00
+Id: 1905, Name: Stacked Pine Planks, Selling: 180.00
+Id: 1906, Name: Stacked Maple Sticks, Selling: 60.00
+Id: 1907, Name: Stacked Birch Sticks, Selling: 180.00
+Id: 1908, Name: Stacked Pine Sticks, Selling: 180.00
 Id: 1909, Name: Stacked Metal Scraps, Selling: 500.00
 Id: 1910, Name: Stacked Metal Sheets, Selling: 1200.00
 Id: 1911, Name: Stacked Metal Bars, Selling: 250.00
