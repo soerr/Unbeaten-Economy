@@ -211,8 +211,8 @@ Id: 51233, Name: Tonijn, Selling: 600.00
 Id: 51234, Name: Tonijn-SP, Selling: 650.00
 Id: 51235, Name: Cryogen-12, Selling: 2000.00
 Id: 51236, Name: Cryogen-12-SP, Selling: 2500.00
-Id: 51237, Name: RSS-03, Selling: 0.00
-Id: 51238, Name: RSS-03-SP, Selling: 0.00
+Id: 51237, Name: RSS-03, Selling: 2500.00
+Id: 51238, Name: RSS-03-SP, Selling: 3000.00
 Id: 51239, Name: Noses-12, Selling: 0.00
 Id: 51240, Name: Bluntforce-12, Selling: 350.00
 Id: 51241, Name: Bluntforce-12-SP, Selling: 500.00
@@ -287,7 +287,7 @@ Id: 51317, Name: Mortar Shell, Selling: 0.00
 Id: 51318, Name: Throwing Disk, Selling: 0.00
 Id: 51319, Name: Throwing Landmine, Selling: 0.00
 Id: 51320, Name: Brick, Selling: 0.00
-Id: 51321, Name: Sundoor, Selling: 0.00
+Id: 51321, Name: Sundoor, Selling: 3000.00
 Id: 51322, Name: Tempest, Selling: 6000.00
 Id: 51323, Name: HE Shell, Selling: 0.00
 Id: 51324, Name: Hera, Selling: 0.00
@@ -313,7 +313,7 @@ Id: 51343, Name: Dual Iridium Tantos, Selling: 0.00
 Id: 51344, Name: Dual M1911-SP "Accelerators", Selling: 0.00
 Id: 51345, Name: Dual Iridium Tanto-SPs, Selling: 0.00
 Id: 51346, Name: Tempest-SP, Selling: 6500.00
-Id: 51347, Name: Sundoor-SP, Selling: 500.00
+Id: 51347, Name: Sundoor-SP, Selling: 2500.00
 Id: 51348, Name: Midnight Blade, Selling: 0.00
 Id: 51349, Name: Ballistic Shield, Selling: 0.00
 Id: 51351, Name: 3D Printed Vertical Grip (White), Selling: 100.00
@@ -662,7 +662,7 @@ Id: 51914, Name: HMG Box, Selling: 0.00
 Id: 51915, Name: LMG Drum, Selling: 400.00
 Id: 51916, Name: SABOT Slug, Selling: 0.00
 Id: 51917, Name: Crown Bullet, Selling: 0.00
-Id: 51918, Name: Baffle Kit, Selling: 0.00
+Id: 51918, Name: Baffle Kit, Selling: 500.00
 Id: 51919, Name: Midnight Keycard, Selling: 0.00
 Id: 51920, Name: Black Construction Top, Selling: 0.00
 Id: 51921, Name: White Construction Top, Selling: 0.00
@@ -950,8 +950,8 @@ Id: 52230, Name: Afterparty, Selling: 0.00
 Id: 52231, Name: Nebulobby, Selling: 0.00
 Id: 52232, Name: Tekno, Selling: 0.00
 Id: 52235, Name: RAC-48, Selling: 1500.00
-Id: 52237, Name: Empay, Selling: 2000.00
-Id: 52239, Name: Esdee: Selling: 2000.00
+Id: 52237, Name: Empay, Selling: 3500.00
+Id: 52239, Name: Esdee, Selling: 5000.00
 Id: 52240, Name: Ashley, Selling: 0.00
 Id: 52242, Name: Walker Monitoring Conversion Kit, Selling: 0.00
 Id: 52244, Name: Duzey-SP, Selling: 0.00
@@ -986,8 +986,8 @@ Id: 52277, Name: Tukavtomat, Selling: 0.00
 Id: 52278, Name: Spetsnaz, Selling: 0.00
 Id: 52282, Name: Literally Just Three Lootys, Selling: 0.00
 Id: 52284, Name: Dual Intragats, Selling: 0.00
-Id: 52286, Name: Intragat, Selling: 0.00
-Id: 52287, Name: Intragat-SP, Selling: 0.00
+Id: 52286, Name: Intragat, Selling: 2000.00
+Id: 52287, Name: Intragat-SP, Selling: 2500.00
 Id: 52288, Name: Dual Intragat-SPs, Selling: 0.00
 Id: 52290, Name: Plushie - Dweller, Selling: 0.00
 Id: 52291, Name: Plushie - Clown, Selling: 0.00
@@ -1054,8 +1054,8 @@ Id: 52485, Name: Plush Bear, Selling: 0.00
 Id: 52491, Name: Firestorm, Selling: 0.00
 Id: 52493, Name: Anvil Balaclava, Selling: 300.00
 Id: 52530, Name: Exakt, Selling: 1250.00
-Id: 52532, Name: Pig, Selling: 0.00
-Id: 52536, Name: Shark, Selling: 0.00
+Id: 52532, Name: Pig, Selling: 3000.00
+Id: 52536, Name: Shark, Selling: 4000.00
 Id: 55001, Name: Pile of Logs, Selling: 0.00
 Id: 55002, Name: Pile of Metal Ingots, Selling: 4500.00
 Id: 55003, Name: Pile of Fabric, Selling: 0.00
@@ -1066,3 +1066,4 @@ Id: 55007, Name: Box Of Adhesive Compound, Selling: 0.00
 Id: 55008, Name: Box Of Refined Oil, Selling: 1200.00
 Id: 55009, Name: Stack Of High Tech Fuse, Selling: 0.00
 Id: 55010, Name: Box Of Nitroglycerin, Selling: 0.00
+Id: 52441, Name: Strelok Intragat, Selling: 3000.00
